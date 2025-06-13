@@ -1,0 +1,14 @@
+version: '3.9'
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: ruby-asn-app
+    working_dir: /usr/src/app
+    command: ["./asn"]
+    volumes:
+      - ./all:/usr/src/app/all
+      - ./companies:/usr/src/app/companies
+      - ./index:/usr/src/app/index
