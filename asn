@@ -173,6 +173,10 @@ companies = {
   "bt"=>{
     "glob"=>"british telecommunications",
     "asn"=>{}
+  },
+  "cdn77"=>{
+    "glob"=>"datacamp limited",
+    "asn"=>{}
   }
 }
 
