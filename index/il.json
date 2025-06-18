@@ -1,1722 +1,2052 @@
 [
   {
-    "name": "Cellcom Fixed Line Communication L.P.",
-    "asn": "AS1680",
-    "count": "1,596,160"
-  },
-  {
-    "name": "Bezeq International-Ltd",
-    "asn": "AS8551",
-    "count": "1,551,872"
-  },
-  {
     "name": "Partner Communications Ltd.",
-    "asn": "AS9116",
-    "count": "1,464,320"
+    "asn": "AS12400",
+    "count": 2146816
+  },
+  {
+    "name": "Cellcom Fixed Line Communication L.P",
+    "asn": "AS1680",
+    "count": 1577472
+  },
+  {
+    "name": "Bezeq International Ltd.",
+    "asn": "AS8551",
+    "count": 1497088
   },
   {
     "name": "IUCC - Israel InterUniversity Computation Center",
     "asn": "AS378",
-    "count": "1,164,800"
-  },
-  {
-    "name": "Partner Communications Ltd.",
-    "asn": "AS12400",
-    "count": "701,184"
+    "count": 1164800
   },
   {
     "name": "Hot-Net internet services Ltd.",
     "asn": "AS12849",
-    "count": "417,792"
-  },
-  {
-    "name": "Gilat Satcom",
-    "asn": "AS12491",
-    "count": "89,088"
-  },
-  {
-    "name": "XFone 018 Ltd",
-    "asn": "AS47956",
-    "count": "68,608"
+    "count": 419584
   },
   {
     "name": "\"Bezeq\"- THE ISRAEL TELECOMMUNICATION CORP. LTD.",
     "asn": "AS6810",
-    "count": "66,560"
+    "count": 156672
   },
   {
-    "name": "Local Authorities Data Processing Center Company Ltd Corp",
-    "asn": "AS25125",
-    "count": "65,536"
+    "name": "Radware Ltd",
+    "asn": "AS198949",
+    "count": 96000
   },
   {
-    "name": "E-Gov - Tehila Project - Prime Minister Office's",
+    "name": "XFone 018 Ltd",
+    "asn": "AS47956",
+    "count": 68096
+  },
+  {
+    "name": "Government ICT Authority - Israel",
     "asn": "AS8867",
-    "count": "65,536"
+    "count": 65536
+  },
+  {
+    "name": "Gilat Telecom Ltd.",
+    "asn": "AS12491",
+    "count": 55552
   },
   {
     "name": "Internet Binat Ltd",
     "asn": "AS25003",
-    "count": "49,152"
+    "count": 49152
+  },
+  {
+    "name": "CATO NETWORKS LTD",
+    "asn": "AS13150",
+    "count": 49152
   },
   {
     "name": "Internet Rimon LTD",
     "asn": "AS42925",
-    "count": "44,032"
+    "count": 46336
   },
   {
-    "name": "Geekyworks IT Solutions Pvt Ltd",
-    "asn": "AS203999",
-    "count": "38,912"
+    "name": "One City IT Ltd.",
+    "asn": "AS25125",
+    "count": 42752
   },
   {
     "name": "Triple C Cloud Computing Ltd.",
     "asn": "AS50463",
-    "count": "36,352"
-  },
-  {
-    "name": "ECI Telecom Ltd",
-    "asn": "AS30866",
-    "count": "33,024"
+    "count": 37120
   },
   {
     "name": "ITC NG ltd",
     "asn": "AS202940",
-    "count": "28,928"
-  },
-  {
-    "name": "Gulfsat Autonomous System",
-    "asn": "AS21042",
-    "count": "24,832"
-  },
-  {
-    "name": "Teledata, Ghana",
-    "asn": "AS35091",
-    "count": "24,576"
-  },
-  {
-    "name": "SECURITYDAM LTD",
-    "asn": "AS198949",
-    "count": "22,272"
-  },
-  {
-    "name": "DiViNetworks LTD.",
-    "asn": "AS57731",
-    "count": "18,176"
+    "count": 35840
   },
   {
     "name": "Pelephone Communications Ltd.",
     "asn": "AS16116",
-    "count": "16,384"
-  },
-  {
-    "name": "PurePeak Ltd.",
-    "asn": "AS20645",
-    "count": "16,384"
-  },
-  {
-    "name": "Autonomous System number for Cyber Space,",
-    "asn": "AS20598",
-    "count": "14,848"
-  },
-  {
-    "name": "Autonomous System Number for RWANDATEL, Rwanda",
-    "asn": "AS21174",
-    "count": "12,288"
-  },
-  {
-    "name": "Xglobe Online LTD",
-    "asn": "AS199391",
-    "count": "12,032"
-  },
-  {
-    "name": "Interspace Ltd.",
-    "asn": "AS21350",
-    "count": "11,776"
+    "count": 28928
   },
   {
     "name": "Radware Ltd",
     "asn": "AS48851",
-    "count": "10,496"
+    "count": 25344
   },
   {
-    "name": "Telzar 019 International Telecommunications Services LTD",
-    "asn": "AS51825",
-    "count": "10,240"
+    "name": "ECI Telecom Ltd",
+    "asn": "AS30866",
+    "count": 24832
   },
   {
-    "name": "HOT Mobile Ltd.",
-    "asn": "AS21450",
-    "count": "9,216"
-  },
-  {
-    "name": "Check Point Software Technologies LTD",
-    "asn": "AS25046",
-    "count": "8,192"
-  },
-  {
-    "name": "Amantech ISP LTD",
-    "asn": "AS47997",
-    "count": "8,192"
-  },
-  {
-    "name": "Cav Systems LTD",
-    "asn": "AS51082",
-    "count": "7,168"
-  },
-  {
-    "name": "HASHIKMA NGN International Communications 015LTD",
-    "asn": "AS199270",
-    "count": "7,168"
+    "name": "Teledata, Ghana",
+    "asn": "AS35091",
+    "count": 24576
   },
   {
     "name": "099 PRIMO COMMUNICATIONS LTD",
     "asn": "AS8948",
-    "count": "7,168"
+    "count": 23296
   },
   {
     "name": "O.M.C. COMPUTERS & COMMUNICATIONS LTD",
     "asn": "AS44709",
-    "count": "6,912"
+    "count": 22528
+  },
+  {
+    "name": "Exelera Telecom Ltd",
+    "asn": "AS208905",
+    "count": 22528
+  },
+  {
+    "name": "Autonomous System number for Cyber Space,",
+    "asn": "AS20598",
+    "count": 15616
+  },
+  {
+    "name": "PurePeak Ltd.",
+    "asn": "AS20645",
+    "count": 14336
+  },
+  {
+    "name": "Telzar 019 International Telecommunications Services LTD",
+    "asn": "AS51825",
+    "count": 13312
+  },
+  {
+    "name": "K.M.A ADVANCED TECHNOLOGIES LTD",
+    "asn": "AS212616",
+    "count": 12288
+  },
+  {
+    "name": "XGlobe 199391",
+    "asn": "AS199391",
+    "count": 10496
+  },
+  {
+    "name": "Interspace Ltd.",
+    "asn": "AS21350",
+    "count": 9984
+  },
+  {
+    "name": "Rachamim Aviel Twito",
+    "asn": "AS35758",
+    "count": 8192
+  },
+  {
+    "name": "Check Point Software Technologies LTD",
+    "asn": "AS25046",
+    "count": 8192
+  },
+  {
+    "name": "CLOUD LEASE Ltd",
+    "asn": "AS206446",
+    "count": 8192
+  },
+  {
+    "name": "Bynet business",
+    "asn": "AS205209",
+    "count": 7680
   },
   {
     "name": "Interhost Communication Solutions Ltd.",
     "asn": "AS61102",
-    "count": "6,656"
-  },
-  {
-    "name": "Rachamim Aviel Twito trading as A.B INTERNET SOLUTIONS",
-    "asn": "AS35758",
-    "count": "6,656"
-  },
-  {
-    "name": "NETSTYLE A. LTD",
-    "asn": "AS199267",
-    "count": "5,376"
-  },
-  {
-    "name": "Aridor Communications Ltd",
-    "asn": "AS29165",
-    "count": "5,120"
-  },
-  {
-    "name": "Eli Melamed IT",
-    "asn": "AS35435",
-    "count": "4,608"
-  },
-  {
-    "name": "Partner Communications Ltd.",
-    "asn": "AS5486",
-    "count": "4,096"
-  },
-  {
-    "name": "Golan Telecom Ltd.",
-    "asn": "AS198484",
-    "count": "4,096"
-  },
-  {
-    "name": "Safelines Ltd.",
-    "asn": "AS20623",
-    "count": "4,096"
-  },
-  {
-    "name": "Mofet Institute",
-    "asn": "AS3288",
-    "count": "4,096"
-  },
-  {
-    "name": "Globes",
-    "asn": "AS20800",
-    "count": "4,096"
+    "count": 6912
   },
   {
     "name": "SPOT-NET LTD",
     "asn": "AS41714",
-    "count": "3,840"
+    "count": 6912
+  },
+  {
+    "name": "Aridor Communications Ltd",
+    "asn": "AS29165",
+    "count": 5120
+  },
+  {
+    "name": "Check Point Software Technologies Ltd",
+    "asn": "AS213176",
+    "count": 5120
   },
   {
     "name": "Meta Networks Ltd",
     "asn": "AS43181",
-    "count": "3,840"
+    "count": 4864
   },
   {
-    "name": "computer E.D.P LTD",
-    "asn": "AS56596",
-    "count": "3,584"
-  },
-  {
-    "name": "Bezeq International-Ltd",
-    "asn": "AS8203",
-    "count": "3,072"
-  },
-  {
-    "name": "Israel Internet Association",
-    "asn": "AS31391",
-    "count": "3,072"
-  },
-  {
-    "name": "Taboola.com ltd",
-    "asn": "AS200478",
-    "count": "3,072"
-  },
-  {
-    "name": "SPOT-NET LTD",
-    "asn": "AS57259",
-    "count": "3,072"
-  },
-  {
-    "name": "The Israel Electric Corporation Limited",
-    "asn": "AS5540",
-    "count": "3,072"
-  },
-  {
-    "name": "Rachamim Aviel Twito trading as A.B INTERNET SOLUTIONS",
-    "asn": "AS42994",
-    "count": "3,072"
-  },
-  {
-    "name": "Coolnet Communications ltd",
-    "asn": "AS60636",
-    "count": "3,072"
-  },
-  {
-    "name": "Malam Team Ltd.",
-    "asn": "AS43842",
-    "count": "2,560"
-  },
-  {
-    "name": "uPress Inc",
-    "asn": "AS209622",
-    "count": "2,304"
-  },
-  {
-    "name": "MX1 Ltd.",
-    "asn": "AS42475",
-    "count": "2,304"
-  },
-  {
-    "name": "Motorola Solutions Israel Ltd",
-    "asn": "AS35532",
-    "count": "2,304"
-  },
-  {
-    "name": "Kobi Yacov Shmueli",
-    "asn": "AS42316",
-    "count": "2,048"
-  },
-  {
-    "name": "mars 019 Telecom LTD",
-    "asn": "AS57862",
-    "count": "2,048"
-  },
-  {
-    "name": "QUICK-LINKS",
-    "asn": "AS57727",
-    "count": "2,048"
-  },
-  {
-    "name": "LiveDns Ltd",
-    "asn": "AS201857",
-    "count": "2,048"
-  },
-  {
-    "name": "Ormat Systems Ltd",
-    "asn": "AS50365",
-    "count": "2,048"
+    "name": "Eli Melamed",
+    "asn": "AS35435",
+    "count": 4864
   },
   {
     "name": "LB Annatel LTD",
     "asn": "AS204814",
-    "count": "2,048"
+    "count": 4352
   },
   {
-    "name": "Joint Israel",
-    "asn": "AS49391",
-    "count": "2,048"
+    "name": "Partner Communications Ltd.",
+    "asn": "AS5486",
+    "count": 4096
   },
   {
-    "name": "Teletel Communication Channels Ltd",
-    "asn": "AS13074",
-    "count": "2,048"
+    "name": "Mofet Institute",
+    "asn": "AS3288",
+    "count": 4096
   },
   {
-    "name": "Beezz Communication Solutions ltd",
-    "asn": "AS42254",
-    "count": "2,048"
+    "name": "HOT Mobile Ltd.",
+    "asn": "AS21450",
+    "count": 4096
   },
   {
-    "name": "Y-tech ICT Ltd.",
-    "asn": "AS208611",
-    "count": "2,048"
+    "name": "DREAM VPS LTD",
+    "asn": "AS213038",
+    "count": 4096
   },
   {
-    "name": "Tamares Telecom",
-    "asn": "AS208905",
-    "count": "2,048"
+    "name": "Safelines Ltd.",
+    "asn": "AS20623",
+    "count": 4096
   },
   {
-    "name": "AMDOCS (ISRAEL) LTD",
-    "asn": "AS34380",
-    "count": "2,048"
-  },
-  {
-    "name": "Taboola.com ltd",
-    "asn": "AS206614",
-    "count": "1,792"
-  },
-  {
-    "name": "Adgar Investments and Development Ltd",
-    "asn": "AS39213",
-    "count": "1,792"
-  },
-  {
-    "name": "PAYONEER-RESEARCH-AND-DEVELOPMENT-LTD",
-    "asn": "AS50079",
-    "count": "1,536"
-  },
-  {
-    "name": "O.M.C. COMPUTERS & COMMUNICATIONS LTD",
-    "asn": "AS56378",
-    "count": "1,536"
-  },
-  {
-    "name": "BINAT BUSINESS LTD",
-    "asn": "AS205209",
-    "count": "1,536"
-  },
-  {
-    "name": "Med-1 IC-1 (1999) LTD",
-    "asn": "AS204257",
-    "count": "1,280"
-  },
-  {
-    "name": "JETSERVER LTD",
-    "asn": "AS201660",
-    "count": "1,280"
-  },
-  {
-    "name": "Mavenir Ltd",
-    "asn": "AS16158",
-    "count": "1,280"
-  },
-  {
-    "name": "ALLEGRONET LTD",
-    "asn": "AS50440",
-    "count": "1,280"
-  },
-  {
-    "name": "Expim Ltd",
-    "asn": "AS201415",
-    "count": "1,280"
-  },
-  {
-    "name": "Safecharge ltd",
-    "asn": "AS33802",
-    "count": "1,280"
-  },
-  {
-    "name": "Elbit Systems LTD.",
-    "asn": "AS205870",
-    "count": "1,024"
-  },
-  {
-    "name": "Isam Awadallah trading as 3samnet",
-    "asn": "AS200742",
-    "count": "1,024"
-  },
-  {
-    "name": "Flash Networks Ltd.",
-    "asn": "AS57721",
-    "count": "1,024"
-  },
-  {
-    "name": "Neway Technologies LTD",
-    "asn": "AS206056",
-    "count": "1,024"
-  },
-  {
-    "name": "Yediot Information Technologies ltd",
-    "asn": "AS12619",
-    "count": "1,024"
-  },
-  {
-    "name": "Wix.com Ltd.",
-    "asn": "AS58182",
-    "count": "1,024"
-  },
-  {
-    "name": "Amit Net Telecom LTD",
-    "asn": "AS60886",
-    "count": "1,024"
-  },
-  {
-    "name": "Evgeni Barabash trading as Active Cloud",
-    "asn": "AS206446",
-    "count": "1,024"
-  },
-  {
-    "name": "Bank Leumi le-Israel B.M.",
-    "asn": "AS198114",
-    "count": "1,024"
-  },
-  {
-    "name": "Playtika LTD",
-    "asn": "AS61149",
-    "count": "1,024"
-  },
-  {
-    "name": "Maccabi Health Care Services (HMO)",
-    "asn": "AS44282",
-    "count": "1,024"
-  },
-  {
-    "name": "Global Cloud Ltd",
-    "asn": "AS61365",
-    "count": "1,024"
-  },
-  {
-    "name": "Zim Integrated Shipping Services LTD",
-    "asn": "AS43514",
-    "count": "1,024"
-  },
-  {
-    "name": "Israel Ministry Of Defence",
-    "asn": "AS43381",
-    "count": "1,024"
-  },
-  {
-    "name": "Bynet Data Communications LTD",
-    "asn": "AS207007",
-    "count": "1,024"
-  },
-  {
-    "name": "LAN-WAN I.T LTD",
-    "asn": "AS12517",
-    "count": "1,024"
-  },
-  {
-    "name": "Israel Credit Cards Ltd",
-    "asn": "AS8738",
-    "count": "1,024"
-  },
-  {
-    "name": "Random Logic Ltd.",
-    "asn": "AS16370",
-    "count": "1,024"
-  },
-  {
-    "name": "Nice Systems LTD",
-    "asn": "AS8894",
-    "count": "1,024"
-  },
-  {
-    "name": "Orbograph LTD",
-    "asn": "AS21363",
-    "count": "1,024"
-  },
-  {
-    "name": "HAREL INSURANCE COMPANY LTD",
-    "asn": "AS41923",
-    "count": "1,024"
-  },
-  {
-    "name": "Haaretz Daily Newspaper Ltd.",
-    "asn": "AS13093",
-    "count": "1,024"
-  },
-  {
-    "name": "ISRACARD-LTD",
-    "asn": "AS16061",
-    "count": "1,024"
-  },
-  {
-    "name": "Dead Sea Works LTD",
-    "asn": "AS39343",
-    "count": "1,024"
-  },
-  {
-    "name": "Ordernet Ltd",
-    "asn": "AS15976",
-    "count": "1,024"
+    "name": "SECURE ON SECURITY SYSTEMS LTD",
+    "asn": "AS47962",
+    "count": 3584
   },
   {
     "name": "R.L Internet and Networks Ltd.",
     "asn": "AS39159",
-    "count": "1,024"
+    "count": 3584
   },
   {
-    "name": "Radware Ltd.",
-    "asn": "AS15823",
-    "count": "1,024"
+    "name": "Mechashvim E.D.P. LTD",
+    "asn": "AS56596",
+    "count": 3328
   },
   {
-    "name": "SODA CLUB LTD.",
-    "asn": "AS8958",
-    "count": "1,024"
+    "name": "Taboola.com ltd",
+    "asn": "AS200478",
+    "count": 3328
   },
   {
-    "name": "NETANYA ACADEMIC COLLEGE",
-    "asn": "AS25565",
-    "count": "1,024"
+    "name": "Bezeq International Ltd.",
+    "asn": "AS8203",
+    "count": 3072
   },
   {
-    "name": "Synamedia Technologies Israel LTD",
-    "asn": "AS21486",
-    "count": "1,024"
+    "name": "Coolnet Communications ltd",
+    "asn": "AS60636",
+    "count": 3072
   },
   {
-    "name": "Oil Refineries LTD",
-    "asn": "AS35560",
-    "count": "1,024"
+    "name": "Israel Internet Association",
+    "asn": "AS31391",
+    "count": 3072
   },
   {
-    "name": "Lumenis Ltd.",
-    "asn": "AS35553",
-    "count": "1,024"
+    "name": "Med-1 IC-1 (1999) LTD",
+    "asn": "AS204257",
+    "count": 3072
   },
   {
-    "name": "ORBOTECH LTD.",
-    "asn": "AS9071",
-    "count": "1,024"
+    "name": "Malam Team Ltd.",
+    "asn": "AS43842",
+    "count": 2816
   },
   {
-    "name": "INTERWISE Ltd",
-    "asn": "AS15526",
-    "count": "1,024"
+    "name": "The Israel Electric Corporation Limited",
+    "asn": "AS5540",
+    "count": 2560
   },
   {
-    "name": "TRENDLINE INFORMATION and COMMUNICATION SERVICES LTD",
-    "asn": "AS13240",
-    "count": "1,024"
+    "name": "Wecom Mobile Ltd.",
+    "asn": "AS210625",
+    "count": 2560
   },
   {
-    "name": "Skybox Security Ltd.",
-    "asn": "AS209750",
-    "count": "1,024"
+    "name": "Metisim Technologies Ltd",
+    "asn": "AS42316",
+    "count": 2304
   },
   {
-    "name": "Eagle Trading Systems (R&D) LTD",
-    "asn": "AS203124",
-    "count": "1,024"
+    "name": "IP Telecom ltd.",
+    "asn": "AS13035",
+    "count": 2304
   },
   {
-    "name": "EL AL ISRAEL AIRLINES Ltd",
-    "asn": "AS50454",
-    "count": "1,024"
+    "name": "Playtika LTD",
+    "asn": "AS61149",
+    "count": 2048
   },
   {
-    "name": "Israel Airports Authority",
-    "asn": "AS12736",
-    "count": "1,024"
+    "name": "AMDOCS (ISRAEL) LTD",
+    "asn": "AS34380",
+    "count": 2048
   },
   {
-    "name": "Stratoscale Ltd.",
-    "asn": "AS204763",
-    "count": "1,024"
+    "name": "Y-tech ICT Ltd.",
+    "asn": "AS208611",
+    "count": 2048
   },
   {
-    "name": "Amal Kabha trading as Computerisation and Bookkeeping Services",
-    "asn": "AS213256",
-    "count": "1,024"
+    "name": "LiveDns Ltd",
+    "asn": "AS201857",
+    "count": 2048
   },
   {
-    "name": "The College of Management, Academic Studies, Founded by the Union Officials in Tel Aviv, Corporation for Public-Benefit Ltd.",
-    "asn": "AS50237",
-    "count": "1,024"
+    "name": "Random Logic Ltd.",
+    "asn": "AS16370",
+    "count": 2048
   },
   {
-    "name": "IFAT - Media Information Center LTD",
-    "asn": "AS13073",
-    "count": "1,024"
-  },
-  {
-    "name": "SailPoint Technologies, Inc.",
-    "asn": "AS205484",
-    "count": "1,024"
-  },
-  {
-    "name": "Infinidat Ltd",
-    "asn": "AS205564",
-    "count": "1,024"
-  },
-  {
-    "name": "Netafim LTD",
-    "asn": "AS28783",
-    "count": "1,024"
-  },
-  {
-    "name": "IBC Israel Broadband Company Ltd",
-    "asn": "AS21145",
-    "count": "1,024"
-  },
-  {
-    "name": "AMSALEM TOURS & TRAVEL LTD.",
-    "asn": "AS29149",
-    "count": "1,024"
-  },
-  {
-    "name": "Tower Semiconductor LTD",
-    "asn": "AS30744",
-    "count": "1,024"
-  },
-  {
-    "name": "Teleall Contact Center LTD",
-    "asn": "AS35016",
-    "count": "1,024"
-  },
-  {
-    "name": "Exsitu Managed Cloud Services LTD",
-    "asn": "AS34935",
-    "count": "1,024"
-  },
-  {
-    "name": "The Phoenix Insurance Company Ltd",
-    "asn": "AS12988",
-    "count": "1,024"
-  },
-  {
-    "name": "Migdal Insurance Company Ltd.",
-    "asn": "AS12802",
-    "count": "1,024"
-  },
-  {
-    "name": "Telit Communications PLC",
-    "asn": "AS201093",
-    "count": "1,024"
-  },
-  {
-    "name": "Targetmatch LTD",
-    "asn": "AS209876",
-    "count": "1,024"
-  },
-  {
-    "name": "Super Derivatives (Israel) Ltd",
-    "asn": "AS35243",
-    "count": "1,024"
-  },
-  {
-    "name": "BETTER LINX LTD",
-    "asn": "AS35142",
-    "count": "1,024"
-  },
-  {
-    "name": "Voicenter LTD",
-    "asn": "AS203110",
-    "count": "768"
-  },
-  {
-    "name": "Voicenter LTD",
-    "asn": "AS203077",
-    "count": "768"
-  },
-  {
-    "name": "Mellanox-Technologies-Ltd",
-    "asn": "AS35392",
-    "count": "768"
-  },
-  {
-    "name": "ISRAEL PORTS DEVELOPMENT and ASSETS COMPANY LTD",
-    "asn": "AS25237",
-    "count": "768"
-  },
-  {
-    "name": "Maariv-Modiin Publishing house LTD",
-    "asn": "AS29410",
-    "count": "768"
-  },
-  {
-    "name": "Green Team Internet LTD",
-    "asn": "AS204078",
-    "count": "768"
-  },
-  {
-    "name": "Teva Pharmaceutical Industries Limited",
-    "asn": "AS12753",
-    "count": "768"
-  },
-  {
-    "name": "AspireGlobal Marketing Solutions Ltd",
-    "asn": "AS49069",
-    "count": "768"
-  },
-  {
-    "name": "KESHET BROADCASTING LTD",
-    "asn": "AS198986",
-    "count": "512"
-  },
-  {
-    "name": "Fund medical research, health services infrastructure development - at the Rambam Medical Center",
-    "asn": "AS197797",
-    "count": "512"
-  },
-  {
-    "name": "Strauss Group LTD",
-    "asn": "AS197819",
-    "count": "512"
-  },
-  {
-    "name": "Kibbutzim-College",
-    "asn": "AS200309",
-    "count": "512"
-  },
-  {
-    "name": "Bitit Ltd",
-    "asn": "AS201076",
-    "count": "512"
-  },
-  {
-    "name": "offek h&o ltd",
-    "asn": "AS201156",
-    "count": "512"
-  },
-  {
-    "name": "Cellact Communication Ltd.",
-    "asn": "AS201833",
-    "count": "512"
-  },
-  {
-    "name": "LEVERATE TECHNOLOGICAL TRADING LTD",
-    "asn": "AS202102",
-    "count": "512"
-  },
-  {
-    "name": "Ceragon Networks LTD",
-    "asn": "AS202122",
-    "count": "512"
-  },
-  {
-    "name": "netanel siboni",
-    "asn": "AS205203",
-    "count": "512"
-  },
-  {
-    "name": "David Shield - Life Insurance Agency (2000) Ltd",
-    "asn": "AS205650",
-    "count": "512"
-  },
-  {
-    "name": "SHUFERSAL LTD",
-    "asn": "AS207591",
-    "count": "512"
-  },
-  {
-    "name": "Verint-Systems-LTD",
-    "asn": "AS31162",
-    "count": "512"
-  },
-  {
-    "name": "ALVARION LTD",
-    "asn": "AS34583",
-    "count": "512"
-  },
-  {
-    "name": "AYALON INSURANCE COMPANY LTD",
-    "asn": "AS34852",
-    "count": "512"
-  },
-  {
-    "name": "INWISE LTD",
-    "asn": "AS41927",
-    "count": "512"
-  },
-  {
-    "name": "Optibase-ltd",
-    "asn": "AS43165",
-    "count": "512"
-  },
-  {
-    "name": "REINHOLD COHN & PARTNERS",
-    "asn": "AS43194",
-    "count": "512"
-  },
-  {
-    "name": "Israel Chemicals LTD",
-    "asn": "AS43438",
-    "count": "512"
-  },
-  {
-    "name": "Meitav Dash Investments LTD",
-    "asn": "AS44060",
-    "count": "512"
-  },
-  {
-    "name": "SAP Labs Israel Ltd.",
-    "asn": "AS44435",
-    "count": "512"
-  },
-  {
-    "name": "MIGDAL CAPITAL MARKETS (MANAGEMENT SERVICES) LTD",
-    "asn": "AS44669",
-    "count": "512"
-  },
-  {
-    "name": "Ceva D.S.P. LTD",
-    "asn": "AS44846",
-    "count": "512"
-  },
-  {
-    "name": "GBS INFORMATION AND COMMUNICATION TECHNOLOGIES LTD",
-    "asn": "AS47776",
-    "count": "512"
-  },
-  {
-    "name": "SATLINK COMMUNICATIONS LTD",
-    "asn": "AS47961",
-    "count": "512"
-  },
-  {
-    "name": "VISONIC LIMITED",
-    "asn": "AS48068",
-    "count": "512"
-  },
-  {
-    "name": "RAFAEL - ARMAMENT DEVELOPMENT AUTHORITY LTD",
-    "asn": "AS49456",
-    "count": "512"
-  },
-  {
-    "name": "Audiocodes Ltd",
-    "asn": "AS49484",
-    "count": "512"
-  },
-  {
-    "name": "Menorah Mivtachim insurance Ltd.",
-    "asn": "AS49501",
-    "count": "512"
+    "name": "Amit Net Telecom LTD",
+    "asn": "AS60886",
+    "count": 1792
   },
   {
     "name": "Bank Hapoalim Ltd.",
     "asn": "AS49771",
-    "count": "512"
-  },
-  {
-    "name": "LIVEPERSON LTD",
-    "asn": "AS49794",
-    "count": "512"
-  },
-  {
-    "name": "IBM Israel-Science and technology Ltd.",
-    "asn": "AS50995",
-    "count": "512"
-  },
-  {
-    "name": "Gilat Satellite Networks Ltd.",
-    "asn": "AS56804",
-    "count": "512"
-  },
-  {
-    "name": "DABLTECH LTD",
-    "asn": "AS56839",
-    "count": "512"
-  },
-  {
-    "name": "Kupat-Holim-Clalit",
-    "asn": "AS57666",
-    "count": "512"
-  },
-  {
-    "name": "IronSource Ltd.",
-    "asn": "AS206650",
-    "count": "256"
-  },
-  {
-    "name": "Beeper Communications Israel Ltd.",
-    "asn": "AS44367",
-    "count": "256"
-  },
-  {
-    "name": "Wixpress LTD",
-    "asn": "AS44427",
-    "count": "256"
-  },
-  {
-    "name": "LB Annatel LTD",
-    "asn": "AS209472",
-    "count": "256"
-  },
-  {
-    "name": "Clal Insurance Company Ltd",
-    "asn": "AS39274",
-    "count": "256"
-  },
-  {
-    "name": "Oasis communication technologies LTD",
-    "asn": "AS210290",
-    "count": "256"
-  },
-  {
-    "name": "TAMA PLASTIC INDUSTRY",
-    "asn": "AS50006",
-    "count": "256"
-  },
-  {
-    "name": "Haifa Chemicals Ltd",
-    "asn": "AS39768",
-    "count": "256"
-  },
-  {
-    "name": "DIESENHAUS-UNITOURS-LTD",
-    "asn": "AS50081",
-    "count": "256"
-  },
-  {
-    "name": "FISHMAN CHAINS LTD",
-    "asn": "AS204831",
-    "count": "256"
-  },
-  {
-    "name": "BDI",
-    "asn": "AS206531",
-    "count": "256"
-  },
-  {
-    "name": "Xconnect Global Networks Limited",
-    "asn": "AS62112",
-    "count": "256"
-  },
-  {
-    "name": "CLICKIT BUSINESS DEVELOPMENT LTD",
-    "asn": "AS203276",
-    "count": "256"
-  },
-  {
-    "name": "ORIAN SH.M LTD.",
-    "asn": "AS203009",
-    "count": "256"
-  },
-  {
-    "name": "Automatic Bank Services Limited",
-    "asn": "AS42647",
-    "count": "256"
-  },
-  {
-    "name": "The Max Stern Academic College of Emek yezreel ltd.",
-    "asn": "AS50744",
-    "count": "256"
-  },
-  {
-    "name": "Amiad Filtration Systems Ltd",
-    "asn": "AS50865",
-    "count": "256"
-  },
-  {
-    "name": "Hadassah Medical Organisation Ltd",
-    "asn": "AS42793",
-    "count": "256"
-  },
-  {
-    "name": "Yael Software & Systems LTD.",
-    "asn": "AS202369",
-    "count": "256"
-  },
-  {
-    "name": "Mer Telecom Ltd",
-    "asn": "AS47135",
-    "count": "256"
-  },
-  {
-    "name": "Ashkelon Academic College",
-    "asn": "AS41116",
-    "count": "256"
-  },
-  {
-    "name": "Clicksoftware Technologies LTD",
-    "asn": "AS47256",
-    "count": "256"
-  },
-  {
-    "name": "Leverate Technological Trading LTD",
-    "asn": "AS51385",
-    "count": "256"
-  },
-  {
-    "name": "Star Home GmbH",
-    "asn": "AS47461",
-    "count": "256"
-  },
-  {
-    "name": "MATAF - FINANCIAL IT & OPERATIONS LTD",
-    "asn": "AS207106",
-    "count": "256"
-  },
-  {
-    "name": "Citybook Services Ltd",
-    "asn": "AS47665",
-    "count": "256"
-  },
-  {
-    "name": "Nefesh BNefesh Jewish Souls United Ltd",
-    "asn": "AS51651",
-    "count": "256"
-  },
-  {
-    "name": "MATRIX I.T. CLOUDZONE LTD",
-    "asn": "AS202356",
-    "count": "256"
-  },
-  {
-    "name": "HILAN LTD",
-    "asn": "AS202320",
-    "count": "256"
-  },
-  {
-    "name": "Jerusalem District Electricity Co. Ltd.",
-    "asn": "AS202145",
-    "count": "256"
-  },
-  {
-    "name": "Haifa Port Company Ltd",
-    "asn": "AS47766",
-    "count": "256"
-  },
-  {
-    "name": "CYBERINT TECHNOLOGIES LTD",
-    "asn": "AS202001",
-    "count": "256"
-  },
-  {
-    "name": "Cellebrite Mobile Synchronization LTD",
-    "asn": "AS208465",
-    "count": "256"
-  },
-  {
-    "name": "D.B.S Satellite television (1998) Ltd",
-    "asn": "AS201073",
-    "count": "256"
-  },
-  {
-    "name": "GetFPV",
-    "asn": "AS15643",
-    "count": "256"
-  },
-  {
-    "name": "Varonis Systems, LTD",
-    "asn": "AS47770",
-    "count": "256"
-  },
-  {
-    "name": "The-Chaim-Sheba-Medical-Center",
-    "asn": "AS56914",
-    "count": "256"
-  },
-  {
-    "name": "NovoLog LTD",
-    "asn": "AS57035",
-    "count": "256"
-  },
-  {
-    "name": "Egged Israel Transport Cooperative Society LTD",
-    "asn": "AS197538",
-    "count": "256"
-  },
-  {
-    "name": "Ministry of Health",
-    "asn": "AS41394",
-    "count": "256"
-  },
-  {
-    "name": "Electronic Arts Limited",
-    "asn": "AS210208",
-    "count": "256"
-  },
-  {
-    "name": "Swiftness Ltd",
-    "asn": "AS199989",
-    "count": "256"
-  },
-  {
-    "name": "Magen David Adom",
-    "asn": "AS209514",
-    "count": "256"
-  },
-  {
-    "name": "Israel Postal Company Ltd.",
-    "asn": "AS43423",
-    "count": "256"
-  },
-  {
-    "name": "NETSTYLE A. LTD",
-    "asn": "AS58018",
-    "count": "256"
-  },
-  {
-    "name": "Ministry of foreign affairs",
-    "asn": "AS29585",
-    "count": "256"
-  },
-  {
-    "name": "Microsemi Corp.-Analog Mixed Signal Group LTD",
-    "asn": "AS35438",
-    "count": "256"
-  },
-  {
-    "name": "Israel Brokerage & Investments I.B.I Ltd.",
-    "asn": "AS197012",
-    "count": "256"
-  },
-  {
-    "name": "T.T.I. Team Telecom International LTD",
-    "asn": "AS31092",
-    "count": "256"
-  },
-  {
-    "name": "Brightsource Industries (Israel) Ltd.",
-    "asn": "AS198773",
-    "count": "256"
-  },
-  {
-    "name": "Agricultural Insurance - Central Common Association Ltd",
-    "asn": "AS41924",
-    "count": "256"
-  },
-  {
-    "name": "Sha'arei-Mishpat-college",
-    "asn": "AS59648",
-    "count": "256"
-  },
-  {
-    "name": "Mivtach Simon Insurance Agencies Ltd",
-    "asn": "AS31417",
-    "count": "256"
-  },
-  {
-    "name": "Magic-Software-Enterprises-Ltd",
-    "asn": "AS31578",
-    "count": "256"
-  },
-  {
-    "name": "HAVRAT NETEVE AYALON LTD",
-    "asn": "AS43739",
-    "count": "256"
-  },
-  {
-    "name": "Mega Retail Ltd",
-    "asn": "AS20841",
-    "count": "256"
-  },
-  {
-    "name": "Compass Electro-Optical Systems Ltd",
-    "asn": "AS33914",
-    "count": "256"
-  },
-  {
-    "name": "Xglobe Online LTD",
-    "asn": "AS205941",
-    "count": "256"
-  },
-  {
-    "name": "COMPASS ELECTRO-OPTICAL SYSTEMS LTD",
-    "asn": "AS49076",
-    "count": "256"
-  },
-  {
-    "name": "The Meuchedet Health Fund Association (Central Popular)",
-    "asn": "AS43871",
-    "count": "256"
-  },
-  {
-    "name": "Credit Guard Ltd",
-    "asn": "AS49308",
-    "count": "256"
-  },
-  {
-    "name": "NETSTYLE A. LTD",
-    "asn": "AS43945",
-    "count": "256"
-  },
-  {
-    "name": "TNUVA CENTRAL CO-OPERATIVE FOR THE MARKETING OF AGRICULTURAL PRODUCE IN ISRAEL LTD",
-    "asn": "AS205577",
-    "count": "256"
-  },
-  {
-    "name": "SOLAREDGE TECHNOLOGIES LTD.",
-    "asn": "AS198425",
-    "count": "256"
-  },
-  {
-    "name": "The Interdisciplinary Center Hertzeliya",
-    "asn": "AS34886",
-    "count": "256"
-  },
-  {
-    "name": "SysAid Technologies Ltd",
-    "asn": "AS34919",
-    "count": "256"
-  },
-  {
-    "name": "Leadcom Integrated Solutions (LIS) Ltd.",
-    "asn": "AS42243",
-    "count": "256"
-  },
-  {
-    "name": "MyHeritage Ltd",
-    "asn": "AS213055",
-    "count": "256"
-  },
-  {
-    "name": "Dun & Bradstreet Israel Ltd",
-    "asn": "AS51512",
-    "count": "0"
-  },
-  {
-    "name": "DRW ISRAEL LTD",
-    "asn": "AS51587",
-    "count": "0"
-  },
-  {
-    "name": "TDnet LTD",
-    "asn": "AS51617",
-    "count": "0"
-  },
-  {
-    "name": "Israel Internet Association",
-    "asn": "AS5585",
-    "count": "0"
-  },
-  {
-    "name": "Ribbon Communications International Limited",
-    "asn": "AS56521",
-    "count": "0"
-  },
-  {
-    "name": "Cellcom Fixed Line Communication L.P.",
-    "asn": "AS13264",
-    "count": "0"
-  },
-  {
-    "name": "Contact Production LTD",
-    "asn": "AS201043",
-    "count": "0"
-  },
-  {
-    "name": "Cellcom Fixed Line Communication L.P.",
-    "asn": "AS9117",
-    "count": "0"
-  },
-  {
-    "name": "Free Telecom Ltd",
-    "asn": "AS200495",
-    "count": "0"
-  },
-  {
-    "name": "Kedem Nahum Humi trading as Open Source Systems",
-    "asn": "AS199747",
-    "count": "0"
-  },
-  {
-    "name": "iosat",
-    "asn": "AS198893",
-    "count": "0"
-  },
-  {
-    "name": "Bezeq International-Ltd",
-    "asn": "AS28833",
-    "count": "0"
-  },
-  {
-    "name": "OMNITECH",
-    "asn": "AS28799",
-    "count": "0"
-  },
-  {
-    "name": "The Spamhaus Project",
-    "asn": "AS31190",
-    "count": "0"
-  },
-  {
-    "name": "Ansol Network Solutions Ltd",
-    "asn": "AS25078",
-    "count": "0"
-  },
-  {
-    "name": "O.M.C. COMPUTERS & COMMUNICATIONS LTD",
-    "asn": "AS25052",
-    "count": "0"
-  },
-  {
-    "name": "David Lowes",
-    "asn": "AS213284",
-    "count": "0"
-  },
-  {
-    "name": "M-wise LTD",
-    "asn": "AS33952",
-    "count": "0"
-  },
-  {
-    "name": "Ariave Satcom LTD",
-    "asn": "AS34105",
-    "count": "0"
-  },
-  {
-    "name": "LIVEU LTD",
-    "asn": "AS213225",
-    "count": "0"
-  },
-  {
-    "name": "FARITOM LTD",
-    "asn": "AS34459",
-    "count": "0"
-  },
-  {
-    "name": "MAXSOL TECH",
-    "asn": "AS58268",
-    "count": "0"
-  },
-  {
-    "name": "EZFace Ltd",
-    "asn": "AS34598",
-    "count": "0"
-  },
-  {
-    "name": "SIPME LTD",
-    "asn": "AS59422",
-    "count": "0"
-  },
-  {
-    "name": "COBWEBS TECHNOLOGIES LTD",
-    "asn": "AS213079",
-    "count": "0"
-  },
-  {
-    "name": "PassportCard Israel General Insurance Agency 2014 Ltd",
-    "asn": "AS205551",
-    "count": "0"
-  },
-  {
-    "name": "Invoke Solutions IL Ltd",
-    "asn": "AS21133",
-    "count": "0"
-  },
-  {
-    "name": "Ness A.T. Ltd",
-    "asn": "AS35541",
-    "count": "0"
-  },
-  {
-    "name": "Drubit Raid LTD",
-    "asn": "AS209443",
-    "count": "0"
-  },
-  {
-    "name": "Hilkaltex Sh. Y. (1988) Ltd.",
-    "asn": "AS209028",
-    "count": "0"
-  },
-  {
-    "name": "TEAM 3 MANAGEMENT AND INVESTMENTS 1997 LTD",
-    "asn": "AS208581",
-    "count": "0"
-  },
-  {
-    "name": "Cambrix Group LTD .",
-    "asn": "AS35786",
-    "count": "0"
-  },
-  {
-    "name": "MENTOR GRAPHICS DEVELOPMENT SERVICES (ISRAEL) LTD",
-    "asn": "AS35812",
-    "count": "0"
-  },
-  {
-    "name": "Cellcom Fixed Line Communication L.P.",
-    "asn": "AS38992",
-    "count": "0"
-  },
-  {
-    "name": "Uniq Systems Solutions Ltd",
-    "asn": "AS39076",
-    "count": "0"
-  },
-  {
-    "name": "InterC Cloud Solutions Ltd.",
-    "asn": "AS39158",
-    "count": "0"
-  },
-  {
-    "name": "Monogoto LTD",
-    "asn": "AS208362",
-    "count": "0"
-  },
-  {
-    "name": "Bank of Jerusalem Limited",
-    "asn": "AS207667",
-    "count": "0"
-  },
-  {
-    "name": "ALLEGRONET LTD",
-    "asn": "AS41304",
-    "count": "0"
-  },
-  {
-    "name": "S.P.D. Hosting LTD",
-    "asn": "AS207605",
-    "count": "0"
-  },
-  {
-    "name": "Convergin Israel Ltd",
-    "asn": "AS41857",
-    "count": "0"
-  },
-  {
-    "name": "Ituran Location and Control Ltd.",
-    "asn": "AS207444",
-    "count": "0"
-  },
-  {
-    "name": "JETSERVER LTD",
-    "asn": "AS42111",
-    "count": "0"
-  },
-  {
-    "name": "Forescout, Inc.",
-    "asn": "AS207360",
-    "count": "0"
-  },
-  {
-    "name": "TOURTECH TOP LTD",
-    "asn": "AS207331",
-    "count": "0"
-  },
-  {
-    "name": "OOVOO Comunications Ltd.",
-    "asn": "AS42384",
-    "count": "0"
-  },
-  {
-    "name": "VIBER LAB LTD",
-    "asn": "AS207285",
-    "count": "0"
-  },
-  {
-    "name": "Diplomat Distributors (1968) Ltd",
-    "asn": "AS207260",
-    "count": "0"
-  },
-  {
-    "name": "Strauss-Water LTD",
-    "asn": "AS198482",
-    "count": "0"
-  },
-  {
-    "name": "InterNet Direct LTD",
-    "asn": "AS207052",
-    "count": "0"
-  },
-  {
-    "name": "Mobilcent Ltd.",
-    "asn": "AS60802",
-    "count": "0"
-  },
-  {
-    "name": "Priority Software LTD.",
-    "asn": "AS206935",
-    "count": "0"
-  },
-  {
-    "name": "RedX Solutions LTD",
-    "asn": "AS198427",
-    "count": "0"
-  },
-  {
-    "name": "Vinetu Technologies - ELI MELAMED LTD",
-    "asn": "AS206875",
-    "count": "0"
-  },
-  {
-    "name": "E-Shop Ltd.",
-    "asn": "AS43597",
-    "count": "0"
-  },
-  {
-    "name": "Mantu I.M. Mobile Ltd",
-    "asn": "AS206824",
-    "count": "0"
-  },
-  {
-    "name": "O.M.C. COMPUTERS & COMMUNICATIONS LTD",
-    "asn": "AS44150",
-    "count": "0"
-  },
-  {
-    "name": "Alon Cellular Ltd",
-    "asn": "AS198087",
-    "count": "0"
-  },
-  {
-    "name": "AD-Gency LTD",
-    "asn": "AS44559",
-    "count": "0"
-  },
-  {
-    "name": "Leumit Health Care",
-    "asn": "AS44576",
-    "count": "0"
-  },
-  {
-    "name": "Tradonomi (Israel) LTD.",
-    "asn": "AS198010",
-    "count": "0"
-  },
-  {
-    "name": "Precise software solutions Israel 2007 LTD",
-    "asn": "AS44887",
-    "count": "0"
-  },
-  {
-    "name": "Trendline",
-    "asn": "AS4516",
-    "count": "0"
-  },
-  {
-    "name": "Xglobe Online LTD",
-    "asn": "AS47177",
-    "count": "0"
-  },
-  {
-    "name": "USTCloud",
-    "asn": "AS47573",
-    "count": "0"
-  },
-  {
-    "name": "'Leumi Card Ltd",
-    "asn": "AS47769",
-    "count": "0"
-  },
-  {
-    "name": "Calanit Carmon Software Services LTD",
-    "asn": "AS47779",
-    "count": "0"
-  },
-  {
-    "name": "BGProtect LTD",
-    "asn": "AS206400",
-    "count": "0"
-  },
-  {
-    "name": "Bynet data Communications LTD",
-    "asn": "AS197210",
-    "count": "0"
-  },
-  {
-    "name": "SECUREON",
-    "asn": "AS47962",
-    "count": "0"
-  },
-  {
-    "name": "TADIRAN CONSUMER AND TECHNOLOGY PRODUCTS LTD",
-    "asn": "AS206106",
-    "count": "0"
-  },
-  {
-    "name": "Akamai International B.V.",
-    "asn": "AS48163",
-    "count": "0"
-  },
-  {
-    "name": "Solel Solar Systems Ltd",
-    "asn": "AS48300",
-    "count": "0"
-  },
-  {
-    "name": "Expim Ltd",
-    "asn": "AS206039",
-    "count": "0"
-  },
-  {
-    "name": "Evgeni Barabash trading as Active Cloud",
-    "asn": "AS49022",
-    "count": "0"
+    "count": 1792
   },
   {
     "name": "Star Network and Promotion LTD",
     "asn": "AS49157",
-    "count": "0"
+    "count": 1792
   },
   {
-    "name": "NEWLAN LTD",
-    "asn": "AS49323",
-    "count": "0"
+    "name": "MX1 Ltd.",
+    "asn": "AS42475",
+    "count": 1792
   },
   {
-    "name": "Cellcom Fixed Line Communication L.P.",
-    "asn": "AS8584",
-    "count": "0"
+    "name": "O.M.C. COMPUTERS & COMMUNICATIONS LTD",
+    "asn": "AS25052",
+    "count": 1792
   },
   {
-    "name": "LOYALNESS LTD",
-    "asn": "AS196828",
-    "count": "0"
+    "name": "Dash Eliran Electronics Ltd",
+    "asn": "AS208666",
+    "count": 1792
   },
   {
-    "name": "Bezeq International-Ltd",
-    "asn": "AS196769",
-    "count": "0"
+    "name": "S.P.D. Hosting LTD",
+    "asn": "AS207605",
+    "count": 1792
   },
   {
-    "name": "Adsmarket G.M LTD",
-    "asn": "AS49587",
-    "count": "0"
+    "name": "Space-Communication ltd.",
+    "asn": "AS204528",
+    "count": 1792
   },
   {
-    "name": "Atriis Technologies Ltd",
-    "asn": "AS49716",
-    "count": "0"
+    "name": "Walla Communication LTD",
+    "asn": "AS13074",
+    "count": 1792
   },
   {
-    "name": "Dassault systemes Israel ltd",
-    "asn": "AS16240",
-    "count": "0"
+    "name": "Audiocodes Ltd",
+    "asn": "AS49484",
+    "count": 1536
   },
   {
-    "name": "Safenet Data Security (Israel) Ltd",
-    "asn": "AS15708",
-    "count": "0"
+    "name": "BETTER LINX LTD",
+    "asn": "AS35142",
+    "count": 1536
   },
   {
-    "name": "BluePhoenix Solutions Ltd.",
-    "asn": "AS49993",
-    "count": "0"
+    "name": "ISRAEL DISCOUNT BANK Ltd",
+    "asn": "AS211329",
+    "count": 1536
   },
   {
-    "name": "L.R SMART SOLUTIONS LTD",
-    "asn": "AS213038",
-    "count": "0"
+    "name": "Taboola.com ltd",
+    "asn": "AS206614",
+    "count": 1536
+  },
+  {
+    "name": "NAYAX LTD",
+    "asn": "AS202597",
+    "count": 1536
+  },
+  {
+    "name": "Expim Ltd",
+    "asn": "AS201415",
+    "count": 1536
+  },
+  {
+    "name": "HASHIKMA NGN International Communications 015LTD",
+    "asn": "AS199270",
+    "count": 1536
+  },
+  {
+    "name": "Mavenir Ltd",
+    "asn": "AS16158",
+    "count": 1536
+  },
+  {
+    "name": "INTERWISE Ltd",
+    "asn": "AS15526",
+    "count": 1536
+  },
+  {
+    "name": "Wix.com Ltd.",
+    "asn": "AS58182",
+    "count": 1280
+  },
+  {
+    "name": "ALLEGRONET LTD",
+    "asn": "AS50440",
+    "count": 1280
+  },
+  {
+    "name": "PAYONEER RESEARCH AND DEVELOPMENT LTD",
+    "asn": "AS50079",
+    "count": 1280
+  },
+  {
+    "name": "Synamedia Technologies Israel LTD",
+    "asn": "AS21486",
+    "count": 1280
+  },
+  {
+    "name": "Bitit Ltd",
+    "asn": "AS201076",
+    "count": 1280
+  },
+  {
+    "name": "ZIM INTEGRATED SHIPPING SERVICES LTD",
+    "asn": "AS198521",
+    "count": 1280
+  },
+  {
+    "name": "SODASTREAM INDUSTRIES LTD",
+    "asn": "AS8958",
+    "count": 1024
+  },
+  {
+    "name": "Nice LTD",
+    "asn": "AS8894",
+    "count": 1024
+  },
+  {
+    "name": "Israel Credit Cards Ltd",
+    "asn": "AS8738",
+    "count": 1024
+  },
+  {
+    "name": "Global Cloud Ltd",
+    "asn": "AS61365",
+    "count": 1024
+  },
+  {
+    "name": "Flash Networks Ltd.",
+    "asn": "AS57721",
+    "count": 1024
+  },
+  {
+    "name": "EL AL ISRAEL AIRLINES Ltd",
+    "asn": "AS50454",
+    "count": 1024
+  },
+  {
+    "name": "The College of Management, Academic Studies, Founded by the Union Officials in Tel Aviv, Corporation for Public-Benefit Ltd.",
+    "asn": "AS50237",
+    "count": 1024
+  },
+  {
+    "name": "Gwint Israel",
+    "asn": "AS49391",
+    "count": 1024
+  },
+  {
+    "name": "Maccabi Health Care Services (HMO)",
+    "asn": "AS44282",
+    "count": 1024
+  },
+  {
+    "name": "Zim Integrated Shipping Services LTD",
+    "asn": "AS43514",
+    "count": 1024
+  },
+  {
+    "name": "Israel Ministry Of Defence",
+    "asn": "AS43381",
+    "count": 1024
+  },
+  {
+    "name": "HAREL INSURANCE COMPANY LTD",
+    "asn": "AS41923",
+    "count": 1024
+  },
+  {
+    "name": "Dead Sea Works LTD",
+    "asn": "AS39343",
+    "count": 1024
+  },
+  {
+    "name": "Liveperson Ltd",
+    "asn": "AS35553",
+    "count": 1024
+  },
+  {
+    "name": "Mellanox Technologies Tlv Ltd",
+    "asn": "AS35392",
+    "count": 1024
+  },
+  {
+    "name": "Teleall Contact Center LTD",
+    "asn": "AS35016",
+    "count": 1024
+  },
+  {
+    "name": "Exsitu Managed Cloud Services LTD",
+    "asn": "AS34935",
+    "count": 1024
+  },
+  {
+    "name": "NUVEI CONSULTING SERVICES (ISRAEL) LTD",
+    "asn": "AS33802",
+    "count": 1024
+  },
+  {
+    "name": "Tower Semiconductor Ltd.",
+    "asn": "AS30744",
+    "count": 1024
+  },
+  {
+    "name": "Israel Today Newspaper LTD",
+    "asn": "AS29410",
+    "count": 1024
+  },
+  {
+    "name": "Amsalem Tours & Travel Ltd.",
+    "asn": "AS29149",
+    "count": 1024
+  },
+  {
+    "name": "Netafim LTD",
+    "asn": "AS28783",
+    "count": 1024
+  },
+  {
+    "name": "NETANYA ACADEMIC COLLEGE",
+    "asn": "AS25565",
+    "count": 1024
+  },
+  {
+    "name": "FIFTH GENERTION NEW AGE LTD",
+    "asn": "AS215423",
+    "count": 1024
+  },
+  {
+    "name": "Amal Kabha trading as Computerisation and Bookkeeping Services",
+    "asn": "AS213256",
+    "count": 1024
+  },
+  {
+    "name": "Andrey Krukover",
+    "asn": "AS210550",
+    "count": 1024
+  },
+  {
+    "name": "Hilkaltex Sh. Y. (1988) Ltd.",
+    "asn": "AS209028",
+    "count": 1024
+  },
+  {
+    "name": "MATAF - FINANCIAL IT & OPERATIONS LTD",
+    "asn": "AS207106",
+    "count": 1024
+  },
+  {
+    "name": "Bynet Data Communications LTD",
+    "asn": "AS207007",
+    "count": 1024
+  },
+  {
+    "name": "Elbit Systems LTD.",
+    "asn": "AS205870",
+    "count": 1024
+  },
+  {
+    "name": "Infinidat Ltd",
+    "asn": "AS205564",
+    "count": 1024
+  },
+  {
+    "name": "ZADARA TECHNOLOGIES LTD",
+    "asn": "AS204763",
+    "count": 1024
+  },
+  {
+    "name": "Eagle Trading Systems (R&D) LTD",
+    "asn": "AS203124",
+    "count": 1024
+  },
+  {
+    "name": "offek h&o ltd",
+    "asn": "AS201156",
+    "count": 1024
+  },
+  {
+    "name": "YES TV AND COMMUNICATIONS SERVICES LTD",
+    "asn": "AS201073",
+    "count": 1024
+  },
+  {
+    "name": "Isam Awadallah trading as 3samnet",
+    "asn": "AS200742",
+    "count": 1024
+  },
+  {
+    "name": "Pontis Ltd",
+    "asn": "AS200433",
+    "count": 1024
+  },
+  {
+    "name": "NETSTYLE A. LTD",
+    "asn": "AS199267",
+    "count": 1024
+  },
+  {
+    "name": "Mishkei Shita Communication LTD",
+    "asn": "AS198256",
+    "count": 1024
+  },
+  {
+    "name": "Bank Leumi le-Israel B.M.",
+    "asn": "AS198114",
+    "count": 1024
+  },
+  {
+    "name": "Isracard Ltd",
+    "asn": "AS16061",
+    "count": 1024
+  },
+  {
+    "name": "Ordernet Ltd",
+    "asn": "AS15976",
+    "count": 1024
+  },
+  {
+    "name": "Radware Ltd.",
+    "asn": "AS15823",
+    "count": 1024
+  },
+  {
+    "name": "GUIDELINE GROUP INFORMATION TECHNOLOGIES LTD",
+    "asn": "AS13240",
+    "count": 1024
+  },
+  {
+    "name": "Haaretz Daily Newspaper Ltd.",
+    "asn": "AS13093",
+    "count": 1024
+  },
+  {
+    "name": "IFAT - Media Information Center LTD",
+    "asn": "AS13073",
+    "count": 1024
+  },
+  {
+    "name": "The Phoenix Insurance Company Ltd",
+    "asn": "AS12988",
+    "count": 1024
+  },
+  {
+    "name": "Migdal Insurance Company Ltd.",
+    "asn": "AS12802",
+    "count": 1024
+  },
+  {
+    "name": "Israel Airports Authority",
+    "asn": "AS12736",
+    "count": 1024
+  },
+  {
+    "name": "Yediot Information Technologies ltd",
+    "asn": "AS12619",
+    "count": 1024
+  },
+  {
+    "name": "LAN-WAN I.T LTD",
+    "asn": "AS12517",
+    "count": 1024
+  },
+  {
+    "name": "ORBOTECH LTD.",
+    "asn": "AS9071",
+    "count": 768
+  },
+  {
+    "name": "Gilat Satellite Networks Ltd.",
+    "asn": "AS56804",
+    "count": 768
+  },
+  {
+    "name": "Adgar Investments and Development Ltd",
+    "asn": "AS39213",
+    "count": 768
+  },
+  {
+    "name": "Motorola Solutions Israel Ltd",
+    "asn": "AS35532",
+    "count": 768
+  },
+  {
+    "name": "ISRAEL PORTS DEVELOPMENT and ASSETS COMPANY LTD",
+    "asn": "AS25237",
+    "count": 768
+  },
+  {
+    "name": "MERKAZIYA LTD",
+    "asn": "AS213168",
+    "count": 768
+  },
+  {
+    "name": "SOLAREDGE TECHNOLOGIES LTD.",
+    "asn": "AS205303",
+    "count": 768
+  },
+  {
+    "name": "Voicenter LTD",
+    "asn": "AS203110",
+    "count": 768
+  },
+  {
+    "name": "MATRIX IT CLOUDZONE LTD",
+    "asn": "AS202356",
+    "count": 768
+  },
+  {
+    "name": "Cellact Communication Ltd.",
+    "asn": "AS201833",
+    "count": 768
+  },
+  {
+    "name": "MAKEAPP CLOUD Ltd",
+    "asn": "AS199393",
+    "count": 768
+  },
+  {
+    "name": "Teva Pharmaceutical Industries Limited",
+    "asn": "AS12753",
+    "count": 768
+  },
+  {
+    "name": "Kupat-Holim-Clalit",
+    "asn": "AS57666",
+    "count": 512
+  },
+  {
+    "name": "DABLTECH LTD",
+    "asn": "AS56839",
+    "count": 512
+  },
+  {
+    "name": "Israel Internet Association",
+    "asn": "AS5585",
+    "count": 512
+  },
+  {
+    "name": "IBM Israel-Science and technology Ltd.",
+    "asn": "AS50995",
+    "count": 512
+  },
+  {
+    "name": "Menorah Mivtachim insurance Ltd.",
+    "asn": "AS49501",
+    "count": 512
+  },
+  {
+    "name": "RAFAEL ADVANCED DEFENSE SYSTEMS LTD",
+    "asn": "AS49456",
+    "count": 512
+  },
+  {
+    "name": "AspireGlobal Marketing Solutions Ltd",
+    "asn": "AS49069",
+    "count": 512
+  },
+  {
+    "name": "VISONIC LIMITED",
+    "asn": "AS48068",
+    "count": 512
+  },
+  {
+    "name": "MX1 Ltd.",
+    "asn": "AS47961",
+    "count": 512
+  },
+  {
+    "name": "CEVA D.S.P. Ltd.",
+    "asn": "AS44846",
+    "count": 512
+  },
+  {
+    "name": "MIGDAL CAPITAL MARKETS (MANAGEMENT SERVICES) LTD",
+    "asn": "AS44669",
+    "count": 512
+  },
+  {
+    "name": "Leumit Health Services",
+    "asn": "AS44576",
+    "count": 512
+  },
+  {
+    "name": "SAP Labs Israel Ltd.",
+    "asn": "AS44435",
+    "count": 512
+  },
+  {
+    "name": "Meitav Dash Investments LTD",
+    "asn": "AS44060",
+    "count": 512
+  },
+  {
+    "name": "ICL Group Ltd",
+    "asn": "AS43438",
+    "count": 512
+  },
+  {
+    "name": "REINHOLD COHN & PARTNERS",
+    "asn": "AS43194",
+    "count": 512
+  },
+  {
+    "name": "Optibase ltd",
+    "asn": "AS43165",
+    "count": 512
+  },
+  {
+    "name": "INWISE LTD",
+    "asn": "AS41927",
+    "count": 512
+  },
+  {
+    "name": "AL-Quds University",
+    "asn": "AS41346",
+    "count": 512
+  },
+  {
+    "name": "Oil Refineries Limited",
+    "asn": "AS35560",
+    "count": 512
+  },
+  {
+    "name": "Intercontinental Exchange Israel Ltd.",
+    "asn": "AS35243",
+    "count": 512
+  },
+  {
+    "name": "AYALON INSURANCE COMPANY LTD",
+    "asn": "AS34852",
+    "count": 512
+  },
+  {
+    "name": "COGNYTE TECHNOLOGIES ISRAEL LTD",
+    "asn": "AS31162",
+    "count": 512
+  },
+  {
+    "name": "Ministry of foreign affairs",
+    "asn": "AS29585",
+    "count": 512
+  },
+  {
+    "name": "Yelin Lapidot Investment Portfolio Management Ltd",
+    "asn": "AS216130",
+    "count": 512
+  },
+  {
+    "name": "Valery Smoliar",
+    "asn": "AS215939",
+    "count": 512
+  },
+  {
+    "name": "Surecomp Development Ltd",
+    "asn": "AS215229",
+    "count": 512
+  },
+  {
+    "name": "Voicenter LTD",
+    "asn": "AS212927",
+    "count": 512
+  },
+  {
+    "name": "Maskyoo Telephonia LTD",
+    "asn": "AS212644",
+    "count": 512
+  },
+  {
+    "name": "SUPER-PHARM ISRAEL LTD",
+    "asn": "AS212307",
+    "count": 512
+  },
+  {
+    "name": "IBC Israel Broadband Company Ltd",
+    "asn": "AS21145",
+    "count": 512
+  },
+  {
+    "name": "Adama Makhteshim LTD",
+    "asn": "AS211163",
+    "count": 512
+  },
+  {
+    "name": "Mobileye Vision Technologies Ltd",
+    "asn": "AS210371",
+    "count": 512
+  },
+  {
+    "name": "Globes",
+    "asn": "AS20800",
+    "count": 512
+  },
+  {
+    "name": "SHUFERSAL LTD",
+    "asn": "AS207591",
+    "count": 512
+  },
+  {
+    "name": "Ituran Location and Control Ltd.",
+    "asn": "AS207444",
+    "count": 512
+  },
+  {
+    "name": "David Shield - Life Insurance Agency (2000) Ltd",
+    "asn": "AS205650",
+    "count": 512
+  },
+  {
+    "name": "DISCOUNT LEASING LTD",
+    "asn": "AS202447",
+    "count": 512
+  },
+  {
+    "name": "Ceragon Networks LTD",
+    "asn": "AS202122",
+    "count": 512
+  },
+  {
+    "name": "KESHET BROADCASTING LTD",
+    "asn": "AS198986",
+    "count": 512
+  },
+  {
+    "name": "Israel Sport betting board",
+    "asn": "AS198492",
+    "count": 512
+  },
+  {
+    "name": "Strauss Group LTD",
+    "asn": "AS197819",
+    "count": 512
+  },
+  {
+    "name": "The Health Corporation - Rambam",
+    "asn": "AS197797",
+    "count": 512
+  },
+  {
+    "name": "Sha'arei-Mishpat-college",
+    "asn": "AS59648",
+    "count": 256
+  },
+  {
+    "name": "mars 019 Telecom LTD",
+    "asn": "AS57862",
+    "count": 256
+  },
+  {
+    "name": "Novolog (Pharm-Up 1966) Ltd",
+    "asn": "AS57035",
+    "count": 256
+  },
+  {
+    "name": "The-Chaim-Sheba-Medical-Center",
+    "asn": "AS56914",
+    "count": 256
+  },
+  {
+    "name": "Contact Production LTD",
+    "asn": "AS51902",
+    "count": 256
+  },
+  {
+    "name": "Nefesh B'Nefesh Aliyah (R.A.)",
+    "asn": "AS51651",
+    "count": 256
+  },
+  {
+    "name": "TDnet LTD",
+    "asn": "AS51617",
+    "count": 256
+  },
+  {
+    "name": "Leverate Technological Trading LTD",
+    "asn": "AS51385",
+    "count": 256
+  },
+  {
+    "name": "AMIAD WATER SYSTEMS LTD",
+    "asn": "AS50865",
+    "count": 256
+  },
+  {
+    "name": "The Max Stern Academic College of Emek yezreel ltd.",
+    "asn": "AS50744",
+    "count": 256
+  },
+  {
+    "name": "Ormat Systems Ltd",
+    "asn": "AS50365",
+    "count": 256
+  },
+  {
+    "name": "NAHEF NETWORK LTD",
+    "asn": "AS50318",
+    "count": 256
+  },
+  {
+    "name": "TERMINAL 1 HOLDINGS LTD",
+    "asn": "AS50081",
+    "count": 256
+  },
+  {
+    "name": "TAMA GROUP",
+    "asn": "AS50006",
+    "count": 256
+  },
+  {
+    "name": "Varonis Systems, LTD",
+    "asn": "AS47770",
+    "count": 256
+  },
+  {
+    "name": "Haifa Port Company Ltd",
+    "asn": "AS47766",
+    "count": 256
+  },
+  {
+    "name": "Citybook Services Ltd",
+    "asn": "AS47665",
+    "count": 256
+  },
+  {
+    "name": "WIX.COM LTD",
+    "asn": "AS44427",
+    "count": 256
+  },
+  {
+    "name": "Beeper Communications Israel Ltd.",
+    "asn": "AS44367",
+    "count": 256
+  },
+  {
+    "name": "KUPAT HOLIM MEUHEDET",
+    "asn": "AS43871",
+    "count": 256
+  },
+  {
+    "name": "AYALON HIGHWAYS",
+    "asn": "AS43739",
+    "count": 256
+  },
+  {
+    "name": "Israel Postal Company Ltd.",
+    "asn": "AS43423",
+    "count": 256
+  },
+  {
+    "name": "Hadassah Medical Organisation Ltd",
+    "asn": "AS42793",
+    "count": 256
+  },
+  {
+    "name": "Automatic Bank Services Limited",
+    "asn": "AS42647",
+    "count": 256
+  },
+  {
+    "name": "Leadcom Integrated Solutions (LIS) Ltd.",
+    "asn": "AS42243",
+    "count": 256
+  },
+  {
+    "name": "Agricultural Insurance - Central Common Association Ltd",
+    "asn": "AS41924",
+    "count": 256
+  },
+  {
+    "name": "Ministry of Health",
+    "asn": "AS41394",
+    "count": 256
+  },
+  {
+    "name": "ALLEGRONET LTD",
+    "asn": "AS41304",
+    "count": 256
+  },
+  {
+    "name": "Ashkelon Academic College",
+    "asn": "AS41116",
+    "count": 256
+  },
+  {
+    "name": "Haifa Chemicals Ltd",
+    "asn": "AS39768",
+    "count": 256
+  },
+  {
+    "name": "Clal Insurance Company Ltd",
+    "asn": "AS39274",
+    "count": 256
+  },
+  {
+    "name": "MICROSEMI P.O.E LTD",
+    "asn": "AS35438",
+    "count": 256
+  },
+  {
+    "name": "SysAid Technologies Ltd",
+    "asn": "AS34919",
+    "count": 256
+  },
+  {
+    "name": "REICHMAN UNIVERSITY (CC)",
+    "asn": "AS34886",
+    "count": 256
+  },
+  {
+    "name": "EXAWARE ROUTING LTD",
+    "asn": "AS33914",
+    "count": 256
+  },
+  {
+    "name": "Magic-Software-Enterprises-Ltd",
+    "asn": "AS31578",
+    "count": 256
+  },
+  {
+    "name": "Mivtach Simon Insurance Agencies Ltd",
+    "asn": "AS31417",
+    "count": 256
+  },
+  {
+    "name": "National Insurance institute",
+    "asn": "AS216162",
+    "count": 256
+  },
+  {
+    "name": "Mansour Esaeleh trading as \"M.M. Communication Infrastructure\"",
+    "asn": "AS215333",
+    "count": 256
+  },
+  {
+    "name": "Bari Maor",
+    "asn": "AS215107",
+    "count": 256
+  },
+  {
+    "name": "Killean Jor LTD",
+    "asn": "AS214991",
+    "count": 256
+  },
+  {
+    "name": "Assuta Medical Centers Ltd",
+    "asn": "AS214863",
+    "count": 256
+  },
+  {
+    "name": "TOSAF COMPOUNDS LTD",
+    "asn": "AS214523",
+    "count": 256
+  },
+  {
+    "name": "Whitelabel Solutions, Ltd.",
+    "asn": "AS214497",
+    "count": 256
+  },
+  {
+    "name": "Kibbutz Kabri",
+    "asn": "AS214230",
+    "count": 256
+  },
+  {
+    "name": "Ofek U. Havia",
+    "asn": "AS214128",
+    "count": 256
+  },
+  {
+    "name": "Bank Of Israel",
+    "asn": "AS213932",
+    "count": 256
+  },
+  {
+    "name": "Gilat Telecom Ltd.",
+    "asn": "AS213837",
+    "count": 256
+  },
+  {
+    "name": "Live Mobile LTD",
+    "asn": "AS213783",
+    "count": 256
+  },
+  {
+    "name": "GFIBER INTERNET LTD",
+    "asn": "AS213487",
+    "count": 256
+  },
+  {
+    "name": "CHALLENGE AIRLINES (IL) LTD",
+    "asn": "AS213442",
+    "count": 256
+  },
+  {
+    "name": "COBWEBS TECHNOLOGIES LTD",
+    "asn": "AS213079",
+    "count": 256
+  },
+  {
+    "name": "MyHeritage Ltd",
+    "asn": "AS213055",
+    "count": 256
+  },
+  {
+    "name": "Landa Corporation Ltd",
+    "asn": "AS212719",
+    "count": 256
+  },
+  {
+    "name": "Adama Agan LTD",
+    "asn": "AS212527",
+    "count": 256
+  },
+  {
+    "name": "Allot LTD",
+    "asn": "AS212466",
+    "count": 256
+  },
+  {
+    "name": "Sisense LTD",
+    "asn": "AS212383",
+    "count": 256
+  },
+  {
+    "name": "Dror Katz trading as Netcure Computers/ D.P.O.",
+    "asn": "AS212361",
+    "count": 256
+  },
+  {
+    "name": "TOMORROW WORLD COMMUNICATION SOLUTIONS LTD",
+    "asn": "AS212166",
+    "count": 256
+  },
+  {
+    "name": "ONE ZERO DIGITAL BANK LTD",
+    "asn": "AS211824",
+    "count": 256
+  },
+  {
+    "name": "Lirone Line - Le Repertoire LTD",
+    "asn": "AS211802",
+    "count": 256
+  },
+  {
+    "name": "Menahel 4 You LTD",
+    "asn": "AS211681",
+    "count": 256
+  },
+  {
+    "name": "Shaare Zedek Medical Center",
+    "asn": "AS211518",
+    "count": 256
+  },
+  {
+    "name": "Rad Data Communication LTD",
+    "asn": "AS211236",
+    "count": 256
+  },
+  {
+    "name": "NoorCom Communication Ltd",
+    "asn": "AS210991",
+    "count": 256
+  },
+  {
+    "name": "MDCLONE LTD",
+    "asn": "AS210515",
+    "count": 256
+  },
+  {
+    "name": "Oasis communication technologies LTD",
+    "asn": "AS210290",
+    "count": 256
+  },
+  {
+    "name": "Telroaming Advanced Communication Solution Ltd.",
+    "asn": "AS210008",
+    "count": 256
+  },
+  {
+    "name": "Magen David Adom",
+    "asn": "AS209514",
+    "count": 256
+  },
+  {
+    "name": "LB Annatel LTD",
+    "asn": "AS209472",
+    "count": 256
+  },
+  {
+    "name": "Cellebrite DI Ltd",
+    "asn": "AS208465",
+    "count": 256
+  },
+  {
+    "name": "Mega Retail Ltd",
+    "asn": "AS20841",
+    "count": 256
+  },
+  {
+    "name": "Bank of Jerusalem Limited",
+    "asn": "AS207667",
+    "count": 256
+  },
+  {
+    "name": "Claroty LTD",
+    "asn": "AS206950",
+    "count": 256
+  },
+  {
+    "name": "United Fiber to the home LTD",
+    "asn": "AS206815",
+    "count": 256
+  },
+  {
+    "name": "B.D.I.-COFACE LTD",
+    "asn": "AS206531",
+    "count": 256
+  },
+  {
+    "name": "TADIRAN CONSUMER AND TECHNOLOGY PRODUCTS LTD",
+    "asn": "AS206106",
+    "count": 256
+  },
+  {
+    "name": "TNUVA CENTRAL CO-OPERATIVE FOR THE MARKETING OF AGRICULTURAL PRODUCE IN ISRAEL LTD",
+    "asn": "AS205577",
+    "count": 256
+  },
+  {
+    "name": "FISHMAN CHAINS LTD",
+    "asn": "AS204831",
+    "count": 256
   },
   {
     "name": "Elcam Medical Agricultural Cooperative Association Ltd",
     "asn": "AS204395",
-    "count": "0"
+    "count": 256
   },
   {
-    "name": "Y-tech ICT Ltd.",
-    "asn": "AS203777",
-    "count": "0"
+    "name": "Voicenter LTD",
+    "asn": "AS203077",
+    "count": 256
   },
   {
-    "name": "CLOUDLEASE LTD",
-    "asn": "AS50580",
-    "count": "0"
+    "name": "ORIAN SH.M LTD.",
+    "asn": "AS203009",
+    "count": 256
   },
   {
-    "name": "Malot Afek Communications Ltd.",
-    "asn": "AS15686",
-    "count": "0"
+    "name": "NETSTYLE A. LTD",
+    "asn": "AS202769",
+    "count": 256
+  },
+  {
+    "name": "Yael Software & Systems LTD.",
+    "asn": "AS202369",
+    "count": 256
+  },
+  {
+    "name": "HILAN LTD",
+    "asn": "AS202320",
+    "count": 256
+  },
+  {
+    "name": "Kibbutz Hatzerim Ltd",
+    "asn": "AS201418",
+    "count": 256
+  },
+  {
+    "name": "Lanir communication LTD",
+    "asn": "AS201397",
+    "count": 256
+  },
+  {
+    "name": "Meitar Law Office",
+    "asn": "AS201025",
+    "count": 256
+  },
+  {
+    "name": "Free Telecom Communication Services LTD",
+    "asn": "AS200495",
+    "count": 256
+  },
+  {
+    "name": "BMC Software Israel Ltd.",
+    "asn": "AS200343",
+    "count": 256
+  },
+  {
+    "name": "The Kibbutzim Seminar - College of Education, Technology and Arts (AR)",
+    "asn": "AS200309",
+    "count": 256
+  },
+  {
+    "name": "Swiftness Ltd",
+    "asn": "AS199989",
+    "count": 256
+  },
+  {
+    "name": "Bank Clearing Center LTD",
+    "asn": "AS199836",
+    "count": 256
+  },
+  {
+    "name": "Brightsource Industries (Israel) Ltd.",
+    "asn": "AS198773",
+    "count": 256
+  },
+  {
+    "name": "SOLAREDGE TECHNOLOGIES LTD.",
+    "asn": "AS198425",
+    "count": 256
+  },
+  {
+    "name": "Egged Transportation Company Ltd.",
+    "asn": "AS197538",
+    "count": 256
+  },
+  {
+    "name": "Israel Brokerage & Investments I.B.I Ltd.",
+    "asn": "AS197012",
+    "count": 256
+  },
+  {
+    "name": "GetFPV",
+    "asn": "AS15643",
+    "count": 256
+  },
+  {
+    "name": "Cellcom Fixed Line Communication L.P",
+    "asn": "AS9117",
+    "count": 0
+  },
+  {
+    "name": "Partner Communications Ltd.",
+    "asn": "AS9116",
+    "count": 0
+  },
+  {
+    "name": "Cellcom Fixed Line Communication L.P",
+    "asn": "AS8584",
+    "count": 0
+  },
+  {
+    "name": "Star Network and Promotion LTD",
+    "asn": "AS60960",
+    "count": 0
+  },
+  {
+    "name": "Alex Largman",
+    "asn": "AS59651",
+    "count": 0
+  },
+  {
+    "name": "Divinetworks Ltd.",
+    "asn": "AS58738",
+    "count": 0
+  },
+  {
+    "name": "DiViNetworks LTD.",
+    "asn": "AS57731",
+    "count": 0
+  },
+  {
+    "name": "BENNY MILKHIKIR",
+    "asn": "AS57727",
+    "count": 0
+  },
+  {
+    "name": "SPOT-NET LTD",
+    "asn": "AS57259",
+    "count": 0
+  },
+  {
+    "name": "Conduit Connect B.V",
+    "asn": "AS56473",
+    "count": 0
+  },
+  {
+    "name": "O.M.C. COMPUTERS & COMMUNICATIONS LTD",
+    "asn": "AS56378",
+    "count": 0
+  },
+  {
+    "name": "DRW ISRAEL LTD",
+    "asn": "AS51587",
+    "count": 0
   },
   {
     "name": "Goldman Networks LTD",
     "asn": "AS51123",
-    "count": "0"
+    "count": 0
   },
   {
-    "name": "Tapuz People Ltd",
-    "asn": "AS51287",
-    "count": "0"
+    "name": "Cobweb Security LTD",
+    "asn": "AS50549",
+    "count": 0
   },
   {
-    "name": "Zoran Microelectronics LTD",
-    "asn": "AS51304",
-    "count": "0"
+    "name": "LIVEPERSON LTD",
+    "asn": "AS49794",
+    "count": 0
+  },
+  {
+    "name": "Inter Pal Networks Ltd",
+    "asn": "AS49539",
+    "count": 0
+  },
+  {
+    "name": "Hyp Payment Solutions Ltd",
+    "asn": "AS49308",
+    "count": 0
+  },
+  {
+    "name": "EXAWARE ROUTING LTD",
+    "asn": "AS49076",
+    "count": 0
+  },
+  {
+    "name": "K.M.A ADVANCED TECHNOLOGIES LTD",
+    "asn": "AS47997",
+    "count": 0
+  },
+  {
+    "name": "GBS INFORMATION AND COMMUNICATION TECHNOLOGIES LTD",
+    "asn": "AS47776",
+    "count": 0
+  },
+  {
+    "name": "USTCloud",
+    "asn": "AS47573",
+    "count": 0
+  },
+  {
+    "name": "XGlobe LTD",
+    "asn": "AS47177",
+    "count": 0
+  },
+  {
+    "name": "Mr Telecom Ltd",
+    "asn": "AS47135",
+    "count": 0
+  },
+  {
+    "name": "Trendline",
+    "asn": "AS4516",
+    "count": 0
+  },
+  {
+    "name": "O.M.C. COMPUTERS & COMMUNICATIONS LTD",
+    "asn": "AS44150",
+    "count": 0
+  },
+  {
+    "name": "E-Shop Ltd.",
+    "asn": "AS43597",
+    "count": 0
+  },
+  {
+    "name": "Rachamim Aviel Twito",
+    "asn": "AS42994",
+    "count": 0
+  },
+  {
+    "name": "OOVOO Comunications Ltd.",
+    "asn": "AS42384",
+    "count": 0
+  },
+  {
+    "name": "Beezz Communication Solutions ltd",
+    "asn": "AS42254",
+    "count": 0
+  },
+  {
+    "name": "O.M.C. COMPUTERS & COMMUNICATIONS LTD",
+    "asn": "AS42111",
+    "count": 0
+  },
+  {
+    "name": "Convergin Israel Ltd",
+    "asn": "AS41857",
+    "count": 0
+  },
+  {
+    "name": "Active Communication Ltd.",
+    "asn": "AS4148",
+    "count": 0
+  },
+  {
+    "name": "R.L Internet & networks LTD",
+    "asn": "AS41042",
+    "count": 0
+  },
+  {
+    "name": "O.M.C. COMPUTERS & COMMUNICATIONS LTD",
+    "asn": "AS39158",
+    "count": 0
+  },
+  {
+    "name": "Uniq Systems Solutions Ltd",
+    "asn": "AS39076",
+    "count": 0
+  },
+  {
+    "name": "Cellcom Fixed Line Communication L.P",
+    "asn": "AS38992",
+    "count": 0
+  },
+  {
+    "name": "MENTOR GRAPHICS DEVELOPMENT SERVICES (ISRAEL) LTD",
+    "asn": "AS35812",
+    "count": 0
+  },
+  {
+    "name": "Cambrix Group LTD .",
+    "asn": "AS35786",
+    "count": 0
+  },
+  {
+    "name": "Ness A.T. Ltd",
+    "asn": "AS35541",
+    "count": 0
+  },
+  {
+    "name": "FACEBOOK ISRAEL LTD",
+    "asn": "AS34825",
+    "count": 0
+  },
+  {
+    "name": "EZFace Ltd",
+    "asn": "AS34598",
+    "count": 0
+  },
+  {
+    "name": "ALVARION LTD",
+    "asn": "AS34583",
+    "count": 0
+  },
+  {
+    "name": "FARITOM LTD",
+    "asn": "AS34459",
+    "count": 0
+  },
+  {
+    "name": "Ariave Satcom LTD",
+    "asn": "AS34105",
+    "count": 0
+  },
+  {
+    "name": "M-wise LTD",
+    "asn": "AS33952",
+    "count": 0
+  },
+  {
+    "name": "The Spamhaus Project",
+    "asn": "AS31190",
+    "count": 0
+  },
+  {
+    "name": "TEOCO LTD",
+    "asn": "AS31092",
+    "count": 0
+  },
+  {
+    "name": "Bezeq International-Ltd",
+    "asn": "AS28833",
+    "count": 0
+  },
+  {
+    "name": "OMNITECH",
+    "asn": "AS28799",
+    "count": 0
+  },
+  {
+    "name": "Pali Krichevsky Dasha",
+    "asn": "AS25235",
+    "count": 0
+  },
+  {
+    "name": "DiViNetworks LTD.",
+    "asn": "AS25228",
+    "count": 0
+  },
+  {
+    "name": "Ansol Network Solutions Ltd",
+    "asn": "AS25078",
+    "count": 0
+  },
+  {
+    "name": "Max IT Finance Ltd",
+    "asn": "AS216306",
+    "count": 0
+  },
+  {
+    "name": "Mikhail Fedorov",
+    "asn": "AS215751",
+    "count": 0
+  },
+  {
+    "name": "Daniel Mishayev",
+    "asn": "AS215460",
+    "count": 0
+  },
+  {
+    "name": "Badel computer and administration services LTD",
+    "asn": "AS215309",
+    "count": 0
+  },
+  {
+    "name": "IT-GURU MANAGED CYBER & TECHNOLOGIES SERVICES LTD",
+    "asn": "AS215141",
+    "count": 0
+  },
+  {
+    "name": "HOSTLOCAL NETWORKS LTD",
+    "asn": "AS215101",
+    "count": 0
+  },
+  {
+    "name": "Med-1 IC-1 (1999) LTD",
+    "asn": "AS214635",
+    "count": 0
+  },
+  {
+    "name": "Orbograph LTD",
+    "asn": "AS21363",
+    "count": 0
+  },
+  {
+    "name": "ISRAEL RAILWAYS LTD",
+    "asn": "AS213564",
+    "count": 0
+  },
+  {
+    "name": "Interhost Communication Solutions Ltd.",
+    "asn": "AS213391",
+    "count": 0
+  },
+  {
+    "name": "MONTE- CARLO FOR COMMUNICATION LTD",
+    "asn": "AS213378",
+    "count": 0
+  },
+  {
+    "name": "Tawfiq Mhamid",
+    "asn": "AS213302",
+    "count": 0
+  },
+  {
+    "name": "David Lowes",
+    "asn": "AS213284",
+    "count": 0
+  },
+  {
+    "name": "Radware Ltd",
+    "asn": "AS213232",
+    "count": 0
+  },
+  {
+    "name": "LIVEU LTD",
+    "asn": "AS213225",
+    "count": 0
+  },
+  {
+    "name": "\"Delek\" the Israel Fuel Corporation Ltd.",
+    "asn": "AS212937",
+    "count": 0
+  },
+  {
+    "name": "Ze Host Ltd",
+    "asn": "AS212870",
+    "count": 0
+  },
+  {
+    "name": "N FIBER LTD",
+    "asn": "AS212698",
+    "count": 0
+  },
+  {
+    "name": "NOVA LTD",
+    "asn": "AS212612",
+    "count": 0
+  },
+  {
+    "name": "PLAYSTUDIOS INTERNATIONAL ISRAEL LTD",
+    "asn": "AS211923",
+    "count": 0
+  },
+  {
+    "name": "Check Point Software Technologies Ltd",
+    "asn": "AS211880",
+    "count": 0
+  },
+  {
+    "name": "Autonomous System Number for RWANDATEL, Rwanda",
+    "asn": "AS21174",
+    "count": 0
+  },
+  {
+    "name": "Israel Police",
+    "asn": "AS211367",
+    "count": 0
+  },
+  {
+    "name": "Invoke Solutions IL Ltd",
+    "asn": "AS21133",
+    "count": 0
+  },
+  {
+    "name": "Nebius Israel Ltd",
+    "asn": "AS210560",
+    "count": 0
+  },
+  {
+    "name": "C.S.P. CLOUD COMMUNICATION SERVICES LTD",
+    "asn": "AS210455",
+    "count": 0
+  },
+  {
+    "name": "Gulfsat Autonomous System",
+    "asn": "AS21042",
+    "count": 0
+  },
+  {
+    "name": "Targetmatch LTD",
+    "asn": "AS209876",
+    "count": 0
+  },
+  {
+    "name": "Smarten Ltd",
+    "asn": "AS209753",
+    "count": 0
+  },
+  {
+    "name": "Skybox Security Ltd.",
+    "asn": "AS209750",
+    "count": 0
+  },
+  {
+    "name": "Drubit Raid LTD",
+    "asn": "AS209443",
+    "count": 0
+  },
+  {
+    "name": "TEAM 3 MANAGEMENT AND INVESTMENTS 1997 LTD",
+    "asn": "AS208581",
+    "count": 0
+  },
+  {
+    "name": "Monogoto ltd",
+    "asn": "AS208362",
+    "count": 0
+  },
+  {
+    "name": "Puzzle Communication (F.Y) Ltd",
+    "asn": "AS208113",
+    "count": 0
+  },
+  {
+    "name": "Drivenets Ltd",
+    "asn": "AS208088",
+    "count": 0
+  },
+  {
+    "name": "MIRAS TEKSHORAT LTD",
+    "asn": "AS207588",
+    "count": 0
+  },
+  {
+    "name": "TOURTECH TOP LTD",
+    "asn": "AS207331",
+    "count": 0
+  },
+  {
+    "name": "VIBER LAB LTD",
+    "asn": "AS207285",
+    "count": 0
+  },
+  {
+    "name": "Diplomat Distributors (1968) Ltd",
+    "asn": "AS207260",
+    "count": 0
+  },
+  {
+    "name": "S.SHAHAR COMMUNICATION AND PROGRAMMING SYSTEMS LTD",
+    "asn": "AS207052",
+    "count": 0
+  },
+  {
+    "name": "Vinetu Technologies - ELI MELAMED LTD",
+    "asn": "AS206875",
+    "count": 0
+  },
+  {
+    "name": "IronSource Ltd.",
+    "asn": "AS206650",
+    "count": 0
+  },
+  {
+    "name": "BGProtect LTD",
+    "asn": "AS206400",
+    "count": 0
+  },
+  {
+    "name": "ABRA Cloud Solutions Ltd",
+    "asn": "AS206056",
+    "count": 0
+  },
+  {
+    "name": "VAST Data Ltd",
+    "asn": "AS206020",
+    "count": 0
+  },
+  {
+    "name": "One System Integration LTD",
+    "asn": "AS205941",
+    "count": 0
+  },
+  {
+    "name": "PassportCard Israel General Insurance Agency 2014 Ltd",
+    "asn": "AS205551",
+    "count": 0
+  },
+  {
+    "name": "netanel siboni",
+    "asn": "AS205203",
+    "count": 0
+  },
+  {
+    "name": "Green Team Internet LTD",
+    "asn": "AS204078",
+    "count": 0
+  },
+  {
+    "name": "CLICKIT BUSINESS DEVELOPMENT LTD",
+    "asn": "AS203276",
+    "count": 0
+  },
+  {
+    "name": "Jerusalem District Electricity Co. Ltd.",
+    "asn": "AS202145",
+    "count": 0
+  },
+  {
+    "name": "LEVERATE TECHNOLOGICAL TRADING LTD",
+    "asn": "AS202102",
+    "count": 0
+  },
+  {
+    "name": "CYBERINT TECHNOLOGIES LTD",
+    "asn": "AS202001",
+    "count": 0
+  },
+  {
+    "name": "O.M.C. COMPUTERS & COMMUNICATIONS LTD",
+    "asn": "AS201660",
+    "count": 0
+  },
+  {
+    "name": "ISP NETWORK LTD",
+    "asn": "AS201088",
+    "count": 0
+  },
+  {
+    "name": "Contact Production LTD",
+    "asn": "AS201043",
+    "count": 0
+  },
+  {
+    "name": "O.M.C. COMPUTERS & COMMUNICATIONS LTD",
+    "asn": "AS199747",
+    "count": 0
+  },
+  {
+    "name": "CARASSO MOTORS LTD",
+    "asn": "AS199115",
+    "count": 0
+  },
+  {
+    "name": "Golan Telecom Ltd.",
+    "asn": "AS198484",
+    "count": 0
+  },
+  {
+    "name": "Excellence Nessuah services LTD",
+    "asn": "AS197850",
+    "count": 0
+  },
+  {
+    "name": "Bynet data Communications LTD",
+    "asn": "AS197210",
+    "count": 0
+  },
+  {
+    "name": "LOYALNESS LTD",
+    "asn": "AS196828",
+    "count": 0
+  },
+  {
+    "name": "Bezeq International-Ltd",
+    "asn": "AS196769",
+    "count": 0
+  },
+  {
+    "name": "Dassault systemes Israel ltd",
+    "asn": "AS16240",
+    "count": 0
+  },
+  {
+    "name": "Thales DS Israel Ltd",
+    "asn": "AS15708",
+    "count": 0
+  },
+  {
+    "name": "Malot Afek Communications Ltd.",
+    "asn": "AS15686",
+    "count": 0
+  },
+  {
+    "name": "Cellcom Fixed Line Communication L.P",
+    "asn": "AS13264",
+    "count": 0
   }
 ]

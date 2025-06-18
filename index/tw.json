@@ -2,1681 +2,2446 @@
   {
     "name": "Data Communication Business Group",
     "asn": "AS3462",
-    "count": "12,272,384"
+    "count": 12231936
   },
   {
     "name": "Taiwan Academic Network (TANet) Information Center",
     "asn": "AS1659",
-    "count": "6,004,480"
+    "count": 6004480
   },
   {
     "name": "Taiwan Fixed Network, Telco and Network Service Provider.",
     "asn": "AS9924",
-    "count": "2,508,032"
+    "count": 1893120
   },
   {
     "name": "Far EastTone Telecommunication Co., Ltd.",
     "asn": "AS9674",
-    "count": "1,982,464"
+    "count": 1781760
   },
   {
     "name": "Mobile Business Group",
     "asn": "AS17421",
-    "count": "1,592,064"
+    "count": 1633792
   },
   {
     "name": "Digital United Inc.",
     "asn": "AS4780",
-    "count": "1,576,960"
+    "count": 1544192
   },
   {
     "name": "Hoshin Multimedia Center Inc.",
     "asn": "AS9416",
-    "count": "1,183,744"
-  },
-  {
-    "name": "Asia Pacific On-line Service Inc.",
-    "asn": "AS7482",
-    "count": "986,368"
-  },
-  {
-    "name": "Taiwan Mobile Co., Ltd.",
-    "asn": "AS24158",
-    "count": "843,008"
-  },
-  {
-    "name": "New Century InfoComm Tech Co., Ltd.",
-    "asn": "AS9919",
-    "count": "705,280"
+    "count": 1248768
   },
   {
     "name": "Asia Pacific Telecom",
     "asn": "AS17709",
-    "count": "698,880"
+    "count": 1010688
   },
   {
-    "name": "DigiCentre Company Limited,",
-    "asn": "AS7532",
-    "count": "451,328"
+    "name": "Asia Pacific On-line Service Inc.",
+    "asn": "AS7482",
+    "count": 723712
   },
   {
-    "name": "National Cheng Kung University",
-    "asn": "AS18177",
-    "count": "448,256"
+    "name": "New Century InfoComm Tech Co., Ltd.",
+    "asn": "AS9919",
+    "count": 694784
   },
   {
     "name": "kbro CO. Ltd.",
     "asn": "AS38841",
-    "count": "420,864"
+    "count": 595968
+  },
+  {
+    "name": "Taiwan Mobile Co., Ltd.",
+    "asn": "AS24158",
+    "count": 537088
   },
   {
     "name": "Data Communication Business Group",
     "asn": "AS4782",
-    "count": "413,696"
-  },
-  {
-    "name": "National Chiao Tung University,",
-    "asn": "AS9916",
-    "count": "401,408"
-  },
-  {
-    "name": "Sony Network Taiwan Limited",
-    "asn": "AS18182",
-    "count": "385,024"
-  },
-  {
-    "name": "National Chung Cheng University",
-    "asn": "AS17712",
-    "count": "355,840"
-  },
-  {
-    "name": "TBC",
-    "asn": "AS131596",
-    "count": "351,232"
-  },
-  {
-    "name": "National Sun Yat-sen University",
-    "asn": "AS17713",
-    "count": "307,968"
-  },
-  {
-    "name": "Koos Broadband Telecom",
-    "asn": "AS18042",
-    "count": "304,640"
+    "count": 414208
   },
   {
     "name": "Ambit Microsystem Corporation",
     "asn": "AS131591",
-    "count": "281,856"
-  },
-  {
-    "name": "National Taiwan University",
-    "asn": "AS17716",
-    "count": "273,664"
+    "count": 413696
   },
   {
     "name": "UNION BROADBAND NETWORK",
     "asn": "AS24164",
-    "count": "257,280"
+    "count": 377344
   },
   {
-    "name": "SaveCom Internation Inc.",
-    "asn": "AS9676",
-    "count": "255,232"
+    "name": "TBC",
+    "asn": "AS131596",
+    "count": 354304
+  },
+  {
+    "name": "Sony Network Taiwan Limited",
+    "asn": "AS18182",
+    "count": 320512
   },
   {
     "name": "Taiwan Infrastructure Network Technologie",
     "asn": "AS18049",
-    "count": "247,808"
+    "count": 319488
   },
   {
-    "name": "GCNet (Reach & Range Inc.)",
-    "asn": "AS4662",
-    "count": "180,224"
+    "name": "SaveCom Internation Inc.",
+    "asn": "AS9676",
+    "count": 252928
   },
   {
     "name": "VEE TIME CORP.",
     "asn": "AS17809",
-    "count": "180,224"
+    "count": 180224
   },
   {
     "name": "Taiwan Star Telecom Corporation Limited.(Former Vibo Telecom Inc.)",
     "asn": "AS24157",
-    "count": "167,936"
-  },
-  {
-    "name": "Peicity Digital Cable Television., LTD",
-    "asn": "AS131627",
-    "count": "104,448"
-  },
-  {
-    "name": "DaDa Broadband LTD.",
-    "asn": "AS18419",
-    "count": "99,584"
-  },
-  {
-    "name": "National Dong Hwa University",
-    "asn": "AS17711",
-    "count": "94,720"
-  },
-  {
-    "name": "Academic Sinica Network",
-    "asn": "AS9264",
-    "count": "91,136"
-  },
-  {
-    "name": "National Center for High-performance Computing",
-    "asn": "AS7539",
-    "count": "89,088"
-  },
-  {
-    "name": "Asia Pacific Broadband Fixed Lines Co., Ltd.",
-    "asn": "AS24154",
-    "count": "88,064"
-  },
-  {
-    "name": "UNION BROADBAND NETWORK",
-    "asn": "AS24163",
-    "count": "78,336"
-  },
-  {
-    "name": "National Tsing-Hua University",
-    "asn": "AS18047",
-    "count": "73,728"
-  },
-  {
-    "name": "Industrial Technology Research Institute",
-    "asn": "AS18422",
-    "count": "69,632"
+    "count": 167936
   },
   {
     "name": "DongFong Technology Co. Ltd.",
     "asn": "AS18046",
-    "count": "68,864"
+    "count": 146688
   },
   {
-    "name": "National Taiwan Normal University",
-    "asn": "AS38844",
-    "count": "66,304"
+    "name": "Peicity Digital Cable Television., LTD",
+    "asn": "AS131627",
+    "count": 135168
   },
   {
-    "name": "National Central University",
-    "asn": "AS18420",
-    "count": "65,536"
+    "name": "Koos Broadband Telecom",
+    "asn": "AS18042",
+    "count": 123136
   },
   {
-    "name": "TISNET Technology Inc.",
-    "asn": "AS7535",
-    "count": "65,536"
+    "name": "DaDa Broadband LTD.",
+    "asn": "AS18419",
+    "count": 115456
   },
   {
-    "name": "National Chung Hsing University",
-    "asn": "AS38847",
-    "count": "65,536"
+    "name": "Asia Pacific Broadband Fixed Lines Co., Ltd.",
+    "asn": "AS24154",
+    "count": 100608
   },
   {
-    "name": "Fu Jen Catholic University",
-    "asn": "AS38845",
-    "count": "65,536"
-  },
-  {
-    "name": "TNET Communication Inc.",
-    "asn": "AS38851",
-    "count": "60,160"
-  },
-  {
-    "name": "AboveNet Communications Taiwan",
-    "asn": "AS17408",
-    "count": "57,600"
-  },
-  {
-    "name": "Taiwan Network Access Point",
-    "asn": "AS7656",
-    "count": "47,616"
-  },
-  {
-    "name": "SYSTEX CORPORATION",
-    "asn": "AS4783",
-    "count": "45,056"
-  },
-  {
-    "name": "Extra-Lan Technologies Co., LTD",
-    "asn": "AS18429",
-    "count": "43,008"
-  },
-  {
-    "name": "KG Telecommunication Co., Ltd",
-    "asn": "AS9918",
-    "count": "43,008"
-  },
-  {
-    "name": "New Changhua Digital Cable TV CO,.Ltd",
-    "asn": "AS131597",
-    "count": "37,888"
-  },
-  {
-    "name": "HITRON TECHNOLOGY INC.",
-    "asn": "AS9311",
-    "count": "35,840"
-  },
-  {
-    "name": "Taiwan Internet Gateway",
-    "asn": "AS10126",
-    "count": "34,816"
-  },
-  {
-    "name": "New Century InfoComm Tech Co., Ltd.",
-    "asn": "AS131586",
-    "count": "34,304"
-  },
-  {
-    "name": "Diyixian.com (TW) Limited",
-    "asn": "AS9244",
-    "count": "31,744"
-  },
-  {
-    "name": "PUNET Taiwan",
-    "asn": "AS9216",
-    "count": "28,672"
-  },
-  {
-    "name": "Acer CyberCenter Services, Inc.",
-    "asn": "AS17420",
-    "count": "28,672"
-  },
-  {
-    "name": "Digidom CableTV Co., LTD.",
-    "asn": "AS131607",
-    "count": "27,904"
-  },
-  {
-    "name": "Internet Content Provider",
-    "asn": "AS10229",
-    "count": "27,392"
-  },
-  {
-    "name": "Taiwan Intelligent Fiber Optic Network Co.,Ltd.",
-    "asn": "AS131584",
-    "count": "26,624"
-  },
-  {
-    "name": "NTCU",
-    "asn": "AS18185",
-    "count": "25,600"
-  },
-  {
-    "name": "UNION BROADBAND NETWORK",
-    "asn": "AS24165",
-    "count": "23,552"
-  },
-  {
-    "name": "Taiwan Internet Gateway",
-    "asn": "AS9505",
-    "count": "22,528"
-  },
-  {
-    "name": "PEER WITH OVERSEA ISP",
-    "asn": "AS10085",
-    "count": "16,640"
-  },
-  {
-    "name": "Mackay Telecommunication Inc.",
-    "asn": "AS7478",
-    "count": "16,384"
-  },
-  {
-    "name": "EASPNET Inc.",
-    "asn": "AS10135",
-    "count": "16,384"
-  },
-  {
-    "name": "YAHOO! TAIWAN",
-    "asn": "AS24506",
-    "count": "14,592"
-  },
-  {
-    "name": "Academia Sinica Grid Computing Center",
-    "asn": "AS24167",
-    "count": "13,824"
-  },
-  {
-    "name": "Asia Pacific On-Line Service Inc.",
-    "asn": "AS131142",
-    "count": "13,568"
-  },
-  {
-    "name": "New Kaohsiung Broadband LTD.",
-    "asn": "AS9922",
-    "count": "13,312"
-  },
-  {
-    "name": "Great Taipei Broadband Company Ltd.",
-    "asn": "AS18413",
-    "count": "12,288"
-  },
-  {
-    "name": "PUMO NETWORK DIGITAL TECHNOLOGY CO.,LTD",
-    "asn": "AS38843",
-    "count": "11,264"
-  },
-  {
-    "name": "Serverfield Co., Ltd.",
-    "asn": "AS134094",
-    "count": "11,264"
-  },
-  {
-    "name": "QLINKS",
-    "asn": "AS59268",
-    "count": "9,216"
-  },
-  {
-    "name": "Asia Pacific Broadband Wireless Communications Inc",
-    "asn": "AS24155",
-    "count": "8,704"
-  },
-  {
-    "name": "Sky Digital Co., Ltd.",
-    "asn": "AS134823",
-    "count": "8,192"
-  },
-  {
-    "name": "EDT Network Services Limited Co,Ltd.",
-    "asn": "AS18411",
-    "count": "8,192"
-  },
-  {
-    "name": "Chung Hsiao East Road",
-    "asn": "AS4845",
-    "count": "8,192"
-  },
-  {
-    "name": "Trade-Van Informaiton Services Co.",
-    "asn": "AS9671",
-    "count": "8,192"
-  },
-  {
-    "name": "Yuan-Jhen Info., Co., Ltd",
-    "asn": "AS131149",
-    "count": "8,192"
-  },
-  {
-    "name": "DWINS Digital Service Corp.,",
-    "asn": "AS17416",
-    "count": "8,192"
-  },
-  {
-    "name": "Tai-Fu Cloud Co., Ltd.",
-    "asn": "AS131628",
-    "count": "7,680"
-  },
-  {
-    "name": "Vocom International Telecommunications Inc. Taiwan POP Internet Service Srovider",
-    "asn": "AS45250",
-    "count": "6,656"
-  },
-  {
-    "name": "Carl International Information ltd.",
-    "asn": "AS131618",
-    "count": "6,144"
-  },
-  {
-    "name": "Education Bureau, Kaohsiung City Government, Taiwan",
-    "asn": "AS131150",
-    "count": "5,632"
-  },
-  {
-    "name": "President Information Corp.",
-    "asn": "AS17710",
-    "count": "5,376"
-  },
-  {
-    "name": "National Center for Research on Earthquake Engineering",
-    "asn": "AS18183",
-    "count": "5,120"
-  },
-  {
-    "name": "HiNet Service Center in U.S.A",
-    "asn": "AS9680",
-    "count": "4,352"
-  },
-  {
-    "name": "National Health Research Institutes",
-    "asn": "AS18181",
-    "count": "4,096"
-  },
-  {
-    "name": "B-WIZ Technology",
-    "asn": "AS18415",
-    "count": "4,096"
-  },
-  {
-    "name": "Chi Mei Corporation",
-    "asn": "AS24160",
-    "count": "4,096"
-  },
-  {
-    "name": "Internet Service Provider. Taiwan",
-    "asn": "AS38797",
-    "count": "4,096"
-  },
-  {
-    "name": "MiTAC Inc.",
-    "asn": "AS18179",
-    "count": "4,096"
-  },
-  {
-    "name": "Mobitai ISP Network Information Center",
-    "asn": "AS18040",
-    "count": "4,096"
-  },
-  {
-    "name": "Magna Hosting Ltd",
-    "asn": "AS135387",
-    "count": "3,840"
-  },
-  {
-    "name": "SinoPac Holdings Corporate Network",
-    "asn": "AS18045",
-    "count": "3,584"
-  },
-  {
-    "name": "HostingInside LTD.",
-    "asn": "AS134522",
-    "count": "3,072"
-  },
-  {
-    "name": "KlickKlack Co., Ltd",
-    "asn": "AS131645",
-    "count": "3,072"
-  },
-  {
-    "name": "Chief Telecom Inc.",
-    "asn": "AS131600",
-    "count": "2,816"
-  },
-  {
-    "name": "Cloud Speed Technology Limited Co.",
-    "asn": "AS138611",
-    "count": "2,816"
-  },
-  {
-    "name": "Dynamic Computing Technology",
-    "asn": "AS131601",
-    "count": "2,304"
-  },
-  {
-    "name": "WELL-POWER Tech Corp",
-    "asn": "AS133158",
-    "count": "2,304"
-  },
-  {
-    "name": "Worldstar Network",
-    "asn": "AS131603",
-    "count": "2,304"
-  },
-  {
-    "name": "National Applied Research Laboratories",
-    "asn": "AS18426",
-    "count": "2,048"
-  },
-  {
-    "name": "KINGSPEED-TW-AP",
-    "asn": "AS45504",
-    "count": "2,048"
-  },
-  {
-    "name": "loongaming",
-    "asn": "AS131651",
-    "count": "2,048"
-  },
-  {
-    "name": "Chen Xiang International Co., Ltd.",
-    "asn": "AS136756",
-    "count": "2,048"
-  },
-  {
-    "name": "PAGIC.net , INC.",
-    "asn": "AS4781",
-    "count": "2,048"
-  },
-  {
-    "name": "Chinatrust Commercial Bank",
-    "asn": "AS131143",
-    "count": "2,048"
-  },
-  {
-    "name": "NETEASE",
-    "asn": "AS131659",
-    "count": "2,048"
-  },
-  {
-    "name": "Mootech Asia",
-    "asn": "AS136462",
-    "count": "1,792"
-  },
-  {
-    "name": "Pittqiao Network Information Co.,Ltd.",
-    "asn": "AS131642",
-    "count": "1,536"
-  },
-  {
-    "name": "Aldford Network Solutions Limted",
-    "asn": "AS38385",
-    "count": "1,536"
-  },
-  {
-    "name": "141 Yang Guan Jie",
-    "asn": "AS45599",
-    "count": "1,536"
-  },
-  {
-    "name": "TWIDC",
-    "asn": "AS55789",
-    "count": "1,536"
-  },
-  {
-    "name": "Cloudmax Inc.",
-    "asn": "AS24168",
-    "count": "1,536"
-  },
-  {
-    "name": "LETSWIN TELECOM CO., LTD.",
-    "asn": "AS131632",
-    "count": "1,280"
-  },
-  {
-    "name": "Airpay TW",
-    "asn": "AS131635",
-    "count": "1,280"
-  },
-  {
-    "name": "HWA CENT TELECOMMUNICATIONS LIMITED",
-    "asn": "AS139471",
-    "count": "1,280"
-  },
-  {
-    "name": "NSS INT'L CO., LTD.",
-    "asn": "AS131626",
-    "count": "1,280"
-  },
-  {
-    "name": "Mega International Commercial Bank",
-    "asn": "AS131587",
-    "count": "1,024"
-  },
-  {
-    "name": "Bank Of Taiwan",
-    "asn": "AS131148",
-    "count": "1,024"
-  },
-  {
-    "name": "WANIN INTERNATIONAL CO., LTD.",
-    "asn": "AS131636",
-    "count": "1,024"
-  },
-  {
-    "name": "Denpa Ltd.",
-    "asn": "AS131662",
-    "count": "1,024"
-  },
-  {
-    "name": "Compal Electronics",
-    "asn": "AS131680",
-    "count": "1,024"
-  },
-  {
-    "name": "Taiwan Envirotech Development Corp.",
-    "asn": "AS131609",
-    "count": "1,024"
-  },
-  {
-    "name": "San Da Cable TV Co., Ltd.",
-    "asn": "AS131611",
-    "count": "1,024"
-  },
-  {
-    "name": "ASUSTek COMPUTER INC.",
-    "asn": "AS131144",
-    "count": "1,024"
-  },
-  {
-    "name": "OpenFor Telecommunications Co., Ltd.",
-    "asn": "AS131677",
-    "count": "1,024"
-  },
-  {
-    "name": "Jigentec CO. LTD.",
-    "asn": "AS131619",
-    "count": "1,024"
-  },
-  {
-    "name": "Taiwan Cooperative Bank",
-    "asn": "AS131590",
-    "count": "1,024"
-  },
-  {
-    "name": "Beyond Orbit Co., Ltd.",
-    "asn": "AS131675",
-    "count": "1,024"
-  },
-  {
-    "name": "SHOPEE (TAIWAN) CO. LTD.",
-    "asn": "AS131623",
-    "count": "1,024"
-  },
-  {
-    "name": "Inventec Besta CO.,LTD",
-    "asn": "AS131605",
-    "count": "1,024"
-  },
-  {
-    "name": "FastCould",
-    "asn": "AS131637",
-    "count": "1,024"
-  },
-  {
-    "name": "Foxconn Technology Group",
-    "asn": "AS131589",
-    "count": "1,024"
-  },
-  {
-    "name": "61 Ming Chuan Road Section 1",
-    "asn": "AS131164",
-    "count": "1,024"
-  },
-  {
-    "name": "Wistron Corporation",
-    "asn": "AS131599",
-    "count": "1,024"
-  },
-  {
-    "name": "Kingston Technology Fareast Corp.",
-    "asn": "AS131595",
-    "count": "1,024"
-  },
-  {
-    "name": "PEGATRON",
-    "asn": "AS131593",
-    "count": "1,024"
-  },
-  {
-    "name": "AION TECHNOLOGIES Inc.",
-    "asn": "AS38837",
-    "count": "768"
-  },
-  {
-    "name": "Garena (TAIWAN) CO. LTD.",
-    "asn": "AS131630",
-    "count": "768"
-  },
-  {
-    "name": "UNIGATE",
-    "asn": "AS9831",
-    "count": "768"
-  },
-  {
-    "name": "Financial Information Service Co., Ltd.",
-    "asn": "AS131588",
-    "count": "768"
-  },
-  {
-    "name": "SERVCOMPUTING INC",
-    "asn": "AS131620",
-    "count": "768"
-  },
-  {
-    "name": "HUANG HR CO., LTD.",
-    "asn": "AS131657",
-    "count": "768"
-  },
-  {
-    "name": "GRONEXT CO., LTD.",
-    "asn": "AS131667",
-    "count": "512"
-  },
-  {
-    "name": "Taiwan Digital Streaming Co.",
-    "asn": "AS131668",
-    "count": "512"
-  },
-  {
-    "name": "HiMORE Digital",
-    "asn": "AS131273",
-    "count": "512"
-  },
-  {
-    "name": "Chief Telecom Inc.",
-    "asn": "AS10133",
-    "count": "512"
-  },
-  {
-    "name": "133 Da An Road Section 1",
-    "asn": "AS45592",
-    "count": "512"
-  },
-  {
-    "name": "WELL-POWER Tech Corp",
-    "asn": "AS45346",
-    "count": "512"
-  },
-  {
-    "name": "RETN Telecoms Ltd.",
-    "asn": "AS139903",
-    "count": "512"
-  },
-  {
-    "name": "Garmin International Inc",
-    "asn": "AS140079",
-    "count": "512"
-  },
-  {
-    "name": "Anson Network Limited (Taiwan)",
-    "asn": "AS131610",
-    "count": "512"
-  },
-  {
-    "name": "FANTASY TECHNOLOGY CO., LTD.",
-    "asn": "AS131671",
-    "count": "512"
-  },
-  {
-    "name": "Zhendong Information",
-    "asn": "AS131644",
-    "count": "512"
-  },
-  {
-    "name": "NAN YA PLASTICS CORPORATION",
-    "asn": "AS131655",
-    "count": "512"
-  },
-  {
-    "name": "Taiwan Network Information Center",
-    "asn": "AS131621",
-    "count": "512"
-  },
-  {
-    "name": "Sunchi Networks",
-    "asn": "AS131631",
-    "count": "512"
-  },
-  {
-    "name": "Taishin International Bank",
-    "asn": "AS18421",
-    "count": "512"
-  },
-  {
-    "name": "Chen Sheng Network Technology",
-    "asn": "AS131653",
-    "count": "512"
-  },
-  {
-    "name": "KLICKKLACK INFORMATION SECURITY CO., LTD.",
-    "asn": "AS131652",
-    "count": "512"
-  },
-  {
-    "name": "Ruifeng Co., Ltd.",
-    "asn": "AS135383",
-    "count": "256"
-  },
-  {
-    "name": "GIGABYTE",
-    "asn": "AS131663",
-    "count": "256"
-  },
-  {
-    "name": "DOPPLER CYBER THREAT SOLUTIONS INC.",
-    "asn": "AS131669",
-    "count": "256"
-  },
-  {
-    "name": "DOPPLER CYBER THREAT SOLUTIONS INC.",
-    "asn": "AS131670",
-    "count": "256"
-  },
-  {
-    "name": "DQWLIT",
-    "asn": "AS131678",
-    "count": "256"
-  },
-  {
-    "name": "Qualcomm Inc",
-    "asn": "AS133089",
-    "count": "256"
-  },
-  {
-    "name": "Data Communication Business Group,",
-    "asn": "AS131660",
-    "count": "256"
-  },
-  {
-    "name": "MOZ 2008 Corporation",
-    "asn": "AS137015",
-    "count": "256"
-  },
-  {
-    "name": "Taiwan Intelligent Home Corp.",
-    "asn": "AS131639",
-    "count": "256"
-  },
-  {
-    "name": "Internet Systems Consortium, Inc.",
-    "asn": "AS23712",
-    "count": "256"
-  },
-  {
-    "name": "Chuan Chan Co. Ltd.",
-    "asn": "AS24169",
-    "count": "256"
-  },
-  {
-    "name": "Gamania Digital Entertainment Co., Ltd.",
-    "asn": "AS38187",
-    "count": "256"
-  },
-  {
-    "name": "Shin Cheng of Digital Co., Ltd.",
-    "asn": "AS131613",
-    "count": "256"
-  },
-  {
-    "name": "THIS",
-    "asn": "AS17718",
-    "count": "0"
-  },
-  {
-    "name": "Chirue Technology Co., Ltd.",
-    "asn": "AS131643",
-    "count": "0"
-  },
-  {
-    "name": "Cyberterra Corporation,",
-    "asn": "AS18048",
-    "count": "0"
-  },
-  {
-    "name": "Ministry of Education Computer Center Taipei, Taiwan",
-    "asn": "AS17717",
-    "count": "0"
-  },
-  {
-    "name": "DW Solutions Ltd.",
-    "asn": "AS131641",
-    "count": "0"
-  },
-  {
-    "name": "RM D&E, 16F Hung-tai Century tower",
-    "asn": "AS18178",
-    "count": "0"
-  },
-  {
-    "name": "ShunYing Internet Co.,Ltd.",
-    "asn": "AS131640",
-    "count": "0"
-  },
-  {
-    "name": "All Chinese Internet Inc.",
-    "asn": "AS18180",
-    "count": "0"
-  },
-  {
-    "name": "Atlas Internet & Life International, Inc.",
-    "asn": "AS9920",
-    "count": "0"
-  },
-  {
-    "name": "XinYun Data Exchange Co., Ltd.",
-    "asn": "AS131638",
-    "count": "0"
-  },
-  {
-    "name": "Taiwan Mobile Co., Ltd.",
-    "asn": "AS131648",
-    "count": "0"
-  },
-  {
-    "name": "TWIX IPv6 Service Network.(TWIXv6),",
-    "asn": "AS18184",
-    "count": "0"
-  },
-  {
-    "name": "ChungHwa Telecom. Co. Telecommunication Lab.",
-    "asn": "AS17715",
-    "count": "0"
-  },
-  {
-    "name": "YAW JENQ TECHNOLOGY CORPORATION",
-    "asn": "AS18186",
-    "count": "0"
-  },
-  {
-    "name": "ASCC",
-    "asn": "AS18217",
-    "count": "0"
-  },
-  {
-    "name": "104 Information Technology Co., Ltd.",
-    "asn": "AS18410",
-    "count": "0"
-  },
-  {
-    "name": "Chunghwa Telecom Co. , Ltd.",
-    "asn": "AS17714",
-    "count": "0"
-  },
-  {
-    "name": "Far EastTone Telecommunication Co., Ltd.",
-    "asn": "AS18412",
-    "count": "0"
-  },
-  {
-    "name": "MOBA Private Limited Taiwan Branch",
-    "asn": "AS131634",
-    "count": "0"
+    "name": "National Chiao Tung University,",
+    "asn": "AS9916",
+    "count": 93696
   },
   {
     "name": "National Center for High-performance Computing",
-    "asn": "AS18414",
-    "count": "0"
+    "asn": "AS7539",
+    "count": 85504
   },
   {
-    "name": "Sakura Internet Ltd.",
-    "asn": "AS131633",
-    "count": "0"
+    "name": "National Tsing-Hua University",
+    "asn": "AS18047",
+    "count": 73728
   },
   {
-    "name": "NETOWNCHIEF",
-    "asn": "AS18416",
-    "count": "0"
+    "name": "Academia Sinica",
+    "asn": "AS9264",
+    "count": 70656
   },
   {
-    "name": "Taiwan Network Information Center",
-    "asn": "AS18417",
-    "count": "0"
-  },
-  {
-    "name": "Taiwan IPv6 Development Program.",
-    "asn": "AS18418",
-    "count": "0"
-  },
-  {
-    "name": "Taiwan Mobile Co., Ltd.",
-    "asn": "AS131649",
-    "count": "0"
-  },
-  {
-    "name": "Taiwan Mobile Co., Ltd.",
-    "asn": "AS131650",
-    "count": "0"
-  },
-  {
-    "name": "NCIC-Lab",
-    "asn": "AS1769",
-    "count": "0"
-  },
-  {
-    "name": "NCIC-Backbone2",
-    "asn": "AS1768",
-    "count": "0"
-  },
-  {
-    "name": "Yuanghong MultiMedia Technology Co. Ltd.",
-    "asn": "AS18423",
-    "count": "0"
-  },
-  {
-    "name": "CHWBN",
-    "asn": "AS18424",
-    "count": "0"
-  },
-  {
-    "name": "NTT Taiwan Ltd.",
-    "asn": "AS18425",
-    "count": "0"
-  },
-  {
-    "name": "AboveNet Communications Taiwan",
-    "asn": "AS17651",
-    "count": "0"
-  },
-  {
-    "name": "PChome Online",
-    "asn": "AS18427",
-    "count": "0"
-  },
-  {
-    "name": "China United Telecom Corp",
-    "asn": "AS18428",
-    "count": "0"
-  },
-  {
-    "name": "CKMATES INTERNATIONAL CO., LTD",
-    "asn": "AS131629",
-    "count": "0"
-  },
-  {
-    "name": "TSUNGYi YU",
-    "asn": "AS209557",
-    "count": "0"
-  },
-  {
-    "name": "Taiwan Semiconductor Manufactoring Company, Ltd.",
-    "asn": "AS23675",
-    "count": "0"
-  },
-  {
-    "name": "PCCW Hongkong Telecom Ltd., Taiwan Branch.",
-    "asn": "AS9921",
-    "count": "0"
-  },
-  {
-    "name": "Internet Content Provider",
-    "asn": "AS24031",
-    "count": "0"
-  },
-  {
-    "name": "Metlife Taiwan Taipei Office Multihomed",
-    "asn": "AS24096",
-    "count": "0"
-  },
-  {
-    "name": "Digicell Entertainment Co., Ltd",
-    "asn": "AS24153",
-    "count": "0"
-  },
-  {
-    "name": "AsiaInfra International Ltd.",
-    "asn": "AS17502",
-    "count": "0"
-  },
-  {
-    "name": "Yu-Feng Technology Co. Ltd.",
-    "asn": "AS131625",
-    "count": "0"
-  },
-  {
-    "name": "Sony Taiwan Limited",
-    "asn": "AS24156",
-    "count": "0"
-  },
-  {
-    "name": "Neway Technology Corporation",
-    "asn": "AS131624",
-    "count": "0"
-  },
-  {
-    "name": "Association of Hackers in Taiwan",
-    "asn": "AS17422",
-    "count": "0"
-  },
-  {
-    "name": "Tong Ya Cable T.V. Co.Ltd",
-    "asn": "AS24159",
-    "count": "0"
-  },
-  {
-    "name": "Bearspace Technology Co., Ltd.",
-    "asn": "AS131622",
-    "count": "0"
-  },
-  {
-    "name": "New Century InfoComm Tech Co., Ltd.",
-    "asn": "AS24161",
-    "count": "0"
-  },
-  {
-    "name": "Lanwin Communication Co. Ltd",
-    "asn": "AS24162",
-    "count": "0"
-  },
-  {
-    "name": "Network Telecommunication Co.,Ltd",
-    "asn": "AS131654",
-    "count": "0"
-  },
-  {
-    "name": "HiNet IPv6 Service Network.,",
-    "asn": "AS17419",
-    "count": "0"
-  },
-  {
-    "name": "Association of Hackers in Taiwan",
-    "asn": "AS17418",
-    "count": "0"
-  },
-  {
-    "name": "Grand Tainan Technology Co.Ltd.",
-    "asn": "AS24166",
-    "count": "0"
-  },
-  {
-    "name": "CENTROID-NET",
-    "asn": "AS131617",
-    "count": "0"
-  },
-  {
-    "name": "Diyixian.COM (TW) Ltd.",
-    "asn": "AS17417",
-    "count": "0"
-  },
-  {
-    "name": "Universal Network Technology",
-    "asn": "AS11467",
-    "count": "0"
-  },
-  {
-    "name": "New Century InfoComm Tech. Co., Ltd.",
-    "asn": "AS24170",
-    "count": "0"
-  },
-  {
-    "name": "FIRST INTERNATIONAL TELECOM CORP.",
-    "asn": "AS24171",
-    "count": "0"
-  },
-  {
-    "name": "Chuan Chan Co. Ltd.",
-    "asn": "AS24172",
-    "count": "0"
-  },
-  {
-    "name": "CHIEF Telecom Inc.",
-    "asn": "AS24235",
-    "count": "0"
-  },
-  {
-    "name": "Chief Telecom Inc.",
-    "asn": "AS131616",
-    "count": "0"
-  },
-  {
-    "name": "Chief Telecom Inc.",
-    "asn": "AS131615",
-    "count": "0"
-  },
-  {
-    "name": "Yahoo! Inc. Corp Network",
-    "asn": "AS38045",
-    "count": "0"
-  },
-  {
-    "name": "Emphasis Networks Inc.",
-    "asn": "AS9923",
-    "count": "0"
-  },
-  {
-    "name": "NAN YA PLASTICS CORPORATION",
-    "asn": "AS131656",
-    "count": "0"
-  },
-  {
-    "name": "TATI-AS-AP",
-    "asn": "AS38717",
-    "count": "0"
-  },
-  {
-    "name": "Taiwan Mobile Co., Ltd.",
-    "asn": "AS131614",
-    "count": "0"
-  },
-  {
-    "name": "Association of Hackers in Taiwan",
-    "asn": "AS17415",
-    "count": "0"
-  },
-  {
-    "name": "KE-ing Co , Ltd",
-    "asn": "AS38838",
-    "count": "0"
-  },
-  {
-    "name": "APNIC ASN block",
-    "asn": "AS38839",
-    "count": "0"
-  },
-  {
-    "name": "APNIC ASN block",
-    "asn": "AS38840",
-    "count": "0"
-  },
-  {
-    "name": "NSS INTL CO., LTD.",
-    "asn": "AS131664",
-    "count": "0"
-  },
-  {
-    "name": "Global Mobile Corp.",
-    "asn": "AS38842",
-    "count": "0"
-  },
-  {
-    "name": "Internet Dept., Data Communication Group of CHT Ltd.",
-    "asn": "AS131612",
-    "count": "0"
-  },
-  {
-    "name": "Association of Hackers in Taiwan",
-    "asn": "AS17414",
-    "count": "0"
-  },
-  {
-    "name": "Association of Hackers in Taiwan",
-    "asn": "AS17413",
-    "count": "0"
-  },
-  {
-    "name": "Taiwan Network Information Center",
-    "asn": "AS38846",
-    "count": "0"
-  },
-  {
-    "name": "Game Soul Technology Co., Ltd.",
-    "asn": "AS131658",
-    "count": "0"
-  },
-  {
-    "name": "National Yang-Ming University",
-    "asn": "AS38848",
-    "count": "0"
-  },
-  {
-    "name": "Shu-Te University,",
-    "asn": "AS38849",
-    "count": "0"
-  },
-  {
-    "name": "Taiwan International Gateway Corporation",
-    "asn": "AS38850",
-    "count": "0"
-  },
-  {
-    "name": "Chief Telecom Inc.",
-    "asn": "AS131608",
-    "count": "0"
-  },
-  {
-    "name": "Association of Hackers in Taiwan",
-    "asn": "AS38852",
-    "count": "0"
-  },
-  {
-    "name": "Association of Hackers in Taiwan",
-    "asn": "AS38853",
-    "count": "0"
-  },
-  {
-    "name": "Association of Hackers in Taiwan",
-    "asn": "AS38854",
-    "count": "0"
-  },
-  {
-    "name": "Association of Hackers in Taiwan",
-    "asn": "AS38855",
-    "count": "0"
-  },
-  {
-    "name": "Association of Hackers in Taiwan",
-    "asn": "AS38856",
-    "count": "0"
-  },
-  {
-    "name": "Sunbridge Worldwide Ltd",
-    "asn": "AS45125",
-    "count": "0"
-  },
-  {
-    "name": "Chief Telecom Inc.",
-    "asn": "AS131606",
-    "count": "0"
-  },
-  {
-    "name": "Jerry Network Limited",
-    "asn": "AS139472",
-    "count": "0"
-  },
-  {
-    "name": "Serverfield Co., Ltd.",
-    "asn": "AS138646",
-    "count": "0"
-  },
-  {
-    "name": "EXPERT WEB SERVICE CO., LTD.",
-    "asn": "AS137524",
-    "count": "0"
-  },
-  {
-    "name": "XiaoMa Technology Co., Ltd.",
-    "asn": "AS137186",
-    "count": "0"
-  },
-  {
-    "name": "NEURV-TW",
-    "asn": "AS45930",
-    "count": "0"
-  },
-  {
-    "name": "Taiwan Fixed Network Co., LTD.",
-    "asn": "AS4636",
-    "count": "0"
-  },
-  {
-    "name": "Sheng You Co., Ltd.",
-    "asn": "AS136816",
-    "count": "0"
-  },
-  {
-    "name": "TTN ASN merged by TFN",
-    "asn": "AS4747",
-    "count": "0"
-  },
-  {
-    "name": "Chaoyu Internetwork lnternational Corp",
-    "asn": "AS131604",
-    "count": "0"
-  },
-  {
-    "name": "Chung Hwa Zi An International Co., Limited",
-    "asn": "AS136444",
-    "count": "0"
-  },
-  {
-    "name": "TWT Communication lnc",
-    "asn": "AS136378",
-    "count": "0"
+    "name": "Industrial Technology Research Institute",
+    "asn": "AS18422",
+    "count": 69632
   },
   {
     "name": "Hsin Yeong An Cable TV Co., Ltd.",
     "asn": "AS131602",
-    "count": "0"
+    "count": 67840
   },
   {
-    "name": "Fast Distributed Cloud Computing-Technology Co., Ltd.",
-    "asn": "AS135631",
-    "count": "0"
+    "name": "TISNET Technology Inc.",
+    "asn": "AS7535",
+    "count": 65536
   },
   {
-    "name": "Gamania Digital Entertainment Co., Ltd.",
-    "asn": "AS55576",
-    "count": "0"
+    "name": "National Taiwan University",
+    "asn": "AS17716",
+    "count": 65536
   },
   {
-    "name": "Ci Yuan Technology Co., Limited",
-    "asn": "AS135561",
-    "count": "0"
+    "name": "National Sun Yat-sen University",
+    "asn": "AS17713",
+    "count": 65536
+  },
+  {
+    "name": "TNET-NET",
+    "asn": "AS38851",
+    "count": 62208
+  },
+  {
+    "name": "Taiwan Network Access Point",
+    "asn": "AS7656",
+    "count": 53504
+  },
+  {
+    "name": "AboveNet Communications Taiwan",
+    "asn": "AS17408",
+    "count": 52992
+  },
+  {
+    "name": "UNION BROADBAND NETWORK",
+    "asn": "AS24165",
+    "count": 52480
+  },
+  {
+    "name": "UNION BROADBAND NETWORK",
+    "asn": "AS24163",
+    "count": 51712
+  },
+  {
+    "name": "Fu Jen Catholic University",
+    "asn": "AS38845",
+    "count": 49152
+  },
+  {
+    "name": "SYSTEX CORPORATION",
+    "asn": "AS4783",
+    "count": 45056
+  },
+  {
+    "name": "New Kaohsiung Broadband LTD.",
+    "asn": "AS9922",
+    "count": 43520
+  },
+  {
+    "name": "Extra-Lan Technologies Co., LTD",
+    "asn": "AS18429",
+    "count": 43264
+  },
+  {
+    "name": "Taiwan Intelligent Fiber Optic Network Co.,Ltd.",
+    "asn": "AS131584",
+    "count": 41216
+  },
+  {
+    "name": "Taiwan Internet Gateway",
+    "asn": "AS10126",
+    "count": 34816
+  },
+  {
+    "name": "Digidom CableTV Co., LTD.",
+    "asn": "AS131607",
+    "count": 34048
+  },
+  {
+    "name": "Tai-Fu Cloud Co., Ltd.",
+    "asn": "AS131628",
+    "count": 32768
+  },
+  {
+    "name": "New Century InfoComm Tech Co., Ltd.",
+    "asn": "AS131586",
+    "count": 32768
+  },
+  {
+    "name": "Diyixian.com (TW) Limited",
+    "asn": "AS9244",
+    "count": 31744
+  },
+  {
+    "name": "Sky Digital Co., Ltd.",
+    "asn": "AS134823",
+    "count": 29952
+  },
+  {
+    "name": "Acer e-Enabling Data Center, Inc.",
+    "asn": "AS17420",
+    "count": 28672
+  },
+  {
+    "name": "Taiwan Internet Gateway",
+    "asn": "AS9505",
+    "count": 24576
+  },
+  {
+    "name": "Gamania CloudForce",
+    "asn": "AS7532",
+    "count": 24064
+  },
+  {
+    "name": "Yahoo Inc.",
+    "asn": "AS10229",
+    "count": 23040
+  },
+  {
+    "name": "HITRON TECHNOLOGY INC.",
+    "asn": "AS9311",
+    "count": 22016
+  },
+  {
+    "name": "PUNET Taiwan",
+    "asn": "AS9216",
+    "count": 20480
+  },
+  {
+    "name": "Far EastTone Telecommunication Co., Ltd.",
+    "asn": "AS18412",
+    "count": 20480
+  },
+  {
+    "name": "Mackay Telecommunication Inc.",
+    "asn": "AS7478",
+    "count": 16384
+  },
+  {
+    "name": "EASPNET Inc.",
+    "asn": "AS10135",
+    "count": 16384
+  },
+  {
+    "name": "Yahoo Global Holdings B.V. Taiwan Branch",
+    "asn": "AS24506",
+    "count": 14336
+  },
+  {
+    "name": "NC Taiwan Co., Ltd.",
+    "asn": "AS142005",
+    "count": 12800
+  },
+  {
+    "name": "Great Taipei Broadband Company Ltd.",
+    "asn": "AS18413",
+    "count": 12288
+  },
+  {
+    "name": "PUMO NETWORK DIGITAL TECHNOLOGY CO.,LTD",
+    "asn": "AS38843",
+    "count": 11264
+  },
+  {
+    "name": "Pittqiao Network Information Co.,Ltd.",
+    "asn": "AS131642",
+    "count": 11264
+  },
+  {
+    "name": "Asia Pacific On-Line Service Inc.",
+    "asn": "AS131142",
+    "count": 11008
+  },
+  {
+    "name": "MOBA Private Limited Taiwan Branch",
+    "asn": "AS131634",
+    "count": 10240
   },
   {
     "name": "Symphox Information Co., LTd.",
     "asn": "AS56179",
-    "count": "0"
+    "count": 9216
   },
   {
-    "name": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
-    "asn": "AS59234",
-    "count": "0"
+    "name": "Chung Hsiao East Road",
+    "asn": "AS4845",
+    "count": 8448
   },
   {
-    "name": "Express2Internet",
-    "asn": "AS131661",
-    "count": "0"
+    "name": "Asia Pacific Broadband Wireless Communications Inc",
+    "asn": "AS24155",
+    "count": 8448
   },
   {
-    "name": "TWT Network Technology Inc.",
-    "asn": "AS63929",
-    "count": "0"
+    "name": "Trade-Van Informaiton Services Co.",
+    "asn": "AS9671",
+    "count": 8192
   },
   {
-    "name": "CHUAN KAI INTERNATIONAL CO., LTD",
-    "asn": "AS133375",
-    "count": "0"
-  },
-  {
-    "name": "Timenet International Corp.",
-    "asn": "AS7480",
-    "count": "0"
-  },
-  {
-    "name": "Data Communication Business Group",
-    "asn": "AS7481",
-    "count": "0"
-  },
-  {
-    "name": "CHTD, Chunghwa Telecom Co.,Ltd.",
-    "asn": "AS131598",
-    "count": "0"
-  },
-  {
-    "name": "Hongkong Telecom Ltd., Taiwan Branch Office",
+    "name": "Skycloud Computing co., Ltd.",
     "asn": "AS7483",
-    "count": "0"
+    "count": 8192
   },
   {
-    "name": "Shih-Hsin Cable Television Corporation",
-    "asn": "AS132738",
-    "count": "0"
+    "name": "EDT Network Services Limited Co,Ltd.",
+    "asn": "AS18411",
+    "count": 8192
   },
   {
-    "name": "Neto Corporation",
-    "asn": "AS7533",
-    "count": "0"
+    "name": "DWINS Digital Service Corp.,",
+    "asn": "AS17416",
+    "count": 8192
   },
   {
-    "name": "NEW SILKERA NETWORK",
-    "asn": "AS7534",
-    "count": "0"
+    "name": "QLINKS",
+    "asn": "AS59268",
+    "count": 7680
   },
   {
-    "name": "Asia Pacific On-Line Service Inc.",
-    "asn": "AS131594",
-    "count": "0"
+    "name": "Yuan-Jhen Info., Co., Ltd",
+    "asn": "AS131149",
+    "count": 6656
   },
   {
-    "name": "WonderNet International Corporation",
-    "asn": "AS7536",
-    "count": "0"
+    "name": "President Information Corp.",
+    "asn": "AS17710",
+    "count": 6144
   },
   {
-    "name": "Price Waterhouse Taiwan",
-    "asn": "AS7537",
-    "count": "0"
+    "name": "National Center for Research on Earthquake Engineering",
+    "asn": "AS18183",
+    "count": 5632
   },
   {
-    "name": "Seeder Computer Corporation LTD.",
-    "asn": "AS7538",
-    "count": "0"
+    "name": "SHINE TELECOM CO., LTD.",
+    "asn": "AS63902",
+    "count": 5376
   },
   {
-    "name": "NetWave CATV Corporation",
-    "asn": "AS132737",
-    "count": "0"
+    "name": "Carl International Information ltd.",
+    "asn": "AS131618",
+    "count": 5376
   },
   {
-    "name": "FIC Network Service, INC.",
-    "asn": "AS7541",
-    "count": "0"
+    "name": "Taiwan Semiconductor Manufactoring Company, Ltd.",
+    "asn": "AS23675",
+    "count": 4864
   },
   {
-    "name": "Orange Business",
-    "asn": "AS7618",
-    "count": "0"
+    "name": "Serverfield Co., Ltd.",
+    "asn": "AS134094",
+    "count": 4864
   },
   {
-    "name": "Nap Communication Inc.",
-    "asn": "AS7649",
-    "count": "0"
+    "name": "Dynamic Computing Technology",
+    "asn": "AS131601",
+    "count": 4352
   },
   {
-    "name": "Peering AS",
-    "asn": "AS7655",
-    "count": "0"
-  },
-  {
-    "name": "TWT Communication Inc.",
-    "asn": "AS131592",
-    "count": "0"
-  },
-  {
-    "name": "Taiwan Network Access Point",
-    "asn": "AS7708",
-    "count": "0"
-  },
-  {
-    "name": "Taiwan Network Access Point",
-    "asn": "AS7709",
-    "count": "0"
-  },
-  {
-    "name": "PRC Technology Co., Ltd.",
-    "asn": "AS7710",
-    "count": "0"
-  },
-  {
-    "name": "Twain Network Access Point",
-    "asn": "AS7711",
-    "count": "0"
-  },
-  {
-    "name": "TNET-CO-LTD",
-    "asn": "AS132157",
-    "count": "0"
-  },
-  {
-    "name": "Winspeed Group International Limited",
-    "asn": "AS132012",
-    "count": "0"
-  },
-  {
-    "name": "Open Unlight Group",
-    "asn": "AS131681",
-    "count": "0"
-  },
-  {
-    "name": "Gangu Tech Co., Ltd.",
-    "asn": "AS131679",
-    "count": "0"
-  },
-  {
-    "name": "Cynex Communications Corporation",
-    "asn": "AS9346",
-    "count": "0"
-  },
-  {
-    "name": "ETWebs Taiwan Co. Ltd.",
-    "asn": "AS9415",
-    "count": "0"
-  },
-  {
-    "name": "PUMO NETWORK DIGITAL TECHNOLOGY CO.,LTD",
-    "asn": "AS131585",
-    "count": "0"
-  },
-  {
-    "name": "GUAN TING CO., LTD.",
-    "asn": "AS131676",
-    "count": "0"
-  },
-  {
-    "name": "Hoshin Multimedia Center Inc.",
-    "asn": "AS9539",
-    "count": "0"
-  },
-  {
-    "name": "OpenRich Technology Co., Ltd.",
-    "asn": "AS131674",
-    "count": "0"
-  },
-  {
-    "name": "nctaiwan.co.ltd",
-    "asn": "AS131151",
-    "count": "0"
-  },
-  {
-    "name": "Internet Service Provider",
-    "asn": "AS9675",
-    "count": "0"
-  },
-  {
-    "name": "HTC Corp",
-    "asn": "AS131673",
-    "count": "0"
-  },
-  {
-    "name": "Taiwan Telnet Corporation",
-    "asn": "AS9677",
-    "count": "0"
+    "name": "HiNet Service Center in U.S.A",
+    "asn": "AS9680",
+    "count": 4096
   },
   {
     "name": "HostingInside LTD.",
     "asn": "AS9678",
-    "count": "0"
+    "count": 4096
   },
   {
-    "name": "IONET Taiwan Co., Ltd.",
-    "asn": "AS9679",
-    "count": "0"
+    "name": "Internet Service Provider. Taiwan",
+    "asn": "AS38797",
+    "count": 4096
   },
   {
-    "name": "Chang Gung University",
-    "asn": "AS131146",
-    "count": "0"
+    "name": "B-WIZ Technology",
+    "asn": "AS18415",
+    "count": 4096
   },
   {
-    "name": "National Broadband Experiment Network, sponsored by NSC, TAIWAN",
-    "asn": "AS9681",
-    "count": "0"
+    "name": "NTCU",
+    "asn": "AS18185",
+    "count": 4096
   },
   {
-    "name": "WantEasy Info. Co, Ltd.",
-    "asn": "AS131672",
-    "count": "0"
+    "name": "National Health Research Institutes",
+    "asn": "AS18181",
+    "count": 4096
   },
   {
-    "name": "Dome Digital Communications,",
-    "asn": "AS9915",
-    "count": "0"
+    "name": "MiTAC Inc.",
+    "asn": "AS18179",
+    "count": 4096
   },
   {
-    "name": "e-MAX NETWORK CORP.",
-    "asn": "AS131145",
-    "count": "0"
+    "name": "SinoPac Holdings Corporate Network",
+    "asn": "AS18045",
+    "count": 3072
   },
   {
-    "name": "NETPOLY Telecom Inc.,",
+    "name": "Chinatrust Commercial Bank",
+    "asn": "AS131143",
+    "count": 3072
+  },
+  {
+    "name": "Chief Telecom Inc.",
+    "asn": "AS131600",
+    "count": 2816
+  },
+  {
+    "name": "NETEASE",
+    "asn": "AS131659",
+    "count": 2560
+  },
+  {
+    "name": "Hong Da Storage Equipment Co., Ltd.",
+    "asn": "AS131657",
+    "count": 2560
+  },
+  {
+    "name": "vocom international telecom",
+    "asn": "AS63897",
+    "count": 2304
+  },
+  {
+    "name": "Taiwan Digital Streaming Co.",
+    "asn": "AS18041",
+    "count": 2304
+  },
+  {
+    "name": "Apeiro8 Technology Co., Ltd.",
+    "asn": "AS139065",
+    "count": 2304
+  },
+  {
+    "name": "61 Ming Chuan Road Section 1",
+    "asn": "AS131164",
+    "count": 2304
+  },
+  {
+    "name": "CoChen Technology LTD.",
+    "asn": "AS56913",
+    "count": 2048
+  },
+  {
+    "name": "PAGIC.net , INC.",
+    "asn": "AS4781",
+    "count": 2048
+  },
+  {
+    "name": "National Applied Research Laboratories",
+    "asn": "AS18426",
+    "count": 2048
+  },
+  {
+    "name": "SHINE TECH INFORMATION COMPANY LIMITED",
+    "asn": "AS150770",
+    "count": 2048
+  },
+  {
+    "name": "HWA CENT TELECOMMUNICATIONS LIMITED",
+    "asn": "AS139471",
+    "count": 2048
+  },
+  {
+    "name": "loongaming",
+    "asn": "AS131651",
+    "count": 2048
+  },
+  {
+    "name": "KlickKlack Co., Ltd",
+    "asn": "AS131645",
+    "count": 2048
+  },
+  {
+    "name": "Mootech Asia",
+    "asn": "AS136462",
+    "count": 1792
+  },
+  {
+    "name": "Chang Chun Petrochemical Co., Ltd.",
+    "asn": "AS63893",
+    "count": 1536
+  },
+  {
+    "name": "OpenFor Telecommunications Co., Ltd.",
+    "asn": "AS131677",
+    "count": 1536
+  },
+  {
+    "name": "WANIN INTERNATIONAL CO., LTD.",
+    "asn": "AS131636",
+    "count": 1536
+  },
+  {
+    "name": "NSS INT'L CO., LTD.",
+    "asn": "AS131626",
+    "count": 1536
+  },
+  {
+    "name": "PEGATRON",
+    "asn": "AS131593",
+    "count": 1536
+  },
+  {
+    "name": "TWIDC",
+    "asn": "AS55789",
+    "count": 1280
+  },
+  {
+    "name": "HSIANG-LI CHAN",
+    "asn": "AS213430",
+    "count": 1280
+  },
+  {
+    "name": "CM Craft Aesthetic",
+    "asn": "AS18424",
+    "count": 1280
+  },
+  {
+    "name": "Taiwan Network Information Center",
+    "asn": "AS131644",
+    "count": 1280
+  },
+  {
+    "name": "Zenlayer",
+    "asn": "AS38854",
+    "count": 1024
+  },
+  {
+    "name": "Internet Technology Laboratory",
+    "asn": "AS38254",
+    "count": 1024
+  },
+  {
+    "name": "Magna Hosting Ltd",
+    "asn": "AS141742",
+    "count": 1024
+  },
+  {
+    "name": "Compal Electronics",
+    "asn": "AS131680",
+    "count": 1024
+  },
+  {
+    "name": "GIGABYTE",
+    "asn": "AS131663",
+    "count": 1024
+  },
+  {
+    "name": "Data Communication Business Group,",
+    "asn": "AS131660",
+    "count": 1024
+  },
+  {
+    "name": "CORE WINNER CO.,LIMITED TAIWAN BRANCH",
+    "asn": "AS131646",
+    "count": 1024
+  },
+  {
+    "name": "Chirue Technology Co., Ltd.",
+    "asn": "AS131643",
+    "count": 1024
+  },
+  {
+    "name": "FastCould",
+    "asn": "AS131637",
+    "count": 1024
+  },
+  {
+    "name": "Airpay TW",
+    "asn": "AS131635",
+    "count": 1024
+  },
+  {
+    "name": "SHOPEE (TAIWAN) CO. LTD.",
+    "asn": "AS131623",
+    "count": 1024
+  },
+  {
+    "name": "SERVCOMPUTING INC",
+    "asn": "AS131620",
+    "count": 1024
+  },
+  {
+    "name": "Jigentec CO. LTD.",
+    "asn": "AS131619",
+    "count": 1024
+  },
+  {
+    "name": "Inventec Besta CO.,LTD",
+    "asn": "AS131605",
+    "count": 1024
+  },
+  {
+    "name": "Wistron Corporation",
+    "asn": "AS131599",
+    "count": 1024
+  },
+  {
+    "name": "Foxconn Technology Group",
+    "asn": "AS131589",
+    "count": 1024
+  },
+  {
+    "name": "Mega International Commercial Bank",
+    "asn": "AS131587",
+    "count": 1024
+  },
+  {
+    "name": "CORE WINNER CO.,LIMITED",
+    "asn": "AS131273",
+    "count": 1024
+  },
+  {
+    "name": "Bank Of Taiwan",
+    "asn": "AS131148",
+    "count": 1024
+  },
+  {
+    "name": "ASUSTek COMPUTER INC.",
+    "asn": "AS131144",
+    "count": 1024
+  },
+  {
+    "name": "Simple Information, Inc.",
+    "asn": "AS9923",
+    "count": 768
+  },
+  {
+    "name": "141 Yang Guan Jie",
+    "asn": "AS45599",
+    "count": 768
+  },
+  {
+    "name": "AION TECHNOLOGIES Inc.",
+    "asn": "AS38837",
+    "count": 768
+  },
+  {
+    "name": "Cloudmax Inc.",
+    "asn": "AS24168",
+    "count": 768
+  },
+  {
+    "name": "Beidou LTD.",
+    "asn": "AS152611",
+    "count": 768
+  },
+  {
+    "name": "CoCoDigit Ltd",
+    "asn": "AS150766",
+    "count": 768
+  },
+  {
+    "name": "Sky Wise International Limited Taiwan Branch",
+    "asn": "AS150137",
+    "count": 768
+  },
+  {
+    "name": "Denpa Ltd.",
+    "asn": "AS131662",
+    "count": 768
+  },
+  {
+    "name": "Taiwan Network Information Center",
+    "asn": "AS131621",
+    "count": 768
+  },
+  {
+    "name": "Financial Information Service Co., Ltd.",
+    "asn": "AS131588",
+    "count": 768
+  },
+  {
+    "name": "Li Jing Info Limited",
     "asn": "AS9917",
-    "count": "0"
+    "count": 512
+  },
+  {
+    "name": "Clark Technology Ltd.",
+    "asn": "AS63910",
+    "count": 512
+  },
+  {
+    "name": "See Get Upstart Technology Co., Ltd.",
+    "asn": "AS63908",
+    "count": 512
+  },
+  {
+    "name": "CYCORE",
+    "asn": "AS63901",
+    "count": 512
+  },
+  {
+    "name": "National Taiwan University of Science and Technology",
+    "asn": "AS63899",
+    "count": 512
+  },
+  {
+    "name": "Charmway Limited",
+    "asn": "AS63895",
+    "count": 512
+  },
+  {
+    "name": "Super Micro Computer, Inc.",
+    "asn": "AS63894",
+    "count": 512
+  },
+  {
+    "name": "Walks Cloud Inc.",
+    "asn": "AS38856",
+    "count": 512
+  },
+  {
+    "name": "Paramita Digital Ltd.,",
+    "asn": "AS38853",
+    "count": 512
+  },
+  {
+    "name": "Sky Digital Co., Ltd.",
+    "asn": "AS38042",
+    "count": 512
+  },
+  {
+    "name": "SHU-HAO TUNG",
+    "asn": "AS208223",
+    "count": 512
+  },
+  {
+    "name": "Baihe Food Factory",
+    "asn": "AS200213",
+    "count": 512
+  },
+  {
+    "name": "Mercycat Network",
+    "asn": "AS18428",
+    "count": 512
+  },
+  {
+    "name": "RAID Networks Co., Ltd.",
+    "asn": "AS18423",
+    "count": 512
+  },
+  {
+    "name": "Taishin International Bank",
+    "asn": "AS18421",
+    "count": 512
+  },
+  {
+    "name": "104 Information Technology Co., Ltd.",
+    "asn": "AS18410",
+    "count": 512
+  },
+  {
+    "name": "AboveNet Communications Taiwan",
+    "asn": "AS17651",
+    "count": 512
+  },
+  {
+    "name": "CloudSIM Corporation Ltd.",
+    "asn": "AS153891",
+    "count": 512
+  },
+  {
+    "name": "Woquan Technology Co., Ltd.",
+    "asn": "AS152623",
+    "count": 512
+  },
+  {
+    "name": "Powerhouse Co., LTD",
+    "asn": "AS152622",
+    "count": 512
+  },
+  {
+    "name": "Very Fast Network LTD",
+    "asn": "AS152619",
+    "count": 512
+  },
+  {
+    "name": "Leyun Digital CO., LTD",
+    "asn": "AS152616",
+    "count": 512
+  },
+  {
+    "name": "Chummy Technology Ltd.",
+    "asn": "AS152615",
+    "count": 512
+  },
+  {
+    "name": "SAELW(TAIWAN) CO., LIMITED",
+    "asn": "AS152610",
+    "count": 512
+  },
+  {
+    "name": "I A.M. Translation LTD.",
+    "asn": "AS152609",
+    "count": 512
+  },
+  {
+    "name": "National Credit Card Center of R.O.C.",
+    "asn": "AS150772",
+    "count": 512
+  },
+  {
+    "name": "FUYU Group Inc.",
+    "asn": "AS150771",
+    "count": 512
+  },
+  {
+    "name": "Digital Explorer Technology",
+    "asn": "AS150769",
+    "count": 512
+  },
+  {
+    "name": "Cloud Walker Co., Ltd.",
+    "asn": "AS150768",
+    "count": 512
+  },
+  {
+    "name": "Shi Ji Industrial Co., Ltd.",
+    "asn": "AS150767",
+    "count": 512
+  },
+  {
+    "name": "Jingzhi Technology Co., Ltd.",
+    "asn": "AS150760",
+    "count": 512
+  },
+  {
+    "name": "Floppy Ltd.",
+    "asn": "AS150756",
+    "count": 512
+  },
+  {
+    "name": "NUNLINE",
+    "asn": "AS150755",
+    "count": 512
+  },
+  {
+    "name": "StarVerse Network Ltd.",
+    "asn": "AS149791",
+    "count": 512
+  },
+  {
+    "name": "Garmin International Inc",
+    "asn": "AS140079",
+    "count": 512
+  },
+  {
+    "name": "RETN Telecoms Ltd.",
+    "asn": "AS139903",
+    "count": 512
+  },
+  {
+    "name": "WELL-POWER Tech Corp",
+    "asn": "AS133158",
+    "count": 512
+  },
+  {
+    "name": "Qualcomm Inc",
+    "asn": "AS133089",
+    "count": 512
+  },
+  {
+    "name": "InnoLux Display Corp.",
+    "asn": "AS131683",
+    "count": 512
+  },
+  {
+    "name": "FANTASY TECHNOLOGY CO., LTD.",
+    "asn": "AS131671",
+    "count": 512
+  },
+  {
+    "name": "GRONEXT CO., LTD.",
+    "asn": "AS131667",
+    "count": 512
   },
   {
     "name": "Haosing Technology Co., Ltd.",
     "asn": "AS131666",
-    "count": "0"
+    "count": 512
   },
   {
-    "name": "NSS INTL CO., LTD.",
-    "asn": "AS131665",
-    "count": "0"
+    "name": "NAN YA PLASTICS CORPORATION",
+    "asn": "AS131655",
+    "count": 512
   },
   {
-    "name": "Chicom Information Corp.",
-    "asn": "AS18041",
-    "count": "0"
+    "name": "Chief Telecom Inc.",
+    "asn": "AS131606",
+    "count": 512
   },
   {
-    "name": "PCA Life Assurance co., Ltd.",
-    "asn": "AS131646",
-    "count": "0"
+    "name": "Kingston Technology Fareast Corp.",
+    "asn": "AS131595",
+    "count": 512
+  },
+  {
+    "name": "IMPROVE SYSTEM TECHNOLOGY CO., LTD.",
+    "asn": "AS9920",
+    "count": 256
+  },
+  {
+    "name": "Leemon Professional Consultant",
+    "asn": "AS9915",
+    "count": 256
+  },
+  {
+    "name": "UNIGATE",
+    "asn": "AS9831",
+    "count": 256
+  },
+  {
+    "name": "10F No 33 Sec 2 Zhongshan Rd Zhonghe Dist",
+    "asn": "AS7538",
+    "count": 256
+  },
+  {
+    "name": "Skip Technologies Taiwan Limited",
+    "asn": "AS63909",
+    "count": 256
+  },
+  {
+    "name": "Fun Finance Technology Co., Ltd.",
+    "asn": "AS38852",
+    "count": 256
+  },
+  {
+    "name": "Chuan Chan Co. Ltd.",
+    "asn": "AS24172",
+    "count": 256
+  },
+  {
+    "name": "Chuan Chan Co. Ltd.",
+    "asn": "AS24169",
+    "count": 256
+  },
+  {
+    "name": "WeiXuan Chang",
+    "asn": "AS212358",
+    "count": 256
+  },
+  {
+    "name": "Chao-Ju Chen",
+    "asn": "AS207344",
+    "count": 256
+  },
+  {
+    "name": "Taiwan Network Information Center",
+    "asn": "AS17718",
+    "count": 256
+  },
+  {
+    "name": "Ming Yi Tea Farm",
+    "asn": "AS17415",
+    "count": 256
+  },
+  {
+    "name": "LINE Pay Taiwan Limited",
+    "asn": "AS152620",
+    "count": 256
+  },
+  {
+    "name": "TIANCHUANG",
+    "asn": "AS152617",
+    "count": 256
+  },
+  {
+    "name": "1033 Network Information Co.",
+    "asn": "AS142046",
+    "count": 256
+  },
+  {
+    "name": "TNET-CO-LTD",
+    "asn": "AS132157",
+    "count": 256
+  },
+  {
+    "name": "DQWLIT",
+    "asn": "AS131678",
+    "count": 256
+  },
+  {
+    "name": "NETGUARD INTERNATIONAL",
+    "asn": "AS131652",
+    "count": 256
+  },
+  {
+    "name": "Taiwan Intelligent Home Corp.",
+    "asn": "AS131639",
+    "count": 256
+  },
+  {
+    "name": "PCCW Hongkong Telecom Ltd., Taiwan Branch.",
+    "asn": "AS9921",
+    "count": 0
+  },
+  {
+    "name": "KG Telecommunication Co., Ltd",
+    "asn": "AS9918",
+    "count": 0
+  },
+  {
+    "name": "Formosa Open eXchange(FOX)",
+    "asn": "AS9681",
+    "count": 0
+  },
+  {
+    "name": "IONET Taiwan Co., Ltd.",
+    "asn": "AS9679",
+    "count": 0
+  },
+  {
+    "name": "Carl Watch Corporation",
+    "asn": "AS9677",
+    "count": 0
+  },
+  {
+    "name": "DW Solutions Ltd.",
+    "asn": "AS9675",
+    "count": 0
+  },
+  {
+    "name": "August",
+    "asn": "AS9663",
+    "count": 0
+  },
+  {
+    "name": "Hoshin Multimedia Center Inc.",
+    "asn": "AS9539",
+    "count": 0
+  },
+  {
+    "name": "ETWebs Taiwan Co. Ltd.",
+    "asn": "AS9415",
+    "count": 0
+  },
+  {
+    "name": "Cynex Communications Corporation",
+    "asn": "AS9346",
+    "count": 0
+  },
+  {
+    "name": "Pang-Wei Tsai",
+    "asn": "AS9267",
+    "count": 0
+  },
+  {
+    "name": "Twain Network Access Point",
+    "asn": "AS7711",
+    "count": 0
+  },
+  {
+    "name": "PRC Technology Co., Ltd.",
+    "asn": "AS7710",
+    "count": 0
+  },
+  {
+    "name": "Taiwan Network Access Point",
+    "asn": "AS7709",
+    "count": 0
+  },
+  {
+    "name": "Taiwan Network Access Point",
+    "asn": "AS7708",
+    "count": 0
+  },
+  {
+    "name": "Peering AS",
+    "asn": "AS7655",
+    "count": 0
+  },
+  {
+    "name": "Nap Communication Inc.",
+    "asn": "AS7649",
+    "count": 0
+  },
+  {
+    "name": "Orange Business",
+    "asn": "AS7618",
+    "count": 0
+  },
+  {
+    "name": "FIC Network Service, INC.",
+    "asn": "AS7541",
+    "count": 0
+  },
+  {
+    "name": "HostingInside LTD.",
+    "asn": "AS7537",
+    "count": 0
+  },
+  {
+    "name": "Zhei Technology Co., Ltd.",
+    "asn": "AS7536",
+    "count": 0
+  },
+  {
+    "name": "NEW SILKERA NETWORK",
+    "asn": "AS7534",
+    "count": 0
+  },
+  {
+    "name": "Savecom International Inc.",
+    "asn": "AS7533",
+    "count": 0
+  },
+  {
+    "name": "Data Communication Business Group",
+    "asn": "AS7481",
+    "count": 0
+  },
+  {
+    "name": "STEVEYI NETWORK",
+    "asn": "AS7480",
+    "count": 0
+  },
+  {
+    "name": "TWT Digital Communication Inc.",
+    "asn": "AS63929",
+    "count": 0
+  },
+  {
+    "name": "TAI GUANG MEDICINES CO., LTD.",
+    "asn": "AS63907",
+    "count": 0
+  },
+  {
+    "name": "Yuan-Jhen Info., Co., Ltd",
+    "asn": "AS63906",
+    "count": 0
+  },
+  {
+    "name": "Yuan-Jhen Info., Co., Ltd",
+    "asn": "AS63905",
+    "count": 0
+  },
+  {
+    "name": "Hutchison Global Communications(Taiwan) Limited",
+    "asn": "AS63904",
+    "count": 0
+  },
+  {
+    "name": "INIT RISE TECHNOLOGY CO., LTD",
+    "asn": "AS63903",
+    "count": 0
+  },
+  {
+    "name": "Telecom Technology Center",
+    "asn": "AS63900",
+    "count": 0
+  },
+  {
+    "name": "NSS eMarketing solutions Co., Ltd.",
+    "asn": "AS63898",
+    "count": 0
+  },
+  {
+    "name": "Taiwan Communications Technology Service Co., Ltd.",
+    "asn": "AS63896",
+    "count": 0
+  },
+  {
+    "name": "zhiyin Technology",
+    "asn": "AS63892",
+    "count": 0
+  },
+  {
+    "name": "Neway Technology Corporation",
+    "asn": "AS63891",
+    "count": 0
+  },
+  {
+    "name": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
+    "asn": "AS59234",
+    "count": 0
+  },
+  {
+    "name": "Ming-Ray Hsu",
+    "asn": "AS57429",
+    "count": 0
+  },
+  {
+    "name": "TSAI, PANG-WEI",
+    "asn": "AS57401",
+    "count": 0
+  },
+  {
+    "name": "Gamania Digital Entertainment Co., Ltd.",
+    "asn": "AS55576",
+    "count": 0
+  },
+  {
+    "name": "Tsung-Yi Yu",
+    "asn": "AS51930",
+    "count": 0
+  },
+  {
+    "name": "CoChen Technology LTD.",
+    "asn": "AS49608",
+    "count": 0
+  },
+  {
+    "name": "TTN ASN merged by TFN",
+    "asn": "AS4747",
+    "count": 0
+  },
+  {
+    "name": "GCNet (Reach & Range Inc.)",
+    "asn": "AS4662",
+    "count": 0
+  },
+  {
+    "name": "Taiwan Fixed Network Co., LTD.",
+    "asn": "AS4636",
+    "count": 0
+  },
+  {
+    "name": "NEURV-TW",
+    "asn": "AS45930",
+    "count": 0
+  },
+  {
+    "name": "133 Da An Road Section 1",
+    "asn": "AS45592",
+    "count": 0
+  },
+  {
+    "name": "WELL-POWER Tech Corp",
+    "asn": "AS45346",
+    "count": 0
+  },
+  {
+    "name": "Sunbridge Worldwide Ltd",
+    "asn": "AS45125",
+    "count": 0
+  },
+  {
+    "name": "404 Network Information Co.",
+    "asn": "AS44937",
+    "count": 0
+  },
+  {
+    "name": "Taiwan Digital Streaming Co.",
+    "asn": "AS38855",
+    "count": 0
+  },
+  {
+    "name": "Taiwan International Gateway Corporation",
+    "asn": "AS38850",
+    "count": 0
+  },
+  {
+    "name": "STU",
+    "asn": "AS38849",
+    "count": 0
+  },
+  {
+    "name": "National Yang-Ming University",
+    "asn": "AS38848",
+    "count": 0
+  },
+  {
+    "name": "National Chung Hsing University",
+    "asn": "AS38847",
+    "count": 0
+  },
+  {
+    "name": "Wolf Feather Culture Information Co., Ltd.",
+    "asn": "AS38846",
+    "count": 0
+  },
+  {
+    "name": "National Taiwan Normal University",
+    "asn": "AS38844",
+    "count": 0
+  },
+  {
+    "name": "DNS INTERNATIONAL",
+    "asn": "AS38842",
+    "count": 0
+  },
+  {
+    "name": "Ming Yi Tea Farm",
+    "asn": "AS38840",
+    "count": 0
+  },
+  {
+    "name": "CSPTEK LTD. CO.",
+    "asn": "AS38839",
+    "count": 0
+  },
+  {
+    "name": "KE-ing Co , Ltd",
+    "asn": "AS38838",
+    "count": 0
+  },
+  {
+    "name": "TATI-AS-AP",
+    "asn": "AS38717",
+    "count": 0
+  },
+  {
+    "name": "Aldford Network Solutions Limted",
+    "asn": "AS38385",
+    "count": 0
+  },
+  {
+    "name": "Gamania Digital Entertainment Co., Ltd.",
+    "asn": "AS38187",
+    "count": 0
+  },
+  {
+    "name": "Yahoo Global Holdings B.V. Taiwan Branch",
+    "asn": "AS38045",
+    "count": 0
+  },
+  {
+    "name": "CHIEF Telecom Inc.",
+    "asn": "AS24235",
+    "count": 0
+  },
+  {
+    "name": "Ming Yi Tea Farm",
+    "asn": "AS24171",
+    "count": 0
+  },
+  {
+    "name": "New Century InfoComm Tech. Co., Ltd.",
+    "asn": "AS24170",
+    "count": 0
+  },
+  {
+    "name": "Academia Sinica",
+    "asn": "AS24167",
+    "count": 0
+  },
+  {
+    "name": "KE-ing Co , Ltd",
+    "asn": "AS24166",
+    "count": 0
+  },
+  {
+    "name": "RECTALE Inc.",
+    "asn": "AS24162",
+    "count": 0
+  },
+  {
+    "name": "New Century InfoComm Tech Co., Ltd.",
+    "asn": "AS24161",
+    "count": 0
+  },
+  {
+    "name": "Chi Mei Corporation",
+    "asn": "AS24160",
+    "count": 0
+  },
+  {
+    "name": "Tong Ya Cable T.V. Co.Ltd",
+    "asn": "AS24159",
+    "count": 0
+  },
+  {
+    "name": "Sony Taiwan Limited",
+    "asn": "AS24156",
+    "count": 0
+  },
+  {
+    "name": "AY SHANG SHIANG MAU CO., LTD.",
+    "asn": "AS24153",
+    "count": 0
+  },
+  {
+    "name": "Metlife Taiwan Taipei Office Multihomed",
+    "asn": "AS24096",
+    "count": 0
+  },
+  {
+    "name": "Yahoo Inc.",
+    "asn": "AS24031",
+    "count": 0
+  },
+  {
+    "name": "Internet Systems Consortium, Inc.",
+    "asn": "AS23712",
+    "count": 0
+  },
+  {
+    "name": "LIN ZE YANG",
+    "asn": "AS216198",
+    "count": 0
+  },
+  {
+    "name": "ZHU-YUAN JIANG",
+    "asn": "AS216123",
+    "count": 0
+  },
+  {
+    "name": "Yu Chen Tsai",
+    "asn": "AS216118",
+    "count": 0
+  },
+  {
+    "name": "LIU AN LUN",
+    "asn": "AS215993",
+    "count": 0
+  },
+  {
+    "name": "XU JIA QIAN",
+    "asn": "AS215934",
+    "count": 0
+  },
+  {
+    "name": "WINDLESS NETWORK",
+    "asn": "AS215908",
+    "count": 0
+  },
+  {
+    "name": "KEVINOWO NETWORK",
+    "asn": "AS215530",
+    "count": 0
+  },
+  {
+    "name": "Jui-Hsuan Chang",
+    "asn": "AS215506",
+    "count": 0
+  },
+  {
+    "name": "Huang Zi-Chen",
+    "asn": "AS215496",
+    "count": 0
+  },
+  {
+    "name": "Ping Chun Huang",
+    "asn": "AS215451",
+    "count": 0
+  },
+  {
+    "name": "TSAI TSAN MING",
+    "asn": "AS215262",
+    "count": 0
+  },
+  {
+    "name": "Ming-Lin Yu",
+    "asn": "AS215256",
+    "count": 0
+  },
+  {
+    "name": "Yu-Jie, Siao",
+    "asn": "AS215195",
+    "count": 0
+  },
+  {
+    "name": "Pin-Yi Kuo",
+    "asn": "AS215192",
+    "count": 0
+  },
+  {
+    "name": "Dong-Han Yang",
+    "asn": "AS215191",
+    "count": 0
+  },
+  {
+    "name": "Ye Zih Sian",
+    "asn": "AS215165",
+    "count": 0
+  },
+  {
+    "name": "Wen-Ju, Chiang",
+    "asn": "AS214939",
+    "count": 0
+  },
+  {
+    "name": "Yong-Sheng Wang",
+    "asn": "AS214901",
+    "count": 0
+  },
+  {
+    "name": "RUI PIN LAI",
+    "asn": "AS214841",
+    "count": 0
+  },
+  {
+    "name": "Wen-Ju, Chiang",
+    "asn": "AS214821",
+    "count": 0
+  },
+  {
+    "name": "Bandi Network",
+    "asn": "AS214084",
+    "count": 0
+  },
+  {
+    "name": "Kai-Wen Zheng",
+    "asn": "AS214030",
+    "count": 0
+  },
+  {
+    "name": "KANG ZHENG OO",
+    "asn": "AS213617",
+    "count": 0
+  },
+  {
+    "name": "CHIEH SHENG LIN",
+    "asn": "AS213428",
+    "count": 0
+  },
+  {
+    "name": "ChiaChin Tsai",
+    "asn": "AS212969",
+    "count": 0
+  },
+  {
+    "name": "PO-LIN HUANG",
+    "asn": "AS212715",
+    "count": 0
+  },
+  {
+    "name": "Chan-Chun Yen",
+    "asn": "AS212534",
+    "count": 0
+  },
+  {
+    "name": "Fubuki Network",
+    "asn": "AS212425",
+    "count": 0
+  },
+  {
+    "name": "Jimmy Pan",
+    "asn": "AS212360",
+    "count": 0
+  },
+  {
+    "name": "Ming-Ray Hsu",
+    "asn": "AS212359",
+    "count": 0
+  },
+  {
+    "name": "Hung Yun Tseng",
+    "asn": "AS212357",
+    "count": 0
+  },
+  {
+    "name": "Ta-Li Lai",
+    "asn": "AS212331",
+    "count": 0
+  },
+  {
+    "name": "Ming-Chien Lee",
+    "asn": "AS212279",
+    "count": 0
+  },
+  {
+    "name": "Wei-Cheng Tsai",
+    "asn": "AS212154",
+    "count": 0
+  },
+  {
+    "name": "Yung-Hsiang Wei",
+    "asn": "AS212057",
+    "count": 0
+  },
+  {
+    "name": "BO SIANG CHEN",
+    "asn": "AS211749",
+    "count": 0
+  },
+  {
+    "name": "Ting Shiuan Guan",
+    "asn": "AS211132",
+    "count": 0
+  },
+  {
+    "name": "Frank Chang",
+    "asn": "AS211042",
+    "count": 0
+  },
+  {
+    "name": "Yu-Cheng Kuo",
+    "asn": "AS210932",
+    "count": 0
+  },
+  {
+    "name": "RECTALE Inc.",
+    "asn": "AS210707",
+    "count": 0
+  },
+  {
+    "name": "Chun-Hung Yang",
+    "asn": "AS210528",
+    "count": 0
+  },
+  {
+    "name": "CHEN-YI WANG",
+    "asn": "AS210445",
+    "count": 0
+  },
+  {
+    "name": "andrew lee",
+    "asn": "AS210401",
+    "count": 0
+  },
+  {
+    "name": "MAOLIN HUANG",
+    "asn": "AS210384",
+    "count": 0
+  },
+  {
+    "name": "Wen-Ting Tseng",
+    "asn": "AS209763",
+    "count": 0
+  },
+  {
+    "name": "CHIOU BO EN",
+    "asn": "AS209470",
+    "count": 0
+  },
+  {
+    "name": "CHENG-YU,WANG",
+    "asn": "AS209100",
+    "count": 0
+  },
+  {
+    "name": "Chien-Hsiang Chen",
+    "asn": "AS208637",
+    "count": 0
+  },
+  {
+    "name": "Chi-Yuan Chen",
+    "asn": "AS208137",
+    "count": 0
+  },
+  {
+    "name": "Jyun-Kai Hu",
+    "asn": "AS207705",
+    "count": 0
+  },
+  {
+    "name": "Sung Yu Li",
+    "asn": "AS207469",
+    "count": 0
+  },
+  {
+    "name": "Li Heng Yu",
+    "asn": "AS207468",
+    "count": 0
+  },
+  {
+    "name": "JING-SHIUN-CHEN",
+    "asn": "AS207389",
+    "count": 0
+  },
+  {
+    "name": "YenPin Kuo",
+    "asn": "AS207142",
+    "count": 0
+  },
+  {
+    "name": "Muilties Network",
+    "asn": "AS205329",
+    "count": 0
+  },
+  {
+    "name": "Mou Chan Yu",
+    "asn": "AS205211",
+    "count": 0
+  },
+  {
+    "name": "Sky Digital Co., Ltd.",
+    "asn": "AS204677",
+    "count": 0
+  },
+  {
+    "name": "WANG SHIH HAN",
+    "asn": "AS204089",
+    "count": 0
+  },
+  {
+    "name": "WANG,XING-KAI",
+    "asn": "AS203843",
+    "count": 0
+  },
+  {
+    "name": "PENG YUJEN",
+    "asn": "AS203472",
+    "count": 0
+  },
+  {
+    "name": "Lin Kai-Lun",
+    "asn": "AS203405",
+    "count": 0
+  },
+  {
+    "name": "TANG MAN TO ANTONY",
+    "asn": "AS202996",
+    "count": 0
+  },
+  {
+    "name": "Wen-Lung Chen",
+    "asn": "AS202881",
+    "count": 0
+  },
+  {
+    "name": "Chih-Jen CHENG",
+    "asn": "AS202820",
+    "count": 0
+  },
+  {
+    "name": "Yang Wen Chen",
+    "asn": "AS202518",
+    "count": 0
+  },
+  {
+    "name": "BO DA LAI",
+    "asn": "AS202412",
+    "count": 0
+  },
+  {
+    "name": "FENG SHENG YUAN",
+    "asn": "AS202260",
+    "count": 0
+  },
+  {
+    "name": "404 Network Information Co.",
+    "asn": "AS201445",
+    "count": 0
+  },
+  {
+    "name": "Chao-Li Wang",
+    "asn": "AS199331",
+    "count": 0
+  },
+  {
+    "name": "CHEN ZHI-HAN",
+    "asn": "AS199203",
+    "count": 0
+  },
+  {
+    "name": "JIAN HUI EN",
+    "asn": "AS198954",
+    "count": 0
+  },
+  {
+    "name": "GAO RUIKANG",
+    "asn": "AS197646",
+    "count": 0
+  },
+  {
+    "name": "PChome Online",
+    "asn": "AS18427",
+    "count": 0
+  },
+  {
+    "name": "NTT Taiwan Ltd.",
+    "asn": "AS18425",
+    "count": 0
+  },
+  {
+    "name": "National Central University",
+    "asn": "AS18420",
+    "count": 0
+  },
+  {
+    "name": "Taiwan IPv6 Development Program.",
+    "asn": "AS18418",
+    "count": 0
+  },
+  {
+    "name": "Taiwan Network Information Center",
+    "asn": "AS18417",
+    "count": 0
+  },
+  {
+    "name": "CHIAOCHIAO Corporation",
+    "asn": "AS18416",
+    "count": 0
+  },
+  {
+    "name": "National Center for High-performance Computing",
+    "asn": "AS18414",
+    "count": 0
+  },
+  {
+    "name": "Taiwan Network Operators' Group (TWNOG)",
+    "asn": "AS18248",
+    "count": 0
+  },
+  {
+    "name": "Academia Sinica",
+    "asn": "AS18217",
+    "count": 0
+  },
+  {
+    "name": "TWIX IPv6 Service Network.(TWIXv6),",
+    "asn": "AS18184",
+    "count": 0
+  },
+  {
+    "name": "Taiwan Network Information Center",
+    "asn": "AS18180",
+    "count": 0
+  },
+  {
+    "name": "Pittqiao Network Information Co.,Ltd.",
+    "asn": "AS18178",
+    "count": 0
+  },
+  {
+    "name": "National Cheng Kung University",
+    "asn": "AS18177",
+    "count": 0
+  },
+  {
+    "name": "Cyberterra Corporation,",
+    "asn": "AS18048",
+    "count": 0
+  },
+  {
+    "name": "Allround TW Global business CO., LTD",
+    "asn": "AS18044",
+    "count": 0
   },
   {
     "name": "GETOP Automatic System Inc.",
     "asn": "AS18043",
-    "count": "0"
+    "count": 0
   },
   {
-    "name": "King-Net Info. Tech. Co., Ltd.",
-    "asn": "AS18044",
-    "count": "0"
+    "name": "Leyun Digital CO., LTD",
+    "asn": "AS18040",
+    "count": 0
+  },
+  {
+    "name": "Ministry of Education Computer Center Taipei, Taiwan",
+    "asn": "AS17717",
+    "count": 0
+  },
+  {
+    "name": "ChungHwa Telecom. Co. Telecommunication Lab.",
+    "asn": "AS17715",
+    "count": 0
+  },
+  {
+    "name": "Chunghwa Telecom Co. , Ltd.",
+    "asn": "AS17714",
+    "count": 0
+  },
+  {
+    "name": "National Chung Cheng University",
+    "asn": "AS17712",
+    "count": 0
+  },
+  {
+    "name": "National Dong Hwa University",
+    "asn": "AS17711",
+    "count": 0
+  },
+  {
+    "name": "NCIC-Lab",
+    "asn": "AS1769",
+    "count": 0
+  },
+  {
+    "name": "NCIC-Backbone2",
+    "asn": "AS1768",
+    "count": 0
+  },
+  {
+    "name": "NYCU Software Development Club",
+    "asn": "AS17657",
+    "count": 0
+  },
+  {
+    "name": "Kuang Shih International Ltd. Ltd",
+    "asn": "AS17502",
+    "count": 0
+  },
+  {
+    "name": "Walks Cloud Inc.",
+    "asn": "AS17422",
+    "count": 0
+  },
+  {
+    "name": "HiNet IPv6 Service Network.,",
+    "asn": "AS17419",
+    "count": 0
+  },
+  {
+    "name": "HUANG HR CO., LTD.",
+    "asn": "AS17418",
+    "count": 0
+  },
+  {
+    "name": "Diyixian.COM (TW) Ltd.",
+    "asn": "AS17417",
+    "count": 0
+  },
+  {
+    "name": "Walks Cloud Inc.",
+    "asn": "AS17414",
+    "count": 0
+  },
+  {
+    "name": "Dodo Ltd.",
+    "asn": "AS17413",
+    "count": 0
+  },
+  {
+    "name": "Yahoo Global Holdings B.V. Taiwan Branch",
+    "asn": "AS152737",
+    "count": 0
+  },
+  {
+    "name": "UWay Information Technology Inc.",
+    "asn": "AS152624",
+    "count": 0
+  },
+  {
+    "name": "MORN MAPLE LTD.",
+    "asn": "AS152621",
+    "count": 0
+  },
+  {
+    "name": "NOT-TFN-CO",
+    "asn": "AS152618",
+    "count": 0
+  },
+  {
+    "name": "IMPROVE SYSTEM TECHNOLOGY CO., LTD.",
+    "asn": "AS152614",
+    "count": 0
+  },
+  {
+    "name": "Code Up Technology Ltd.",
+    "asn": "AS152613",
+    "count": 0
+  },
+  {
+    "name": "SIEMENS LIMITED",
+    "asn": "AS152612",
+    "count": 0
+  },
+  {
+    "name": "404 Network Information Co.",
+    "asn": "AS151188",
+    "count": 0
+  },
+  {
+    "name": "VMWare Incorporation",
+    "asn": "AS151074",
+    "count": 0
+  },
+  {
+    "name": "Topchina",
+    "asn": "AS150773",
+    "count": 0
+  },
+  {
+    "name": "Chief Telecom Inc.",
+    "asn": "AS150765",
+    "count": 0
+  },
+  {
+    "name": "Chief Telecom Inc.",
+    "asn": "AS150764",
+    "count": 0
+  },
+  {
+    "name": "Chief Telecom Inc.",
+    "asn": "AS150763",
+    "count": 0
+  },
+  {
+    "name": "Chief Telecom Inc.",
+    "asn": "AS150762",
+    "count": 0
+  },
+  {
+    "name": "Chief Telecom Inc.",
+    "asn": "AS150761",
+    "count": 0
+  },
+  {
+    "name": "Wolf Feather Culture Information Co., Ltd.",
+    "asn": "AS150759",
+    "count": 0
+  },
+  {
+    "name": "Next Digital Security Cluster",
+    "asn": "AS150758",
+    "count": 0
+  },
+  {
+    "name": "Floppy Ltd.",
+    "asn": "AS150757",
+    "count": 0
+  },
+  {
+    "name": "WUDIKING TECHNOLOGY CO., LTD.",
+    "asn": "AS150754",
+    "count": 0
+  },
+  {
+    "name": "Yu-Shan Tsai",
+    "asn": "AS149423",
+    "count": 0
+  },
+  {
+    "name": "qlhost",
+    "asn": "AS142062",
+    "count": 0
+  },
+  {
+    "name": "CORE WINNER CO.,LIMITED TAIWAN BRANCH",
+    "asn": "AS142061",
+    "count": 0
+  },
+  {
+    "name": "CORE WINNER CO.,LIMITED",
+    "asn": "AS141758",
+    "count": 0
+  },
+  {
+    "name": "SteveYi Experiment Network",
+    "asn": "AS141173",
+    "count": 0
+  },
+  {
+    "name": "Jehovah's Witnesses in Taiwan",
+    "asn": "AS140958",
+    "count": 0
+  },
+  {
+    "name": "Serverfield Co., Ltd.",
+    "asn": "AS138646",
+    "count": 0
+  },
+  {
+    "name": "EXPERT WEB SERVICE CO., LTD.",
+    "asn": "AS137524",
+    "count": 0
+  },
+  {
+    "name": "Sheng You Co., Ltd.",
+    "asn": "AS136816",
+    "count": 0
+  },
+  {
+    "name": "Chen Xiang International Co., Ltd.",
+    "asn": "AS136756",
+    "count": 0
+  },
+  {
+    "name": "Chung Hwa Zi An International Co., Limited",
+    "asn": "AS136444",
+    "count": 0
+  },
+  {
+    "name": "TWT Communication lnc",
+    "asn": "AS136378",
+    "count": 0
+  },
+  {
+    "name": "Fast Distributed Cloud Computing-Technology Co., Ltd.",
+    "asn": "AS135631",
+    "count": 0
+  },
+  {
+    "name": "Ci Yuan Technology Co., Limited",
+    "asn": "AS135561",
+    "count": 0
+  },
+  {
+    "name": "Magna Hosting Ltd",
+    "asn": "AS135387",
+    "count": 0
+  },
+  {
+    "name": "HostingInside LTD.",
+    "asn": "AS134522",
+    "count": 0
+  },
+  {
+    "name": "CHUAN KAI INTERNATIONAL CO., LTD",
+    "asn": "AS133375",
+    "count": 0
+  },
+  {
+    "name": "Shih-Hsin Cable Television Corporation",
+    "asn": "AS132738",
+    "count": 0
+  },
+  {
+    "name": "NetWave CATV Corporation",
+    "asn": "AS132737",
+    "count": 0
+  },
+  {
+    "name": "Winspeed Group International Limited",
+    "asn": "AS132012",
+    "count": 0
+  },
+  {
+    "name": "Ming Yi Tea Farm",
+    "asn": "AS131682",
+    "count": 0
+  },
+  {
+    "name": "Open Unlight Group",
+    "asn": "AS131681",
+    "count": 0
+  },
+  {
+    "name": "Gangu Tech Co., Ltd.",
+    "asn": "AS131679",
+    "count": 0
+  },
+  {
+    "name": "GUAN TING CO., LTD.",
+    "asn": "AS131676",
+    "count": 0
+  },
+  {
+    "name": "OpenRich Technology Co., Ltd.",
+    "asn": "AS131674",
+    "count": 0
+  },
+  {
+    "name": "HTC Corp",
+    "asn": "AS131673",
+    "count": 0
+  },
+  {
+    "name": "WantEasy Info. Co, Ltd.",
+    "asn": "AS131672",
+    "count": 0
+  },
+  {
+    "name": "WELL POWER Tech. Corp.",
+    "asn": "AS131670",
+    "count": 0
+  },
+  {
+    "name": "SIANG YU SCIENCE AND TECHNOLOGY CO., LTD",
+    "asn": "AS131669",
+    "count": 0
+  },
+  {
+    "name": "Taiwan Digital Streaming Co.",
+    "asn": "AS131668",
+    "count": 0
+  },
+  {
+    "name": "NSS INTL CO., LTD.",
+    "asn": "AS131665",
+    "count": 0
+  },
+  {
+    "name": "NSS INTL CO., LTD.",
+    "asn": "AS131664",
+    "count": 0
+  },
+  {
+    "name": "Express2Internet",
+    "asn": "AS131661",
+    "count": 0
+  },
+  {
+    "name": "Game Soul Technology Co., Ltd.",
+    "asn": "AS131658",
+    "count": 0
+  },
+  {
+    "name": "NAN YA PLASTICS CORPORATION",
+    "asn": "AS131656",
+    "count": 0
+  },
+  {
+    "name": "Network Telecommunication Co.,Ltd",
+    "asn": "AS131654",
+    "count": 0
+  },
+  {
+    "name": "Force Cloud Co., Ltd.",
+    "asn": "AS131653",
+    "count": 0
+  },
+  {
+    "name": "Taiwan Mobile Co., Ltd.",
+    "asn": "AS131650",
+    "count": 0
+  },
+  {
+    "name": "Taiwan Mobile Co., Ltd.",
+    "asn": "AS131649",
+    "count": 0
+  },
+  {
+    "name": "Taiwan Mobile Co., Ltd.",
+    "asn": "AS131648",
+    "count": 0
   },
   {
     "name": "Taiwan Mobile Co., Ltd.",
     "asn": "AS131647",
-    "count": "0"
+    "count": 0
+  },
+  {
+    "name": "DW Solutions Ltd.",
+    "asn": "AS131641",
+    "count": 0
+  },
+  {
+    "name": "XinYun Data Exchange Co., Ltd.",
+    "asn": "AS131638",
+    "count": 0
+  },
+  {
+    "name": "Sakura Internet Ltd.",
+    "asn": "AS131633",
+    "count": 0
+  },
+  {
+    "name": "LETSWIN TELECOM CO., LTD.",
+    "asn": "AS131632",
+    "count": 0
+  },
+  {
+    "name": "Sunchi Networks",
+    "asn": "AS131631",
+    "count": 0
+  },
+  {
+    "name": "AsiaPacificNewTechnologies Co. Ltd",
+    "asn": "AS131630",
+    "count": 0
+  },
+  {
+    "name": "CKMATES INTERNATIONAL CO., LTD",
+    "asn": "AS131629",
+    "count": 0
+  },
+  {
+    "name": "NETWAVE CABLE SYSTEM INC",
+    "asn": "AS131625",
+    "count": 0
+  },
+  {
+    "name": "AMATECH",
+    "asn": "AS131624",
+    "count": 0
+  },
+  {
+    "name": "DW Solutions Ltd.",
+    "asn": "AS131622",
+    "count": 0
+  },
+  {
+    "name": "CENTROID-NET",
+    "asn": "AS131617",
+    "count": 0
+  },
+  {
+    "name": "Chief Telecom Inc.",
+    "asn": "AS131616",
+    "count": 0
+  },
+  {
+    "name": "Chief Telecom Inc.",
+    "asn": "AS131615",
+    "count": 0
+  },
+  {
+    "name": "Taiwan Mobile Co., Ltd.",
+    "asn": "AS131614",
+    "count": 0
+  },
+  {
+    "name": "Shin Cheng Digital Co., Ltd.",
+    "asn": "AS131613",
+    "count": 0
+  },
+  {
+    "name": "Internet Dept., Data Communication Group of CHT Ltd.",
+    "asn": "AS131612",
+    "count": 0
+  },
+  {
+    "name": "San Da Cable TV Co., Ltd.",
+    "asn": "AS131611",
+    "count": 0
+  },
+  {
+    "name": "Taiwan Envirotech Development Corp.",
+    "asn": "AS131609",
+    "count": 0
+  },
+  {
+    "name": "Chief Telecom Inc.",
+    "asn": "AS131608",
+    "count": 0
+  },
+  {
+    "name": "Chaoyu Internetwork lnternational Corp",
+    "asn": "AS131604",
+    "count": 0
+  },
+  {
+    "name": "Skycloud Computing co., Ltd.",
+    "asn": "AS131603",
+    "count": 0
+  },
+  {
+    "name": "CHTD, Chunghwa Telecom Co.,Ltd.",
+    "asn": "AS131598",
+    "count": 0
+  },
+  {
+    "name": "New Changhua Digital Cable TV CO,.Ltd",
+    "asn": "AS131597",
+    "count": 0
+  },
+  {
+    "name": "Asia Pacific On-Line Service Inc.",
+    "asn": "AS131594",
+    "count": 0
+  },
+  {
+    "name": "TWT Communication Inc.",
+    "asn": "AS131592",
+    "count": 0
+  },
+  {
+    "name": "Taiwan Cooperative Bank",
+    "asn": "AS131590",
+    "count": 0
+  },
+  {
+    "name": "PUMO NETWORK DIGITAL TECHNOLOGY CO.,LTD",
+    "asn": "AS131585",
+    "count": 0
+  },
+  {
+    "name": "nctaiwan.co.ltd",
+    "asn": "AS131151",
+    "count": 0
+  },
+  {
+    "name": "Education Bureau, Kaohsiung City Government, Taiwan",
+    "asn": "AS131150",
+    "count": 0
+  },
+  {
+    "name": "Taiwan Li Run Ltd.",
+    "asn": "AS131147",
+    "count": 0
+  },
+  {
+    "name": "Chang Gung University",
+    "asn": "AS131146",
+    "count": 0
+  },
+  {
+    "name": "e-MAX NETWORK CORP.",
+    "asn": "AS131145",
+    "count": 0
+  },
+  {
+    "name": "Universal Network Technology",
+    "asn": "AS11467",
+    "count": 0
+  },
+  {
+    "name": "Yuan Ze University Communications Research Center Network",
+    "asn": "AS10153",
+    "count": 0
+  },
+  {
+    "name": "Chief Telecom Inc.",
+    "asn": "AS10133",
+    "count": 0
+  },
+  {
+    "name": "PEER WITH OVERSEA ISP",
+    "asn": "AS10085",
+    "count": 0
   }
 ]

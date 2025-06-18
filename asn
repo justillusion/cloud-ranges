@@ -6,116 +6,11 @@ require 'nokogiri'
 require 'fileutils'
 require 'colorize'
 
+
+TARGET_COUNTRIES = %w[us gb fr de ru au pl ca cn nl id in ua nz mx cz il my ie tw be ky].freeze
+
 @agent = Mechanize.new
-# Adding a proper user-agent to mimic a normal browser
 @agent.user_agent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
-# Add reasonable delay between requests to avoid being blocked
-# @agent.throttle = { :delay => 1 }
-
-def msg(msg)
-  puts "[*] #{msg}".blue
-  $stdout.flush
-end
-
-def countries
-  countries = []
-  html = @agent.get("https://ipinfo.io/countries/").body()
-  Nokogiri::HTML(html).css(".grid.md:grid-cols-3 div").each do |div|
-    link = div.css("a")[0]
-    if link
-      name = link.text
-      url = link["href"].split("/")[2]
-      counts = div.css("span")[0].text
-      country = {"name"=>name, "cc"=>url, "counts"=>counts}
-      countries.push(country)
-    end
-
-    # if td.length > 0
-    #   name = td[0].text
-    #   url = td[0].css("a")[0]["href"].split("/")[2]
-    #   counts = td[1].text
-    #   country = {"name"=>name, "cc"=>url, "counts"=>counts}
-    #   countries.push(country)
-    # end
-  end
-  return countries
-end
-
-def asn(country_code)
-  asns = []
-  begin
-    html = @agent.get("https://ipinfo.io/countries/#{country_code}").body()
-  rescue Mechanize::ResponseCodeError => e
-    puts e.inspect
-    return []  # Return empty array instead of nil
-  end
-  
-  # Fixed CSS selector - the table structure might have changed on the website
-  tables = Nokogiri::HTML(html).css("section.space-y-14")
-  return [] if tables.empty?
-  asn = tables.css('div')[0];
-
-  table = asn.css("table")
-  table.css('tr') do |tr|
-    td = tr.css('td')
-    next if td.empty? || td[0].text.strip.empty?
-
-    begin
-      asn = td[0].css("a")[0]["href"].split("/")[1]
-      name = td[1].text.strip
-      count = td[2].text.strip
-
-      asn_data = {"name"=>name, "asn"=>asn, "count"=>count}
-      asns.push(asn_data)
-    rescue => e
-      puts "Error parsing row: #{e.message}"
-      next
-    end
-  end
-
-  # tables.css("div").each do |tr|
-  #   td = tr.css('td')
-  #   next if td.empty? || td[0].text.strip.empty?
-    
-  #   if td.length > 2 && !td[0].css("a").empty?
-  #     begin
-  #       asn = td[0].css("a")[0]["href"].split("/")[1]
-  #       name = td[1].text.strip
-  #       count = td[2].text.strip
-
-  #       asn_data = {"name"=>name, "asn"=>asn, "count"=>count}
-  #       asns.push(asn_data)
-  #     rescue => e
-  #       puts "Error parsing row: #{e.message}"
-  #       next
-  #     end
-  #   end
-  # end 
-  return asns
-end
-
-def ranges_from_asn(asn)
-  ranges = []
-  begin
-    html = @agent.get("https://ipinfo.io/#{asn}").body
-  rescue Mechanize::ResponseCodeError => e
-    puts e.inspect
-    return []  # Return empty array instead of nil
-  end 
-  
-  # Adding error handling for when the blocks table doesn't exist
-  blocks_table = Nokogiri::HTML(html).css("#block-ranges table tbody tr")
-  return [] if blocks_table.empty?
-  
-  blocks_table.each do |tr|
-    td = tr.css("td")
-    next if td.empty? || td.css("a").empty?
-    
-    range = td.css("a").text.gsub("\n", "").gsub(" ", "")
-    ranges.push(range) unless range.empty?
-  end
-  return ranges
-end
 
 companies = {
   "amazon"=>{
@@ -180,45 +75,99 @@ companies = {
   }
 }
 
-FileUtils.mkdir_p 'index'
-FileUtils.mkdir_p 'companies'
 
-countries = ["us", "gb", "fr", "de", "ru", "au", "pl", "ca", "cn", "nl", "id", "in", "ua", "nz", "mx", "cz", "il", "my", "ie", "tw", "be", "ky"]
-# countries = ["us", "gb", "ie", "fr", "au", "ru", "ca"]
+def msg(text)
+  puts "[*] #{text}".blue
+  $stdout.flush
+end
 
-### Iterate and pull company names with ASN numbers and write to JSON files.
-countries.each do |country|
-  if !File.exist? "index/#{country}.json"
-    msg "Pulling ASN data for #{country}.."
-    country_data = asn(country)
-    
-    if !country_data.empty?
-      File.open("index/#{country}.json", "w") {|file|file.write(JSON.pretty_generate(country_data))}
-      # Add a reasonable delay between requests
-      msg "Waiting 5 seconds to avoid rate limiting..."
-      sleep 5
+def safe_read_json(path)
+  JSON.parse(File.read(path))
+rescue StandardError => e
+  msg "Error reading #{path}: #{e.message}"
+  {}
+end
+
+def write_json(path, data)
+  File.write(path, JSON.pretty_generate(data))
+end
+
+def request_with_retry(url, max_retries = 3, base_delay = 5)
+  retries = 0
+  begin
+    @agent.get(url)
+  rescue Mechanize::ResponseCodeError => e
+    if %w[429 503].include?(e.response_code) && retries < max_retries
+      retries += 1
+      delay = base_delay * (2**(retries - 1))
+      msg "Rate limited (#{e.response_code}). Retry in #{delay}s..."
+      sleep delay
+      retry
     else
-      msg "No data found for #{country}, skipping..."
-      next
+      raise e
     end
   end
-  
+end
+
+# Logic
+def asn(country_code, page = 0, asns = [])
+  url = "https://ipinfo.io/api/data/asns?country=#{country_code}&amount=20&page=#{page}"
+  msg "Fetching #{url}"
+
   begin
-    country_data = JSON.parse(File.open("index/#{country}.json", "r").read())
-  rescue JSON::ParserError => e
-    msg "Error parsing JSON for #{country}: #{e.message}"
-    next
+    response = request_with_retry(url)
+    data = JSON.parse(response.body)
+  rescue Mechanize::ResponseCodeError, JSON::ParserError => e
+    msg "Error fetching ASN for #{country_code}: #{e}"
+    return asns
   end
 
-  # Iterate through each company in country JSON
-  country_data.each do |company|
-    companyname = company["name"].downcase
-    
-    companies.keys.each do |company_f|
-      # If ASN name includes the "glob" push it to the ASN array
-      if companyname.include? companies[company_f]["glob"].downcase
-        asn = company["asn"]
-        companies[company_f]["asn"][asn] = []
+  return asns if data.empty?
+
+  parsed = data.map { |item| { "name" => item['name'], "asn" => item['asn'], "count" => item['numberOfIps'] } }
+  asns.concat(parsed)
+
+  sleep 0.5
+  asn(country_code, page + 1, asns)
+end
+
+def ranges_from_asn(asn)
+  url = "https://ipinfo.io/#{asn}"
+  msg "Fetching ranges for #{asn}"
+  begin
+    html = @agent.get(url).body
+    Nokogiri::HTML(html).css("#block-ranges table tbody tr").map do |row|
+      row.css("td a").text.strip
+    end.reject(&:empty?)
+  rescue => e
+    msg "Error fetching #{asn}: #{e}"
+    []
+  end
+end
+
+
+FileUtils.mkdir_p(['index', 'companies', 'all'])
+
+TARGET_COUNTRIES.each do |country|
+  index_file = "index/#{country}.json"
+
+  unless File.exist?(index_file)
+    data = asn(country)
+    if data.empty?
+      msg "No ASN data for #{country}, skipping..."
+      next
+    end
+    write_json(index_file, data)
+    sleep 5
+  end
+
+  data = safe_read_json(index_file)
+  data.each do |entry|
+    name = entry["name"].downcase
+    companies.each do |key, cfg|
+      if name.include?(cfg["glob"].downcase)
+        companies[key]["asn"] ||= {}
+        companies[key]["asn"][entry["asn"]] ||= []
       end
     end
   end
@@ -226,80 +175,39 @@ end
 
 global_ranges = ""
 
-companies.keys.each do |company|
-  FileUtils.mkdir_p "companies/#{company}/"
-  company_data = {}
-  
-  if File.exist? "companies/#{company}/#{company}.json"
-    begin
-      company_data = JSON.parse(File.open("companies/#{company}/#{company}.json", "r").read())
-    rescue JSON::ParserError => e
-      msg "Error parsing JSON for #{company}: #{e.message}"
-      company_data = {"asn" => {}}
-    end
+companies.each do |company, cfg|
+  dir = "companies/#{company}"
+  FileUtils.mkdir_p(dir)
+  file = "#{dir}/#{company}.json"
+  data = File.exist?(file) ? safe_read_json(file) : { "asn" => {} }
 
-    if !File.exist? "companies/#{company}/ranges.txt"
-      ranges_file = File.open("companies/#{company}/ranges.txt", "w")
-      if company_data.has_key?("asn") && !company_data["asn"].empty?
-        company_data["asn"].keys.each do |asn|
-          company_data["asn"][asn].each do |asn_ranges|
-            asn_ranges.each do |range|
-              ranges_file.write("#{range}\n")
-              global_ranges += "#{range}\n"
-            end
-          end
-        end
-      end
-      ranges_file.close
-    else
-      # If ranges.txt already exists, add to global_ranges
-      if company_data.has_key?("asn")
-        company_data["asn"].each do |asn, range_data|
-          range_data.each do |ranges|
-            ranges.each do |range|
-              global_ranges += "#{range}\n"
-            end
-          end
-        end
-      end
-    end
-  else
-    # Create new company data if file doesn't exist
-    company_data = {"asn" => {}}
-  end  
+  cfg["asn"].each_key do |asn|
+    next if data["asn"].key?(asn) && !data["asn"][asn].empty?
 
-  # Make a copy of the glob property to preserve it
-  glob_value = companies[company]["glob"]
-  
-  companies[company]["asn"].keys.each do |asn|
-    if company_data.has_key?("asn") && company_data["asn"].has_key?(asn)
-      if company_data["asn"][asn].empty?
-        msg "Pulling #{asn} for #{company}"
-        range_data = ranges_from_asn(asn)
-        if !range_data.empty?
-          company_data["asn"][asn] = [range_data]
+    ranges = ranges_from_asn(asn)
+    next if ranges.empty?
+
+    data["asn"][asn] = [ranges]
+    write_json(file, data)
+    sleep 3
+  end
+
+  ranges_txt = "#{dir}/ranges.txt"
+  unless File.exist?(ranges_txt)
+    File.open(ranges_txt, "w") do |f|
+      data["asn"].each_value do |asn_ranges|
+        asn_ranges.flatten.each do |r|
+          f.puts r
+          global_ranges << "#{r}\n"
         end
-        File.open("companies/#{company}/#{company}.json", "w") { |file| file.write(JSON.pretty_generate(company_data)) }
-        # Add delay between requests
-        sleep 3
       end
-    else
-      msg "Pulling #{asn} for #{company}"
-      range_data = ranges_from_asn(asn)
-      if !range_data.empty?
-        company_data["asn"][asn] = [range_data]
-      end
-      File.open("companies/#{company}/#{company}.json", "w") { |file| file.write(JSON.pretty_generate(company_data)) }
-      # Add delay between requests
-      sleep 3
     end
   end
-  
-  # Restore the glob property
-  companies[company]["glob"] = glob_value
+
+  data["asn"].each_value do |asn_ranges|
+    asn_ranges.flatten.each { |r| global_ranges << "#{r}\n" }
+  end
 end
 
-FileUtils.mkdir_p "all"
-File.open("all/ranges.txt", "w") {|file| file.write(global_ranges) }
-
-msg "Script completed successfully!"
+File.write("all/ranges.txt", global_ranges)
+msg "✅ Script completed successfully!"

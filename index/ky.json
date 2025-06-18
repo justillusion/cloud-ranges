@@ -1,72 +1,92 @@
 [
   {
-    "name": "Cable & Wireless (Cayman Islands) Ltd.",
-    "asn": "AS6639",
-    "count": "26,624"
-  },
-  {
-    "name": "Uniregistry Corp.",
-    "asn": "AS62831",
-    "count": "24,576"
-  },
-  {
     "name": "WestTel Ltd.",
     "asn": "AS36549",
-    "count": "20,992"
+    "count": 38144
   },
   {
-    "name": "TeleCayman",
-    "asn": "AS16705",
-    "count": "9,472"
-  },
-  {
-    "name": "Uniregistry Corp.",
-    "asn": "AS63363",
-    "count": "4,352"
-  },
-  {
-    "name": "Uniregistry Corp.",
-    "asn": "AS393818",
-    "count": "4,352"
-  },
-  {
-    "name": "WestStar TV Ltd",
-    "asn": "AS21744",
-    "count": "3,328"
+    "name": "Cable & Wireless (Cayman Islands) Ltd.",
+    "asn": "AS6639",
+    "count": 27648
   },
   {
     "name": "Infinity Broadband Ltd",
     "asn": "AS16437",
-    "count": "2,816"
-  },
-  {
-    "name": "DirectNIC, Ltd.",
-    "asn": "AS3962",
-    "count": "2,048"
+    "count": 6912
   },
   {
     "name": "Digicel Cayman Limited",
     "asn": "AS13771",
-    "count": "2,048"
+    "count": 1792
+  },
+  {
+    "name": "Butterfly Research",
+    "asn": "AS3402",
+    "count": 1280
   },
   {
     "name": "SALT",
     "asn": "AS397343",
-    "count": "1,024"
+    "count": 1024
+  },
+  {
+    "name": "Zero Position",
+    "asn": "AS53891",
+    "count": 768
+  },
+  {
+    "name": "SALT",
+    "asn": "AS398831",
+    "count": 256
   },
   {
     "name": "SALT",
     "asn": "AS398132",
-    "count": "256"
+    "count": 256
+  },
+  {
+    "name": "Twinstake Limited",
+    "asn": "AS214434",
+    "count": 256
+  },
+  {
+    "name": "GlobalCache Technology CO.,Ltd.",
+    "asn": "AS57015",
+    "count": 0
   },
   {
     "name": "DirectNIC, Ltd.",
     "asn": "AS4935",
-    "count": "0"
+    "count": 0
   },
   {
-    "name": "Parked.com, Ltd.",
-    "asn": "AS2720",
-    "count": "0"
+    "name": "SALT",
+    "asn": "AS399548",
+    "count": 0
+  },
+  {
+    "name": "DirectNIC, Ltd.",
+    "asn": "AS3962",
+    "count": 0
+  },
+  {
+    "name": "WestTel Ltd.",
+    "asn": "AS21744",
+    "count": 0
+  },
+  {
+    "name": "Malbec Labs",
+    "asn": "AS21682",
+    "count": 0
+  },
+  {
+    "name": "DoubleZero Foundation",
+    "asn": "AS209321",
+    "count": 0
+  },
+  {
+    "name": "WestTel Ltd.",
+    "asn": "AS16705",
+    "count": 0
   }
 ]
